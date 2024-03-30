@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1667C38A-AEA3-3564-ADBC-5CD9C434C173}|Intermediate\\ProjectFiles\\Skateboarding.vcxproj|C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\CharacterParent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1667C38A-AEA3-3564-ADBC-5CD9C434C173}|Intermediate\\ProjectFiles\\Skateboarding.vcxproj|solutionrelative:Source\\Skateboarding\\CharacterParent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1667C38A-AEA3-3564-ADBC-5CD9C434C173}|Intermediate\\ProjectFiles\\Skateboarding.vcxproj|C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\CharacterParent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1667C38A-AEA3-3564-ADBC-5CD9C434C173}|Intermediate\\ProjectFiles\\Skateboarding.vcxproj|solutionrelative:Source\\Skateboarding\\CharacterParent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Skateboarding\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1667C38A-AEA3-3564-ADBC-5CD9C434C173}|Intermediate\\ProjectFiles\\Skateboarding.vcxproj|C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\CharacterParent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1667C38A-AEA3-3564-ADBC-5CD9C434C173}|Intermediate\\ProjectFiles\\Skateboarding.vcxproj|solutionrelative:Source\\Skateboarding\\CharacterParent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Skateboarding\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\Skateboarding\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Obstacle.cpp",
               "DocumentMoniker": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.cpp",
               "RelativeDocumentMoniker": "Source\\Skateboarding\\Obstacle.cpp",
               "ToolTip": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.cpp",
               "RelativeToolTip": "Source\\Skateboarding\\Obstacle.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T19:49:56.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Obstacle.h",
               "DocumentMoniker": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.h",
               "RelativeDocumentMoniker": "Source\\Skateboarding\\Obstacle.h",
               "ToolTip": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Obstacle.h",
               "RelativeToolTip": "Source\\Skateboarding\\Obstacle.h",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCAAAAAfAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-30T19:49:55.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CharacterParent.cpp",
               "DocumentMoniker": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\CharacterParent.cpp",
               "RelativeDocumentMoniker": "Source\\Skateboarding\\CharacterParent.cpp",
@@ -85,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CharacterParent.h",
               "DocumentMoniker": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\CharacterParent.h",
               "RelativeDocumentMoniker": "Source\\Skateboarding\\CharacterParent.h",
               "ToolTip": "C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\CharacterParent.h",
               "RelativeToolTip": "Source\\Skateboarding\\CharacterParent.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAeAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-30T19:37:57.725Z",
               "EditorCaption": ""

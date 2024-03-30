@@ -32,4 +32,6 @@ public:
 		void AddPoint();
 		void AddPoint_Implementation();//call BP function after C++ function
 
+	UFUNCTION(BlueprintCallable)
+	FORCEINLINE int32 GetPoints() { return pointsCounter; };
 };

@@ -24,12 +24,20 @@ void AObstacle::BeginPlay()
 
 }
 
+void AObstacle::Tick(float DeltaTime)
+{
+	//GEngine->AddOnScreenDebugMessage(-1, 4.f, FColor::Green, TEXT("dsds"));
+
+}
+
 void AObstacle::PlayerDetectorBeginOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
+	GEngine->AddOnScreenDebugMessage(-1, 4.f, FColor::Green, FString::Printf(TEXT("%s"), *OtherComp->GetName()));
+
 	if (OtherActor) {
 		ACharacterParent* Player = Cast<ACharacterParent>(OtherActor);
 		if (Player) {
-
+			Player->AddPoint();
 		}
 	}
 }

@@ -36,9 +36,11 @@
 /FUNCTIONPADMIN:6
 "C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\SkateboardingEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\CharacterParent.gen.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Obstacle.gen.cpp.obj"
 "C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Skateboarding.init.gen.cpp.obj"
-"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Skateboarding.cpp.obj"
 "C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\CharacterParent.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Skateboarding.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Obstacle.cpp.obj"
 "C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
