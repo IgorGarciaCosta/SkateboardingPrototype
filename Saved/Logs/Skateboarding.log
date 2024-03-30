@@ -1199,3 +1199,783 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.03.30-18.27.21:649][400]LogSlate: Window 'View Changes' being destroyed
 [2024.03.30-18.30.04:922][401]LogSourceControl: Warning: '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/' is not part of a Git repository
 [2024.03.30-18.30.35:603][ 48]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.03.30-18.39.20:258][799]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:256][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:257][541]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.39.43:374][541]EditorErrors: Warning: No assets to check in!
+[2024.03.30-18.40.08:412][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-18.40.08:420][994]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.30-18.40.08:420][994]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.30-18.40.08:423][994]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms
+[2024.03.30-18.40.08:424][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-18.40.08:424][994]PIE: New page: PIE session: ThirdPersonMap (Mar 30, 2024, 12:40:08 PM)
+[2024.03.30-18.40.08:428][994]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.03.30-18.40.08:428][994]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.03.30-18.40.08:428][994]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-18.40.08:432][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003535s)
+[2024.03.30-18.40.08:432][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003574s)
+[2024.03.30-18.40.08:436][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.30-18.40.08:437][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.40.08:437][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.40.08:437][994]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.30-18.40.08:438][994]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.30-18.40.08:438][994]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.30-18.40.08:438][994]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.30-18.40.08:438][994]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.30-18.40.08:439][994]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.30-18.40.08:439][994]LogWorldPartition: Display: WorldPartition initialize took 892 us (total: 61 ms)
+[2024.03.30-18.40.08:439][994]LogPlayLevel: PIE: World Init took: (0.002220s)
+[2024.03.30-18.40.08:439][994]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-18.40.08:439][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-18.40.08:439][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-18.40.08:439][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-18.40.08:439][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-18.40.08:439][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-18.40.08:441][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-18.40.08:506][994]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-18.40.08:506][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-18.40.08:506][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-18.40.08:506][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-18.40.08:507][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.03.30-18.40.08:507][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.03.30-18.40.08:508][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.03.30-18.40.08:508][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.03.30-18.40.08:508][994]LogInit: FAudioDevice initialized with ID 2.
+[2024.03.30-18.40.08:508][994]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.03.30-18.40.08:508][994]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.30-18.40.08:511][994]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-18.40.08:513][994]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.03.30-15.40.08
+[2024.03.30-18.40.08:513][994]LogWorld: Bringing up level for play took: 0.001448
+[2024.03.30-18.40.08:515][994]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.03.30-18.40.08:523][994]PIE: Server logged in
+[2024.03.30-18.40.08:524][994]PIE: Play in editor total start time 0.104 seconds.
+[2024.03.30-18.40.13:989][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-18.40.13:989][315]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-18.40.13:989][315]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.40.13:989][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.40.13:990][315]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.30-18.40.13:993][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-18.40.13:995][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.40.13:998][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-18.40.13:998][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.03.30-18.40.13:998][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.30-18.40.14:000][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.03.30-18.40.14:007][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.30-18.40.14:069][316]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.03.30-18.41.14:704][884]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-18.41.14:726][884]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-18.41.14:735][885]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-18.41.16:697][  3]LogContentBrowser: Attempting asset rename: NewFolder -> meshes
+[2024.03.30-18.41.16:697][  3]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-18.41.19:652][162]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-18.41.19:658][162]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-18.41.19:688][164]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-18.41.20:668][223]LogContentBrowser: Attempting asset rename: NewFolder -> skate
+[2024.03.30-18.41.20:669][223]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-18.41.35:740][378]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.03.30-18.41.35:746][378]LogInterchangeEngine: [Pending] Importing
+[2024.03.30-18.41.35:746][378]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Do...06-99b0-00578a0c6ef1/11703_skateboard_v1_L3.mtl]
+[2024.03.30-18.41.35:747][378]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.30-18.41.35:747][378]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Do...06-99b0-00578a0c6ef1/11703_skateboard_v1_L3.obj]
+[2024.03.30-18.41.35:748][378]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.03.30-18.41.35:748][378]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Do...06-99b0-00578a0c6ef1/skateboard_diffuse.jpg]
+[2024.03.30-18.41.35:750][378]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2024.03.30-18.41.35:751][378]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2024.03.30-18.41.35:751][378]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/skateboard_V1_L3.123c410c5d93-67f0-4d06-99b0-00578a0c6ef1/skateboard_diffuse.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.03.30-18.41.35:829][379]LogTexture: Display: Building textures: /Game/meshes/skate/skateboard_diffuse.skateboard_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.41.35:842][379]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.30-18.41.35:850][379]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.03.30-18.41.35:896][380]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.03.30-18.41.36:286][387]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.41.36:638][397]LogTexture: Display: Building textures: /Game/meshes/skate/TEX_skateboard_diffuse.TEX_skateboard_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.41.36:721][399]LogStaticMesh: Display: Building static mesh skateboard_trucks_group_nut_2...
+[2024.03.30-18.41.36:721][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_6...
+[2024.03.30-18.41.36:722][399]LogStaticMesh: Display: Building static mesh skateboard_trucks_group_bolt_2...
+[2024.03.30-18.41.36:722][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_4...
+[2024.03.30-18.41.36:723][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_5...
+[2024.03.30-18.41.36:724][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_7...
+[2024.03.30-18.41.36:729][399]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/meshes/skate/TEX_skateboard_diffuse) ...
+[2024.03.30-18.41.36:757][399]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+[2024.03.30-18.41.36:758][399]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+[2024.03.30-18.41.36:758][399]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+[2024.03.30-18.41.36:758][399]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+[2024.03.30-18.41.36:762][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_8...
+[2024.03.30-18.41.36:763][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_2...
+[2024.03.30-18.41.36:763][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_3...
+[2024.03.30-18.41.36:763][399]LogStaticMesh: Display: Building static mesh skateboard_group_bolt_1...
+[2024.03.30-18.41.36:765][399]LogStaticMesh: Display: Building static mesh skateboard_board1...
+[2024.03.30-18.41.36:795][399]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+[2024.03.30-18.41.36:796][399]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+[2024.03.30-18.41.36:799][399]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+[2024.03.30-18.41.36:800][399]LogStaticMesh: Display: Building static mesh skateboard_wheel_03...
+[2024.03.30-18.41.36:800][399]LogStaticMesh: Display: Building static mesh skateboard_wheel_04...
+[2024.03.30-18.41.36:801][400]Interchange: Error: XML parse error in C:\Users\ISILV125\Downloads\skateboard_V1_L3.123c410c5d93-67f0-4d06-99b0-00578a0c6ef1\11703_skateboard_v1_L3.mtl (No document element found at character 939)
+[2024.03.30-18.41.36:801][400]Interchange: Error: There was no data to import in the provided source data.
+[2024.03.30-18.41.36:801][400]Interchange: Warning: Renamed Assets:
+ OriginalName:[/Game/meshes/skate/skateboard_board] NewName:[/Game/meshes/skate/skateboard_board1]
+[2024.03.30-18.41.36:801][400]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+[2024.03.30-18.41.36:803][400]LogStaticMesh: Display: Building static mesh skateboard_wheel_01...
+[2024.03.30-18.41.36:805][400]LogStaticMesh: Display: Building static mesh skateboard_wheel_02...
+[2024.03.30-18.41.36:814][400]LogStaticMesh: Built static mesh [0.09s] /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2
+[2024.03.30-18.41.36:827][400]LogStaticMesh: Display: Building static mesh skateboard_trucks_1...
+[2024.03.30-18.41.36:893][400]LogStaticMesh: Built static mesh [0.09s] /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03
+[2024.03.30-18.41.36:893][400]LogStaticMesh: Built static mesh [0.09s] /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01
+[2024.03.30-18.41.36:894][400]LogStaticMesh: Built static mesh [0.09s] /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04
+[2024.03.30-18.41.36:901][400]LogStaticMesh: Built static mesh [0.10s] /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02
+[2024.03.30-18.41.36:908][400]LogStaticMesh: Display: Building static mesh skateboard_trucks_2...
+[2024.03.30-18.41.36:919][400]LogInterchangeEngine: [Success] Import Done
+[2024.03.30-18.41.36:924][400]LogStaticMesh: Built static mesh [0.16s] /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.41.36:944][400]LogInterchangeEngine: [Success] Import Done
+[2024.03.30-18.41.36:948][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.41.37:093][400]LogStaticMesh: Built static mesh [0.27s] /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+[2024.03.30-18.41.37:177][401]LogStaticMesh: Built static mesh [0.27s] /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2
+[2024.03.30-18.41.37:276][401]LogStaticMesh: Built static mesh [0.55s] /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: ================================================
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: RAM used: 19.74 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 1.11 s
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 1.14
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Shader code size: average 32.016 KiB, min 32.016 KiB, max 32.016 KiB
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.14 s
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Average processing rate: 0.87 jobs/sec
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Total thread time: 0.116 s
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Total thread preprocess time: 0.02 s
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Percentage time preprocessing: 17.47%
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Effective parallelization: 0.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.03.30-18.41.38:135][448]LogShaderCompilers: Display: ================================================
+[2024.03.30-18.41.38:366][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.41.38:617][472]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient' is outside repository at 'C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding'
+[2024.03.30-18.41.38:945][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.30-18.41.38:946][487]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.006
+[2024.03.30-18.41.38:948][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_diffuse] ([1] browsable assets)...
+[2024.03.30-18.41.38:951][487]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/meshes/skate/skateboard_diffuse.skateboard_diffuse]
+[2024.03.30-18.41.38:951][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_diffuse]
+[2024.03.30-18.41.38:958][487]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006175 seconds
+[2024.03.30-18.41.38:968][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_diffuse_Auto1
+[2024.03.30-18.41.38:968][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_diffuse_Auto1FEF8C79D4C7799229E9E06B52F77D7EB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_diffuse_Auto1.uasset'
+[2024.03.30-18.41.38:971][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/TEX_skateboard_diffuse] ([1] browsable assets)...
+[2024.03.30-18.41.38:972][487]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/meshes/skate/TEX_skateboard_diffuse.TEX_skateboard_diffuse]
+[2024.03.30-18.41.38:972][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/TEX_skateboard_diffuse]
+[2024.03.30-18.41.38:980][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/TEX_skateboard_diffuse_Auto1
+[2024.03.30-18.41.38:980][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/TEX_skateboard_diffuse_Auto18B1127FE4CCDF3DEB08B84916A0CBAFB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/TEX_skateboard_diffuse_Auto1.uasset'
+[2024.03.30-18.41.38:982][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_metal] ([1] browsable assets)...
+[2024.03.30-18.41.39:991][487]OBJ SavePackage:     Rendered thumbnail for [Material /Game/meshes/skate/skateboard_metal.skateboard_metal]
+[2024.03.30-18.41.39:991][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_metal]
+[2024.03.30-18.41.39:997][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_metal_Auto1
+[2024.03.30-18.41.39:997][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_metal_Auto1F2E8F8B14E2B3CEE8BB9CBA1E3735C78.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_metal_Auto1.uasset'
+[2024.03.30-18.41.39:999][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_board] ([1] browsable assets)...
+[2024.03.30-18.41.40:013][487]OBJ SavePackage:     Rendered thumbnail for [Material /Game/meshes/skate/skateboard_board.skateboard_board]
+[2024.03.30-18.41.40:013][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_board]
+[2024.03.30-18.41.40:018][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_board_Auto1
+[2024.03.30-18.41.40:018][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_board_Auto13381CE4549C1D6D4AFA7FAAAE4ED469A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_board_Auto1.uasset'
+[2024.03.30-18.41.40:020][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_wheel_4] ([1] browsable assets)...
+[2024.03.30-18.41.40:033][487]OBJ SavePackage:     Rendered thumbnail for [Material /Game/meshes/skate/skateboard_wheel_4.skateboard_wheel_4]
+[2024.03.30-18.41.40:033][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_wheel_4]
+[2024.03.30-18.41.40:038][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_wheel_4_Auto1
+[2024.03.30-18.41.40:038][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_4_Auto10F99A12F409A5A1E170693A27E9B3F41.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_wheel_4_Auto1.uasset'
+[2024.03.30-18.41.40:040][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_trucks_group_nut_2] ([1] browsable assets)...
+[2024.03.30-18.41.40:046][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2]
+[2024.03.30-18.41.40:046][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_trucks_group_nut_2]
+[2024.03.30-18.41.40:063][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_trucks_group_nut_2_Auto1
+[2024.03.30-18.41.40:063][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_group_nut_2_AuB2777C834C9D9596A83C459D6C5A171E.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_trucks_group_nut_2_Auto1.uasset'
+[2024.03.30-18.41.40:065][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_6] ([1] browsable assets)...
+[2024.03.30-18.41.40:072][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6]
+[2024.03.30-18.41.40:072][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_6]
+[2024.03.30-18.41.40:078][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_6_Auto1
+[2024.03.30-18.41.40:078][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_6_Auto14D5AAA3F4181BC6C750C35A7CC116DE7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_6_Auto1.uasset'
+[2024.03.30-18.41.40:080][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_trucks_group_bolt_2] ([1] browsable assets)...
+[2024.03.30-18.41.40:086][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2]
+[2024.03.30-18.41.40:086][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_trucks_group_bolt_2]
+[2024.03.30-18.41.40:092][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_trucks_group_bolt_2_Auto1
+[2024.03.30-18.41.40:092][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_group_bolt_2_A9FD7F7B44FD273A056B7569FB94994F8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_trucks_group_bolt_2_Auto1.uasset'
+[2024.03.30-18.41.40:094][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_4] ([1] browsable assets)...
+[2024.03.30-18.41.40:099][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4]
+[2024.03.30-18.41.40:099][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_4]
+[2024.03.30-18.41.40:105][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_4_Auto1
+[2024.03.30-18.41.40:106][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_4_Auto134EF343C463A3D33664D04BCA303A1DF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_4_Auto1.uasset'
+[2024.03.30-18.41.40:107][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_5] ([1] browsable assets)...
+[2024.03.30-18.41.40:113][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5]
+[2024.03.30-18.41.40:113][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_5]
+[2024.03.30-18.41.40:119][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_5_Auto1
+[2024.03.30-18.41.40:119][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_5_Auto16A13F42949080FAC3AEFB2A84F245D4F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_5_Auto1.uasset'
+[2024.03.30-18.41.40:121][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_7] ([1] browsable assets)...
+[2024.03.30-18.41.40:126][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7]
+[2024.03.30-18.41.40:126][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_7]
+[2024.03.30-18.41.40:132][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_7_Auto1
+[2024.03.30-18.41.40:132][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_7_Auto1114D494746D912AFA90605BC909C6B62.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_7_Auto1.uasset'
+[2024.03.30-18.41.40:134][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_8] ([1] browsable assets)...
+[2024.03.30-18.41.40:139][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8]
+[2024.03.30-18.41.40:140][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_8]
+[2024.03.30-18.41.40:145][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_8_Auto1
+[2024.03.30-18.41.40:146][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_8_Auto1C3DCC4F04B48D6C9C6A28EA25467A179.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_8_Auto1.uasset'
+[2024.03.30-18.41.40:148][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_3] ([1] browsable assets)...
+[2024.03.30-18.41.40:153][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3]
+[2024.03.30-18.41.40:153][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_3]
+[2024.03.30-18.41.40:159][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_3_Auto1
+[2024.03.30-18.41.40:159][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_3_Auto1A51309B845349426755EBCAA913094BA.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_3_Auto1.uasset'
+[2024.03.30-18.41.40:161][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_2] ([1] browsable assets)...
+[2024.03.30-18.41.40:166][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2]
+[2024.03.30-18.41.40:166][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_2]
+[2024.03.30-18.41.40:172][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_2_Auto1
+[2024.03.30-18.41.40:172][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_2_Auto1AE090FCE4DCAF69A1C25A08F32F8ECE9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_2_Auto1.uasset'
+[2024.03.30-18.41.40:174][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_group_bolt_1] ([1] browsable assets)...
+[2024.03.30-18.41.40:180][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1]
+[2024.03.30-18.41.40:180][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_group_bolt_1]
+[2024.03.30-18.41.40:186][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_group_bolt_1_Auto1
+[2024.03.30-18.41.40:186][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_1_Auto1604B2E6B41AC736C3E5861A12F36A774.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_group_bolt_1_Auto1.uasset'
+[2024.03.30-18.41.40:188][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_board1] ([1] browsable assets)...
+[2024.03.30-18.41.40:193][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1]
+[2024.03.30-18.41.40:193][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_board1]
+[2024.03.30-18.41.40:202][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_board1_Auto1
+[2024.03.30-18.41.40:202][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_board1_Auto1C08BE04C4A1B88FF2EFF59A52E76CC53.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_board1_Auto1.uasset'
+[2024.03.30-18.41.40:204][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_wheel_03] ([1] browsable assets)...
+[2024.03.30-18.41.40:210][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03]
+[2024.03.30-18.41.40:210][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_wheel_03]
+[2024.03.30-18.41.40:218][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_wheel_03_Auto1
+[2024.03.30-18.41.40:218][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_03_Auto1A72E3AE44B4FB0B0F4F839A4A9C5D1A4.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_wheel_03_Auto1.uasset'
+[2024.03.30-18.41.40:220][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_wheel_04] ([1] browsable assets)...
+[2024.03.30-18.41.40:226][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04]
+[2024.03.30-18.41.40:226][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_wheel_04]
+[2024.03.30-18.41.40:233][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_wheel_04_Auto1
+[2024.03.30-18.41.40:233][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_04_Auto1548F38E444AD1B9AD6A36A9EBF066311.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_wheel_04_Auto1.uasset'
+[2024.03.30-18.41.40:235][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_wheel_01] ([1] browsable assets)...
+[2024.03.30-18.41.40:241][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01]
+[2024.03.30-18.41.40:241][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_wheel_01]
+[2024.03.30-18.41.40:249][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_wheel_01_Auto1
+[2024.03.30-18.41.40:249][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_01_Auto145F36AD04EA62055EB0FACBFCE0315B3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_wheel_01_Auto1.uasset'
+[2024.03.30-18.41.40:251][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_wheel_02] ([1] browsable assets)...
+[2024.03.30-18.41.40:256][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02]
+[2024.03.30-18.41.40:256][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_wheel_02]
+[2024.03.30-18.41.40:264][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_wheel_02_Auto1
+[2024.03.30-18.41.40:264][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_02_Auto1DE980D3443CCAB73211862A20BE3A35D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_wheel_02_Auto1.uasset'
+[2024.03.30-18.41.40:266][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_trucks_1] ([1] browsable assets)...
+[2024.03.30-18.41.40:272][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1]
+[2024.03.30-18.41.40:272][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_trucks_1]
+[2024.03.30-18.41.40:284][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_trucks_1_Auto1
+[2024.03.30-18.41.40:284][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_1_Auto1DF22CDE747D62E0A1D6C21ACAB593FC9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_trucks_1_Auto1.uasset'
+[2024.03.30-18.41.40:286][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/skate/skateboard_trucks_2] ([1] browsable assets)...
+[2024.03.30-18.41.40:291][487]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2]
+[2024.03.30-18.41.40:291][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/skate/skateboard_trucks_2]
+[2024.03.30-18.41.40:303][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/skate/skateboard_trucks_2_Auto1
+[2024.03.30-18.41.40:303][487]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_2_Auto178AD92174DEA1F0A87726FA3A453D015.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/skate/skateboard_trucks_2_Auto1.uasset'
+[2024.03.30-18.41.40:305][487]LogFileHelpers: Auto-saving content packages took 1.358
+[2024.03.30-18.41.49:083][996]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.41.49:135][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.41.49:135][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.41.49:597][996]LogViewport: Scene viewport resized to 832x538, mode Windowed.
+[2024.03.30-18.41.49:622][996]LogSlate: Took 0.002747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.30-18.41.56:178][374]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.03.30-18.41.56:599][399]LogSlate: Window 'skateboard_board1' being destroyed
+[2024.03.30-18.42.52:219][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.42.52:219][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.42.52:220][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2024.03.30-18.42.52:221][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+[2024.03.30-18.42.52:221][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+[2024.03.30-18.42.52:221][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2024.03.30-18.42.52:221][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+[2024.03.30-18.42.52:221][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+[2024.03.30-18.42.52:222][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2024.03.30-18.42.52:222][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+[2024.03.30-18.42.52:222][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+[2024.03.30-18.42.52:222][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_28
+[2024.03.30-18.42.52:223][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+[2024.03.30-18.42.52:223][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+[2024.03.30-18.42.52:223][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_29
+[2024.03.30-18.42.52:223][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+[2024.03.30-18.42.52:223][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+[2024.03.30-18.42.52:224][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_30
+[2024.03.30-18.42.52:224][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+[2024.03.30-18.42.52:224][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+[2024.03.30-18.42.52:224][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_31
+[2024.03.30-18.42.52:225][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+[2024.03.30-18.42.52:225][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+[2024.03.30-18.42.52:225][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_36
+[2024.03.30-18.42.52:225][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+[2024.03.30-18.42.52:225][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+[2024.03.30-18.42.52:226][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_37
+[2024.03.30-18.42.52:226][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+[2024.03.30-18.42.52:226][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+[2024.03.30-18.42.52:226][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_38
+[2024.03.30-18.42.52:227][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2
+[2024.03.30-18.42.52:227][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2
+[2024.03.30-18.42.52:227][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_39
+[2024.03.30-18.42.52:227][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2
+[2024.03.30-18.42.52:227][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2
+[2024.03.30-18.42.52:227][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_40
+[2024.03.30-18.42.52:228][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2
+[2024.03.30-18.42.52:228][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2
+[2024.03.30-18.42.52:228][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_41
+[2024.03.30-18.42.52:229][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01
+[2024.03.30-18.42.52:229][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01
+[2024.03.30-18.42.52:229][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_42
+[2024.03.30-18.42.52:229][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02
+[2024.03.30-18.42.52:229][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02
+[2024.03.30-18.42.52:229][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_43
+[2024.03.30-18.42.52:230][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03
+[2024.03.30-18.42.52:230][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03
+[2024.03.30-18.42.52:230][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_44
+[2024.03.30-18.42.52:230][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04
+[2024.03.30-18.42.52:230][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04
+[2024.03.30-18.42.52:231][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_45
+[2024.03.30-18.42.53:093][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.42.53:093][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.42.53:096][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510746223
+[2024.03.30-18.42.53:119][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+[2024.03.30-18.42.53:119][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+[2024.03.30-18.42.53:120][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510771224
+[2024.03.30-18.42.53:141][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+[2024.03.30-18.42.53:141][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+[2024.03.30-18.42.53:142][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510793225
+[2024.03.30-18.42.53:163][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+[2024.03.30-18.42.53:163][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+[2024.03.30-18.42.53:164][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510815226
+[2024.03.30-18.42.53:185][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+[2024.03.30-18.42.53:185][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+[2024.03.30-18.42.53:186][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510837227
+[2024.03.30-18.42.53:207][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+[2024.03.30-18.42.53:207][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+[2024.03.30-18.42.53:208][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510859228
+[2024.03.30-18.42.53:230][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+[2024.03.30-18.42.53:230][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+[2024.03.30-18.42.53:231][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510882229
+[2024.03.30-18.42.53:252][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+[2024.03.30-18.42.53:252][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+[2024.03.30-18.42.53:254][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510904230
+[2024.03.30-18.42.53:277][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+[2024.03.30-18.42.53:277][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+[2024.03.30-18.42.53:279][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510929231
+[2024.03.30-18.42.53:301][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+[2024.03.30-18.42.53:301][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+[2024.03.30-18.42.53:302][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510953232
+[2024.03.30-18.42.53:322][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2
+[2024.03.30-18.42.53:322][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2
+[2024.03.30-18.42.53:323][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510974233
+[2024.03.30-18.42.53:343][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2
+[2024.03.30-18.42.53:344][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2
+[2024.03.30-18.42.53:345][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510995234
+[2024.03.30-18.42.53:365][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2
+[2024.03.30-18.42.53:365][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2
+[2024.03.30-18.42.53:367][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511017235
+[2024.03.30-18.42.53:388][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01
+[2024.03.30-18.42.53:388][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01
+[2024.03.30-18.42.53:389][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511040236
+[2024.03.30-18.42.53:411][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02
+[2024.03.30-18.42.53:411][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02
+[2024.03.30-18.42.53:412][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511063237
+[2024.03.30-18.42.53:434][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03
+[2024.03.30-18.42.53:434][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03
+[2024.03.30-18.42.53:436][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511086238
+[2024.03.30-18.42.53:456][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04
+[2024.03.30-18.42.53:456][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04
+[2024.03.30-18.42.53:457][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511108239
+[2024.03.30-18.43.00:896][833]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2024.03.30-18.43.00:896][833]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2024.03.30-18.43.01:712][882]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2024.03.30-18.43.01:712][882]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2024.03.30-18.45.17:727][986]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.30-18.48.08:351][991]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2024.03.30-18.48.08:351][991]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2024.03.30-18.48.28:021][171]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2024.03.30-18.48.28:523][171]LogStaticMesh: Display: Building static mesh skateMesh...
+[2024.03.30-18.48.28:541][171]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/meshes/skate/skateMesh) ...
+[2024.03.30-18.48.29:324][171]LogStaticMesh: Built static mesh [0.80s] /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-18.48.32:667][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.30-18.48.33:628][339]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-18.48.40:210][339]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2024.03.30-18.48.40:210][339]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2024.03.30-18.48.40:307][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.48.40:381][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/skate/skateboard_board" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_board.uasset" SILENT=true
+[2024.03.30-18.48.40:386][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_board
+[2024.03.30-18.48.40:386][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_boardFB89DE0A4451F102D19CB78CFED48CA8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_board.uasset'
+[2024.03.30-18.48.40:391][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/Y8HEPSLXKDT23MMA4FQE2S
+[2024.03.30-18.48.40:391][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Y8HEPSLXKDT23MMA4FQE2S2312BA064A690B41295E4EB68CFE7D54.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/Y8HEPSLXKDT23MMA4FQE2S.uasset'
+[2024.03.30-18.48.40:401][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_board1
+[2024.03.30-18.48.40:401][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_board126F8E1ED4715097CE9952C880322DF1C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_board1.uasset'
+[2024.03.30-18.48.40:413][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_diffuse
+[2024.03.30-18.48.40:413][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_diffuse2128459A43F3AA92A0C33190F021AE31.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_diffuse.uasset'
+[2024.03.30-18.48.40:420][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_1
+[2024.03.30-18.48.40:420][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_125D29BE04B83B6A7E1F819AC810335EE.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_1.uasset'
+[2024.03.30-18.48.40:425][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VH/P8WRCURY2LXTZ0ZHNC0CN5
+[2024.03.30-18.48.40:425][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/P8WRCURY2LXTZ0ZHNC0CN541A671B341219895CE1FEAB52D03D248.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VH/P8WRCURY2LXTZ0ZHNC0CN5.uasset'
+[2024.03.30-18.48.40:432][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_2
+[2024.03.30-18.48.40:432][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_2E821517E4392D443CF0EC2BFFF7A26F9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_2.uasset'
+[2024.03.30-18.48.40:436][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EO/VYWUNN0IZWYBTNSC3TM71Y
+[2024.03.30-18.48.40:436][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/VYWUNN0IZWYBTNSC3TM71Y4208EB9149D5FE3E543EB89CF5637195.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EO/VYWUNN0IZWYBTNSC3TM71Y.uasset'
+[2024.03.30-18.48.40:441][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5S/MZTXDQCL2FVTT5X0BPCYNN
+[2024.03.30-18.48.40:441][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/MZTXDQCL2FVTT5X0BPCYNN8846FE954C1925F3FAAC0C8B0AAB900F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5S/MZTXDQCL2FVTT5X0BPCYNN.uasset'
+[2024.03.30-18.48.40:448][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_3
+[2024.03.30-18.48.40:448][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_3723275924D5D2CBED6BA208D4278D129.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_3.uasset'
+[2024.03.30-18.48.40:452][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4E/OX5TWHWGIJQG5D0T0YXFNF
+[2024.03.30-18.48.40:452][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/OX5TWHWGIJQG5D0T0YXFNF761EB5184B92DE858239B58D0E901BE0.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4E/OX5TWHWGIJQG5D0T0YXFNF.uasset'
+[2024.03.30-18.48.40:457][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_4
+[2024.03.30-18.48.40:457][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_414575F934666EE19C44C43B3B3FA0D36.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_4.uasset'
+[2024.03.30-18.48.40:461][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DX/5VKCARUFCAHHX8M5LBG2NE
+[2024.03.30-18.48.40:461][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/5VKCARUFCAHHX8M5LBG2NE187FA0D14C5C12CE92E595B1A92460C3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DX/5VKCARUFCAHHX8M5LBG2NE.uasset'
+[2024.03.30-18.48.40:468][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_5
+[2024.03.30-18.48.40:468][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_59C410F8A4E0102F37A8114B8360D6AC0.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_5.uasset'
+[2024.03.30-18.48.40:475][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_6
+[2024.03.30-18.48.40:475][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_6373F9CEB4F31142784663F9E72BA4449.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_6.uasset'
+[2024.03.30-18.48.40:479][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OZ/XXBVL0PLND1C09JO2SM2Y7
+[2024.03.30-18.48.40:479][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/XXBVL0PLND1C09JO2SM2Y78EE4B40049DEF362471DA4BF8D3675DC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OZ/XXBVL0PLND1C09JO2SM2Y7.uasset'
+[2024.03.30-18.48.40:486][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_7
+[2024.03.30-18.48.40:486][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_7405C4A8B483C5A4D55D6B69D8C802E60.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_7.uasset'
+[2024.03.30-18.48.40:491][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HM/VOWVOQ17Q4SVH0QXV7F26J
+[2024.03.30-18.48.40:491][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/VOWVOQ17Q4SVH0QXV7F26JBA3AA9E94804C1BD8EA409931828C62D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HM/VOWVOQ17Q4SVH0QXV7F26J.uasset'
+[2024.03.30-18.48.40:495][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/VESHLQB5UW9OS40DGKZMWA
+[2024.03.30-18.48.40:495][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/VESHLQB5UW9OS40DGKZMWA0395D778418A7465FB6DEA83F9C3E5C8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/VESHLQB5UW9OS40DGKZMWA.uasset'
+[2024.03.30-18.48.40:500][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_group_bolt_8
+[2024.03.30-18.48.40:500][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_group_bolt_8A6F3A95F4B687EC13AA151962FC5AC04.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_8.uasset'
+[2024.03.30-18.48.40:502][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/skate/skateboard_metal" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_metal.uasset" SILENT=true
+[2024.03.30-18.48.40:506][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_metal
+[2024.03.30-18.48.40:506][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_metalFCC059E947F7013B4DF07C8A00E99221.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_metal.uasset'
+[2024.03.30-18.48.40:509][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H9/PJJQFF9I8ZSN4A5EC6YWP1
+[2024.03.30-18.48.40:509][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/PJJQFF9I8ZSN4A5EC6YWP10F9F302C41DB9FE03002978CB79D8B8A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H9/PJJQFF9I8ZSN4A5EC6YWP1.uasset'
+[2024.03.30-18.48.40:523][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_trucks_1
+[2024.03.30-18.48.40:523][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_123B023EC4789979F02C9719A600E042D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_1.uasset'
+[2024.03.30-18.48.40:536][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_trucks_2
+[2024.03.30-18.48.40:536][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_271653E90438CC8985DDF7486472BC433.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_2.uasset'
+[2024.03.30-18.48.40:542][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TY/NVT6REH4RJS464M5QGOUTY
+[2024.03.30-18.48.40:542][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/NVT6REH4RJS464M5QGOUTYA117F5BF40712D765720C9A5CA55D8C0.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TY/NVT6REH4RJS464M5QGOUTY.uasset'
+[2024.03.30-18.48.40:549][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_trucks_group_bolt_2
+[2024.03.30-18.48.40:549][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_group_bolt_21C2B7F754047BD76ECCFAA8691BB9409.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_group_bolt_2.uasset'
+[2024.03.30-18.48.40:554][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/45/UUPF63PYYM4QGVFC71EF9W
+[2024.03.30-18.48.40:554][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/UUPF63PYYM4QGVFC71EF9W17FB9E4C41BEED9B106312B61BFEAAFC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/45/UUPF63PYYM4QGVFC71EF9W.uasset'
+[2024.03.30-18.48.40:572][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_trucks_group_nut_2
+[2024.03.30-18.48.40:572][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_trucks_group_nut_2F371BD764929D4CBBC2E689EAD113AC5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_group_nut_2.uasset'
+[2024.03.30-18.48.40:580][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2V/IFYVI2PKARZ8IWUYKU3XGZ
+[2024.03.30-18.48.40:580][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/IFYVI2PKARZ8IWUYKU3XGZ6A9A44644D4D09C1063E90816BD64C2A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2V/IFYVI2PKARZ8IWUYKU3XGZ.uasset'
+[2024.03.30-18.48.40:591][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_wheel_01
+[2024.03.30-18.48.40:591][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_01705B2D6F4119D4B4D6CB47B0B03376AA.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_01.uasset'
+[2024.03.30-18.48.40:595][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CR/EHJK9OFAGRL3VUPND5XNT1
+[2024.03.30-18.48.40:596][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/EHJK9OFAGRL3VUPND5XNT1FC6B1176477E0F219DBBF7A99BC60156.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CR/EHJK9OFAGRL3VUPND5XNT1.uasset'
+[2024.03.30-18.48.40:604][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_wheel_02
+[2024.03.30-18.48.40:604][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_027EB5370F40CBDA7368D56A9BED64E6CF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_02.uasset'
+[2024.03.30-18.48.40:609][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/647MPGWQR6RX4D0N2U3HYB
+[2024.03.30-18.48.40:609][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/647MPGWQR6RX4D0N2U3HYB2A887DBF4E382BE91EB70B96FAFD841E.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/647MPGWQR6RX4D0N2U3HYB.uasset'
+[2024.03.30-18.48.40:617][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_wheel_03
+[2024.03.30-18.48.40:617][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_037F4BDABD4349BE463FA9BFBD4B54CD40.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_03.uasset'
+[2024.03.30-18.48.40:622][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UK/LOC6U1NRWVITQ2SO9PNJJU
+[2024.03.30-18.48.40:622][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/LOC6U1NRWVITQ2SO9PNJJU3905469D476458E41F4AA198C82E5D37.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UK/LOC6U1NRWVITQ2SO9PNJJU.uasset'
+[2024.03.30-18.48.40:630][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_wheel_04
+[2024.03.30-18.48.40:631][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_0419A200C74680FBB9406A5E9947F0479B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_04.uasset'
+[2024.03.30-18.48.40:635][339]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2M/NQ91QQLT037IXZ57G7WOM3
+[2024.03.30-18.48.40:635][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/NQ91QQLT037IXZ57G7WOM3281A46D342AA1F7D0A1883836E5C81F5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2M/NQ91QQLT037IXZ57G7WOM3.uasset'
+[2024.03.30-18.48.40:640][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateboard_wheel_4
+[2024.03.30-18.48.40:641][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_4440588AB47B6352B7B17FCBF938E14BD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_4.uasset'
+[2024.03.30-18.48.40:741][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/skate/skateMesh" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateMesh.uasset" SILENT=true
+[2024.03.30-18.48.40:786][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateMesh
+[2024.03.30-18.48.40:786][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateMesh68FAAF66419A87D3767C97B1501C0E9B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateMesh.uasset'
+[2024.03.30-18.48.40:848][339]LogSavePackage: Moving output files for package: /Game/meshes/skate/TEX_skateboard_diffuse
+[2024.03.30-18.48.40:848][339]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/TEX_skateboard_diffuseB563583C41C0B45C10EC838C15A293E4.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/TEX_skateboard_diffuse.uasset'
+[2024.03.30-18.48.48:443][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.13 sec
+[2024.03.30-18.48.48:453][339]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/skate/skateboard_board.skateboard_board
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510746223
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_board1.skateboard_board1
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/skate/skateboard_diffuse.skateboard_diffuse
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510771224
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510793225
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510815226
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510837227
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510859228
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510882229
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510904230
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510929231
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/skate/skateboard_metal.skateboard_metal
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510953232
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_trucks_2.skateboard_trucks_2
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510974233
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_trucks_group_bolt_2.skateboard_trucks_group_bolt_2
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510995234
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_trucks_group_nut_2.skateboard_trucks_group_nut_2
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511017235
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_wheel_01.skateboard_wheel_01
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511040236
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_wheel_02.skateboard_wheel_02
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511063237
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_wheel_03.skateboard_wheel_03
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511086238
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateboard_wheel_04.skateboard_wheel_04
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511108239
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/skate/skateboard_wheel_4.skateboard_wheel_4
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-18.48.48:453][339]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/skate/TEX_skateboard_diffuse.TEX_skateboard_diffuse
+[2024.03.30-18.48.55:344][729]SourceControl: Revision control is disabled
+[2024.03.30-18.48.55:344][729]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.03.30-18.48.58:860][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.30-18.49.06:694][921]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.30-18.49.18:183][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.03.30-18.49.21:908][566]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.30-18.49.21:957][566]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.49.21:957][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.49.21:970][566]LogUObjectGlobals: Force Deleting 17 Package(s):
+	Asset Name: /Game/meshes/skate/skateboard_board1.skateboard_board1
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_1.skateboard_group_bolt_1
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_8.skateboard_group_bolt_8
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_7.skateboard_group_bolt_7
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_2.skateboard_group_bolt_2
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_3.skateboard_group_bolt_3
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_4.skateboard_group_bolt_4
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_5.skateboard_group_bolt_5
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_group_bolt_6.skateboard_group_bolt_6
+	Asset Type: StaticMesh
+	Asset Name: /Game/meshes/skate/skateboard_trucks_1.skateboard_trucks_1
+	Asset Type: StaticMesh
+[2024.03.30-18.49.22:118][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.30-18.49.22:124][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.30-18.49.22:127][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.03.30-18.49.24:431][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-18.49.24:431][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-18.49.24:432][688]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateMesh.skateMesh as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_46
+[2024.03.30-18.49.24:966][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-18.49.24:966][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-18.49.24:968][720]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/skate/skateMesh.skateMesh as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1902618240
+[2024.03.30-18.49.31:551][113]Cmd: DELETE
+[2024.03.30-18.49.31:551][113]Cmd: ACTOR DELETE
+[2024.03.30-18.49.31:553][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.30-18.49.31:557][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.30-18.49.31:560][113]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.03.30-18.49.32:561][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.03.30-18.49.33:576][172]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-18.49.33:585][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.49.33:663][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/Y8HEPSLXKDT23MMA4FQE2S
+[2024.03.30-18.49.33:664][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Y8HEPSLXKDT23MMA4FQE2S33C24FBC424247D6543664BCBBC37AB7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/Y8HEPSLXKDT23MMA4FQE2S.uasset'
+[2024.03.30-18.49.33:669][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VH/P8WRCURY2LXTZ0ZHNC0CN5
+[2024.03.30-18.49.33:670][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/P8WRCURY2LXTZ0ZHNC0CN5A66847024FE28C2A3EF3C2887488D3DA.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VH/P8WRCURY2LXTZ0ZHNC0CN5.uasset'
+[2024.03.30-18.49.33:675][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EO/VYWUNN0IZWYBTNSC3TM71Y
+[2024.03.30-18.49.33:676][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/VYWUNN0IZWYBTNSC3TM71Y4F72108E46C60E4E22978FAD00D517F8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EO/VYWUNN0IZWYBTNSC3TM71Y.uasset'
+[2024.03.30-18.49.33:680][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5S/MZTXDQCL2FVTT5X0BPCYNN
+[2024.03.30-18.49.33:681][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/MZTXDQCL2FVTT5X0BPCYNNB0D31598423032636BA997A60BFC0A67.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5S/MZTXDQCL2FVTT5X0BPCYNN.uasset'
+[2024.03.30-18.49.33:686][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4E/OX5TWHWGIJQG5D0T0YXFNF
+[2024.03.30-18.49.33:687][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/OX5TWHWGIJQG5D0T0YXFNF2B31FD5A45A5B373C47D7BB70F5B0403.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4E/OX5TWHWGIJQG5D0T0YXFNF.uasset'
+[2024.03.30-18.49.33:691][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DX/5VKCARUFCAHHX8M5LBG2NE
+[2024.03.30-18.49.33:692][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/5VKCARUFCAHHX8M5LBG2NEA08DEE604CE17ADB53C41EA780340C51.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DX/5VKCARUFCAHHX8M5LBG2NE.uasset'
+[2024.03.30-18.49.33:696][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OZ/XXBVL0PLND1C09JO2SM2Y7
+[2024.03.30-18.49.33:698][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/XXBVL0PLND1C09JO2SM2Y7ED1116C34D9DBA49E85801B71B32A416.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OZ/XXBVL0PLND1C09JO2SM2Y7.uasset'
+[2024.03.30-18.49.33:702][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HM/VOWVOQ17Q4SVH0QXV7F26J
+[2024.03.30-18.49.33:703][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/VOWVOQ17Q4SVH0QXV7F26JD8080E5F4F336EF500A08EBD3310E34E.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HM/VOWVOQ17Q4SVH0QXV7F26J.uasset'
+[2024.03.30-18.49.33:707][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/VESHLQB5UW9OS40DGKZMWA
+[2024.03.30-18.49.33:708][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/VESHLQB5UW9OS40DGKZMWA8D99BBF545493CC50EBF25A455FDDB6C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/VESHLQB5UW9OS40DGKZMWA.uasset'
+[2024.03.30-18.49.33:712][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H9/PJJQFF9I8ZSN4A5EC6YWP1
+[2024.03.30-18.49.33:714][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/PJJQFF9I8ZSN4A5EC6YWP1F4B96083441E56D7F083959E40D3B45D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H9/PJJQFF9I8ZSN4A5EC6YWP1.uasset'
+[2024.03.30-18.49.33:718][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TY/NVT6REH4RJS464M5QGOUTY
+[2024.03.30-18.49.33:719][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/NVT6REH4RJS464M5QGOUTY118154D54F7003167178F4BD404D8430.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TY/NVT6REH4RJS464M5QGOUTY.uasset'
+[2024.03.30-18.49.33:723][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/45/UUPF63PYYM4QGVFC71EF9W
+[2024.03.30-18.49.33:725][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/UUPF63PYYM4QGVFC71EF9W44D0E6CA4DB4363D1DF2F1865C80EEAF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/45/UUPF63PYYM4QGVFC71EF9W.uasset'
+[2024.03.30-18.49.33:728][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2V/IFYVI2PKARZ8IWUYKU3XGZ
+[2024.03.30-18.49.33:729][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/IFYVI2PKARZ8IWUYKU3XGZCC665AA44F766F53E4B255AE9130FBE6.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2V/IFYVI2PKARZ8IWUYKU3XGZ.uasset'
+[2024.03.30-18.49.33:733][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CR/EHJK9OFAGRL3VUPND5XNT1
+[2024.03.30-18.49.33:734][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/EHJK9OFAGRL3VUPND5XNT1407625A547646DA6AC1BA0A52C3A6273.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CR/EHJK9OFAGRL3VUPND5XNT1.uasset'
+[2024.03.30-18.49.33:739][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/647MPGWQR6RX4D0N2U3HYB
+[2024.03.30-18.49.33:740][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/647MPGWQR6RX4D0N2U3HYBA3274C8E46E3F244A6F03686631B6383.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/647MPGWQR6RX4D0N2U3HYB.uasset'
+[2024.03.30-18.49.33:744][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UK/LOC6U1NRWVITQ2SO9PNJJU
+[2024.03.30-18.49.33:745][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/LOC6U1NRWVITQ2SO9PNJJUF1D8851949EA866F3D88D0A4F7F8E8AD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UK/LOC6U1NRWVITQ2SO9PNJJU.uasset'
+[2024.03.30-18.49.33:749][172]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2M/NQ91QQLT037IXZ57G7WOM3
+[2024.03.30-18.49.33:750][172]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/NQ91QQLT037IXZ57G7WOM36BD747504952DE6C6F4A4BB961E4AA79.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2M/NQ91QQLT037IXZ57G7WOM3.uasset'
+[2024.03.30-18.49.33:759][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 8.30 sec)
+[2024.03.30-18.49.33:766][172]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510746223
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510771224
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510793225
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510815226
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510837227
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510859228
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510882229
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510904230
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510929231
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510953232
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510974233
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1510995234
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511017235
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511040236
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511063237
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511086238
+[2024.03.30-18.49.33:766][172]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1511108239
+[2024.03.30-18.49.42:341][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.49.57:526][543]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.30-18.49.57:526][543]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.30-18.49.57:526][543]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.30-18.49.57:526][543]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.30-18.49.57:526][543]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2024.03.30-18.49.57:528][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.49.57:611][543]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2024.03.30-18.49.57:613][543]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonGameMode067BB6A14A8ED596E56E399A5D4791E9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2024.03.30-18.49.57:616][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.49.57:665][543]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/BP_ThirdPersonCharacter does not exist, will not scan.
+[2024.03.30-18.49.57:680][543]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ThirdPersonCharacter
+[2024.03.30-18.49.57:680][543]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter0BDC0AE44EE2516E4D83C49B4F954365.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-18.49.57:688][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 8.47 sec)
+[2024.03.30-18.49.57:695][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.30-18.49.57:700][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.30-18.49.57:703][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.30-18.49.57:735][543]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-18.49.57:735][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2024.03.30-18.49.57:735][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-18.49.59:172][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-18.49.59:172][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.49.59:172][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.49.59:180][625]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.30-18.49.59:865][625]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.30-18.49.59:867][625]LogSlate: Took 0.000944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.30-18.50.00:037][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.50.01:888][724]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.03.30-18.50.02:985][789]LogViewport: Scene viewport resized to 1254x663, mode Windowed.
+[2024.03.30-18.50.04:895][898]LogViewport: Scene viewport resized to 1253x663, mode Windowed.
+[2024.03.30-18.50.04:913][899]LogViewport: Scene viewport resized to 1248x663, mode Windowed.
+[2024.03.30-18.50.06:890][ 16]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.30-18.50.33:035][537]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-18.50.33:086][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.30-18.50.33:777][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.50.33:843][569]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ThirdPersonCharacter
+[2024.03.30-18.50.33:846][569]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter814B5B79445B8AEA65B2A4BE3A41FFBD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-18.50.33:853][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 8.54 sec)
+[2024.03.30-18.50.33:855][569]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.30-18.50.33:855][569]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-18.50.35:251][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-18.50.35:259][652]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.30-18.50.35:259][652]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.30-18.50.35:263][652]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 7 ms)
+[2024.03.30-18.50.35:263][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-18.50.35:264][652]PIE: New page: PIE session: ThirdPersonMap (Mar 30, 2024, 12:50:35 PM)
+[2024.03.30-18.50.35:288][652]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-18.50.35:292][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2024.03.30-18.50.35:292][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003536s)
+[2024.03.30-18.50.35:306][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.30-18.50.35:308][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.50.35:308][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.50.35:309][652]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.30-18.50.35:309][652]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.30-18.50.35:309][652]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.30-18.50.35:309][652]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.30-18.50.35:309][652]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.30-18.50.35:310][652]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.30-18.50.35:310][652]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 62 ms)
+[2024.03.30-18.50.35:311][652]LogPlayLevel: PIE: World Init took: (0.002582s)
+[2024.03.30-18.50.35:311][652]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-18.50.35:311][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-18.50.35:311][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-18.50.35:311][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-18.50.35:311][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-18.50.35:311][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-18.50.35:313][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-18.50.35:378][652]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-18.50.35:378][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-18.50.35:378][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-18.50.35:378][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-18.50.35:379][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.03.30-18.50.35:379][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.03.30-18.50.35:381][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.03.30-18.50.35:381][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.03.30-18.50.35:381][652]LogInit: FAudioDevice initialized with ID 3.
+[2024.03.30-18.50.35:381][652]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.03.30-18.50.35:381][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.30-18.50.35:383][652]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-18.50.35:385][652]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.03.30-15.50.35
+[2024.03.30-18.50.35:385][652]LogWorld: Bringing up level for play took: 0.001347
+[2024.03.30-18.50.35:387][652]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.03.30-18.50.35:390][652]PIE: Server logged in
+[2024.03.30-18.50.35:391][652]PIE: Play in editor total start time 0.132 seconds.
+[2024.03.30-18.50.43:189][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-18.50.43:189][115]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-18.50.43:189][115]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.50.43:189][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.50.43:189][115]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.30-18.50.43:192][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-18.50.43:196][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.50.43:209][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-18.50.43:210][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.30-18.50.43:210][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.30-18.50.43:212][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.30-18.50.43:217][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-18.50.43:220][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.30-18.50.43:277][117]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.03.30-18.51.48:608][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.30-18.51.48:609][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.03.30-18.52.09:229][810]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-18.52.09:249][810]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-18.52.09:262][811]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-18.52.13:304][ 54]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2024.03.30-18.52.13:305][ 54]LogContentBrowser: End creating deferred item NewFolder

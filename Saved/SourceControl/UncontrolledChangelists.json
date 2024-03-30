@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_04.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_03.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_02.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_wheel_01.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_group_nut_2.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_group_bolt_2.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_2.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_trucks_1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_6.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_5.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_4.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_3.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_2.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_7.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_8.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_group_bolt_1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateboard_board1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/Y8HEPSLXKDT23MMA4FQE2S.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VH/P8WRCURY2LXTZ0ZHNC0CN5.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EO/VYWUNN0IZWYBTNSC3TM71Y.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5S/MZTXDQCL2FVTT5X0BPCYNN.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4E/OX5TWHWGIJQG5D0T0YXFNF.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DX/5VKCARUFCAHHX8M5LBG2NE.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OZ/XXBVL0PLND1C09JO2SM2Y7.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HM/VOWVOQ17Q4SVH0QXV7F26J.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HE/VESHLQB5UW9OS40DGKZMWA.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/H9/PJJQFF9I8ZSN4A5EC6YWP1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TY/NVT6REH4RJS464M5QGOUTY.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/45/UUPF63PYYM4QGVFC71EF9W.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2V/IFYVI2PKARZ8IWUYKU3XGZ.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CR/EHJK9OFAGRL3VUPND5XNT1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/647MPGWQR6RX4D0N2U3HYB.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UK/LOC6U1NRWVITQ2SO9PNJJU.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2M/NQ91QQLT037IXZ57G7WOM3.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
