@@ -23,9 +23,9 @@ void ACharacterParent::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 }
-
-void ACharacterParent::AddPoint_Implementation()
-{
-	pointsCounter++;
-}
+//
+//void ACharacterParent::AddPoint()
+//{
+//	pointsCounter++;
+//}
 

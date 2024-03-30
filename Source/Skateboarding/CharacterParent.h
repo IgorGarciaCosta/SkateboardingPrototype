@@ -24,14 +24,12 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-private:
-	int32 pointsCounter = 0;
-
-public:
-	UFUNCTION(BlueprintCallable, BlueprintNativeEvent)
-		void AddPoint();
-		void AddPoint_Implementation();//call BP function after C++ function
-
-	UFUNCTION(BlueprintCallable)
-	FORCEINLINE int32 GetPoints() { return pointsCounter; };
+//private:
+//	int32 pointsCounter = 0;
+//
+//public:
+//	UFUNCTION(BlueprintCallable)
+//		void AddPoint();
+//	UFUNCTION(BlueprintCallable)
+//	FORCEINLINE int32 GetPoints() { return pointsCounter; };
 };

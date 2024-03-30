@@ -22,9 +22,6 @@ void AObstacle::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	PlayerDetector->OnComponentBeginOverlap.AddDynamic(this, &AObstacle::PlayerDetectorBeginOverlap);
-	PlayerDetector->OnComponentEndOverlap.AddDynamic(this, &AObstacle::PlayerDetectorEndOverlapp);
-
 }
 
 void AObstacle::Tick(float DeltaTime)
@@ -33,22 +30,6 @@ void AObstacle::Tick(float DeltaTime)
 
 }
 
-void AObstacle::PlayerDetectorBeginOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
-{
-	GEngine->AddOnScreenDebugMessage(-1, 4.f, FColor::Green, FString::Printf(TEXT("%s"), *OtherComp->GetName()));
-
-	if (OtherActor) {
-		ACharacterParent* Player = Cast<ACharacterParent>(OtherActor);
-		if (Player) {
-			Player->AddPoint();
-		}
-	}
-}
-
-void AObstacle::PlayerDetectorEndOverlapp(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
-{
-
-}
 
 
 
