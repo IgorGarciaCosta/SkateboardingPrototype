@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Skateboarding.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\SkateboardingEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\CharacterParent.gen.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Skateboarding.init.gen.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\CharacterParent.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Skateboarding.cpp.obj"
+"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\Default.rc2.res"
+/OUT:"C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Skateboarding\UnrealEditor-Skateboarding.lib"
