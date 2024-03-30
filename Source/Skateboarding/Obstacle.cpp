@@ -4,13 +4,16 @@
 #include "Obstacle.h"
 #include "Components/BoxComponent.h"
 #include "CharacterParent.h"
+#include "Components/SceneComponent.h"
 
 // Sets default values
 AObstacle::AObstacle()
 {
-	//declaring collider
+	Scene = CreateDefaultSubobject<USceneComponent>("Scene");
+	Scene->SetupAttachment(GetRootComponent());
+	//initializing collider
 	PlayerDetector = CreateDefaultSubobject<UBoxComponent>("PlayerDetector");
-	PlayerDetector->SetupAttachment(GetRootComponent());
+	PlayerDetector->SetupAttachment(Scene);
 
 }
 

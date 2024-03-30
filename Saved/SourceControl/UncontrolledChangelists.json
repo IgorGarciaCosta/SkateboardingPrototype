@@ -5,15 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/ABP_Character.uasset",
-				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Obstacles/BP_Obstacle1.uasset",
-				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4Z/09I9L7CHCP7GTTVZI7V7GB.uasset",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_HUD.uasset",
-				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Obstacles/BP_ObstacleBase.uasset"
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Obstacles/BP_ObstacleBase.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Obstacles/16304_SkatePark_grindsplitrail_v1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Obstacles/BP_ObstacleChild1.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FA/RVZSK3KQTT7JG4JIAK2V5B.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LE/GFQJR9TEAKL13HUQBGL550.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4Z/09I9L7CHCP7GTTVZI7V7GB.uasset"
 			]
 		}
 	]

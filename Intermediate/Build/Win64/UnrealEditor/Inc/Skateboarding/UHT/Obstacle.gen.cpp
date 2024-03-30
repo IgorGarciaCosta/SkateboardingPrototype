@@ -14,6 +14,7 @@ void EmptyLinkFunctionForGeneratedCodeObstacle() {}
 	ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
 	ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 	SKATEBOARDING_API UClass* Z_Construct_UClass_AObstacle();
 	SKATEBOARDING_API UClass* Z_Construct_UClass_AObstacle_NoRegister();
@@ -213,6 +214,10 @@ void EmptyLinkFunctionForGeneratedCodeObstacle() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_PlayerDetector_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_PlayerDetector;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_Scene_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_Scene;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -242,8 +247,18 @@ void EmptyLinkFunctionForGeneratedCodeObstacle() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AObstacle_Statics::NewProp_PlayerDetector = { "PlayerDetector", nullptr, (EPropertyFlags)0x001000000008000d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AObstacle, PlayerDetector), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AObstacle_Statics::NewProp_PlayerDetector_MetaData), Z_Construct_UClass_AObstacle_Statics::NewProp_PlayerDetector_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AObstacle_Statics::NewProp_Scene_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Obstacle" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Obstacle.h" },
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AObstacle_Statics::NewProp_Scene = { "Scene", nullptr, (EPropertyFlags)0x001000000008000d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AObstacle, Scene), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AObstacle_Statics::NewProp_Scene_MetaData), Z_Construct_UClass_AObstacle_Statics::NewProp_Scene_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AObstacle_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AObstacle_Statics::NewProp_PlayerDetector,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AObstacle_Statics::NewProp_Scene,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AObstacle_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AObstacle>::IsAbstract,
@@ -283,9 +298,9 @@ void EmptyLinkFunctionForGeneratedCodeObstacle() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Source_Skateboarding_Obstacle_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AObstacle, AObstacle::StaticClass, TEXT("AObstacle"), &Z_Registration_Info_UClass_AObstacle, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AObstacle), 720827541U) },
+		{ Z_Construct_UClass_AObstacle, AObstacle::StaticClass, TEXT("AObstacle"), &Z_Registration_Info_UClass_AObstacle, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AObstacle), 2806414169U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Source_Skateboarding_Obstacle_h_966049593(TEXT("/Script/Skateboarding"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Source_Skateboarding_Obstacle_h_371214355(TEXT("/Script/Skateboarding"),
 		Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Source_Skateboarding_Obstacle_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Source_Skateboarding_Obstacle_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

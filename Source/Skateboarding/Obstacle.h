@@ -7,6 +7,7 @@
 #include "Obstacle.generated.h"
 
 class UBoxComponent;
+class USceneComponent;
 
 UCLASS()
 class SKATEBOARDING_API AObstacle : public AActor
@@ -26,6 +27,8 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (AllowPrivateAccess = "true"))
 		UBoxComponent* PlayerDetector;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, meta = (AllowPrivateAccess = "true"))
+		USceneComponent* Scene;
 private:
 
 	UFUNCTION()
