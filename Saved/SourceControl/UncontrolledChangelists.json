@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/ABP_Character.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset"
 			]
 		}
 	]

@@ -1,0 +1,43 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+
+#include "Obstacle.h"
+#include "Components/BoxComponent.h"
+#include "CharacterParent.h"
+
+// Sets default values
+AObstacle::AObstacle()
+{
+	//declaring collider
+	PlayerDetector = CreateDefaultSubobject<UBoxComponent>("PlayerDetector");
+	PlayerDetector->SetupAttachment(GetRootComponent());
+
+}
+
+// Called when the game starts or when spawned
+void AObstacle::BeginPlay()
+{
+	Super::BeginPlay();
+	
+	PlayerDetector->OnComponentBeginOverlap.AddDynamic(this, &AObstacle::PlayerDetectorBeginOverlap);
+	PlayerDetector->OnComponentEndOverlap.AddDynamic(this, &AObstacle::PlayerDetectorEndOverlapp);
+
+}
+
+void AObstacle::PlayerDetectorBeginOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
+{
+	if (OtherActor) {
+		ACharacterParent* Player = Cast<ACharacterParent>(OtherActor);
+		if (Player) {
+
+		}
+	}
+}
+
+void AObstacle::PlayerDetectorEndOverlapp(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
+{
+
+}
+
+
+

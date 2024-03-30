@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkateboardingModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23dda061168c05b205f88e48c9010c15a544a4a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20eddc5662f96cc6fdfe6882907cd4c9c698d52")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkateboardingModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkateboardingModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

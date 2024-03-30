@@ -20,10 +20,16 @@ protected:
 	virtual void BeginPlay() override;
 
 public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+private:
+	int32 pointsCounter = 0;
+
+public:
+	UFUNCTION(BlueprintCallable, BlueprintNativeEvent)
+		void AddPoint();
+		void AddPoint_Implementation();//call BP function after C++ function
 
 };
