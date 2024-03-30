@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Skateboarding",
+			"Path": "..\\Source\\Skateboarding.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SkateboardingEditor",
+			"Path": "..\\Source\\SkateboardingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

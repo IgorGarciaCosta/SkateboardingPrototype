@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding\\Skateboarding.Build.cs",
+		"C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Plugins\\AssetsCleaner\\Source\\AssetsCleaner\\AssetsCleaner.Build.cs",
+		"C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\Skateboarding.Target.cs",
+		"C:\\Users\\ISILV125\\Documents\\Unreal Projects\\Skateboarding\\Source\\SkateboardingEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

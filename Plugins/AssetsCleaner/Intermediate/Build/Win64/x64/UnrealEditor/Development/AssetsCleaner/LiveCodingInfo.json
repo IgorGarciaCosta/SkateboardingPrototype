@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AssetsCleaner.cpp.obj": [
+			"AssetsCleaner.init.gen.cpp.obj",
+			"AssetsCleanerSettings.gen.cpp.obj",
+			"AssetsCleaner.cpp.obj",
+			"AssetsCleanerCommands.cpp.obj",
+			"AssetsCleanerStyle.cpp.obj",
+			"AssetsCleanerUtils.cpp.obj",
+			"SAssetsCleaner.cpp.obj",
+			"SAssetsCleanerBrowser.cpp.obj"
+		]
+	}
+}

@@ -49,17 +49,25 @@ void EmptyLinkFunctionForGeneratedCodeAssetsCleanerSettings() {}
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UAssetsCleanerSettings_Statics::DependentSingletons) < 16);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAssetsCleanerSettings_Statics::Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Settings class for Assets Cleaner plugin\n */" },
+#endif
 		{ "IncludePath", "AssetsCleanerSettings.h" },
 		{ "ModuleRelativePath", "Public/AssetsCleanerSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Settings class for Assets Cleaner plugin" },
+#endif
 	};
 #endif
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bShowLevels_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "//Should we include levels as well (knowing it's not possible to reliably check for references)\n" },
+#endif
 		{ "ModuleRelativePath", "Public/AssetsCleanerSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Should we include levels as well (knowing it's not possible to reliably check for references)" },
+#endif
 	};
 #endif
 	void Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bShowLevels_SetBit(void* Obj)
@@ -69,9 +77,13 @@ void EmptyLinkFunctionForGeneratedCodeAssetsCleanerSettings() {}
 	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bShowLevels = { "bShowLevels", nullptr, (EPropertyFlags)0x0010000000004000, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(UAssetsCleanerSettings), &Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bShowLevels_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bShowLevels_MetaData), Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bShowLevels_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bDeleteEmptyFolders_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "//Also delete folders if they're empty when deleting assets\n" },
+#endif
 		{ "ModuleRelativePath", "Public/AssetsCleanerSettings.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Also delete folders if they're empty when deleting assets" },
+#endif
 	};
 #endif
 	void Z_Construct_UClass_UAssetsCleanerSettings_Statics::NewProp_bDeleteEmptyFolders_SetBit(void* Obj)
@@ -117,15 +129,15 @@ void EmptyLinkFunctionForGeneratedCodeAssetsCleanerSettings() {}
 	UAssetsCleanerSettings::UAssetsCleanerSettings(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UAssetsCleanerSettings);
 	UAssetsCleanerSettings::~UAssetsCleanerSettings() {}
-	struct Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UAssetsCleanerSettings, UAssetsCleanerSettings::StaticClass, TEXT("UAssetsCleanerSettings"), &Z_Registration_Info_UClass_UAssetsCleanerSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAssetsCleanerSettings), 3032571485U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UAssetsCleanerSettings, UAssetsCleanerSettings::StaticClass, TEXT("UAssetsCleanerSettings"), &Z_Registration_Info_UClass_UAssetsCleanerSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAssetsCleanerSettings), 1219233260U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_340298610(TEXT("/Script/AssetsCleaner"),
-		Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_1793635238(TEXT("/Script/AssetsCleaner"),
+		Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_ISILV125_Documents_Unreal_Projects_Skateboarding_Plugins_AssetsCleaner_Source_AssetsCleaner_Public_AssetsCleanerSettings_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
