@@ -2615,3 +2615,251 @@ Please see Output Log for details.
 [2024.03.30-19.01.30:834][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
 [2024.03.30-19.01.30:877][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_25
 [2024.03.30-19.01.31:761][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.30-19.01.57:598][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.30-19.01.57:599][281]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.03.30-19.02.30:016][ 94]LogContentBrowser: Deferred new asset file creation: Skateboarding_Skeleton_AnimBlueprint
+[2024.03.30-19.02.30:037][ 94]LogContentBrowser: Creating deferred item: Skateboarding_Skeleton_AnimBlueprint
+[2024.03.30-19.02.30:053][ 95]LogContentBrowser: Renaming the item being created (Deferred Item: Skateboarding_Skeleton_AnimBlueprint).
+[2024.03.30-19.02.34:328][352]LogContentBrowser: Attempting asset rename: Skateboarding_Skeleton_AnimBlueprint -> ABP_Character
+[2024.03.30-19.02.34:336][352]LogContentBrowser: End creating deferred item Skateboarding_Skeleton_AnimBlueprint
+[2024.03.30-19.02.34:338][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.ABP_Character:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.SKEL_ABP_Character_C:AnimGraph' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.SKEL_ABP_Character_C' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.ABP_Character_C:AnimGraph' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.ABP_Character_C' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.ABP_Character:EventGraph.K2Node_Event_0' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogMetaData: Removing '/Game/Blueprints/ABP_Character.ABP_Character:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/meshes/Character/ABP_Character.PackageMetaData'
+[2024.03.30-19.02.38:167][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.02.38:325][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Character" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset" SILENT=true
+[2024.03.30-19.02.38:333][560]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Character
+[2024.03.30-19.02.38:333][560]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/ABP_CharacterE9A5317F4495793FB7D9E8AF456A4D61.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset'
+[2024.03.30-19.02.38:346][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 15.8 sec)
+[2024.03.30-19.02.38:369][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.30-19.02.38:389][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.30-19.02.38:407][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.30-19.02.38:448][560]AssetCheck: New page: Asset Save: ABP_Character
+[2024.03.30-19.02.38:448][560]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/ABP_Character.ABP_Character
+[2024.03.30-19.02.42:913][815]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/ABP_Character.ABP_Character
+[2024.03.30-19.02.42:913][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.02.42:913][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-19.02.42:923][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.02.42:923][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-19.02.42:932][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.30-19.02.43:239][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.02.43:239][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-19.02.43:334][815]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2024.03.30-19.03.00:555][769]BlueprintLog: New page: Compile ABP_Character
+[2024.03.30-19.03.00:557][769]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\ABP_Character.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2024.03.30-19.03.00:557][769]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\ABP_Character.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2024.03.30-19.03.00:590][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.30-19.03.01:164][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.03.01:239][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Character" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset" SILENT=true
+[2024.03.30-19.03.01:248][798]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Character
+[2024.03.30-19.03.01:250][798]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/ABP_Character9827A3F54F38DA67F5861BB0703E0498.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset'
+[2024.03.30-19.03.01:262][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 15.9 sec)
+[2024.03.30-19.03.01:263][798]AssetCheck: New page: Asset Save: ABP_Character
+[2024.03.30-19.03.01:263][798]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/ABP_Character.ABP_Character
+[2024.03.30-19.03.27:712][323]BlueprintLog: New page: Compile ABP_Character
+[2024.03.30-19.03.27:740][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.30-19.03.29:881][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.03.29:991][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Character" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset" SILENT=true
+[2024.03.30-19.03.30:003][448]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Character
+[2024.03.30-19.03.30:007][448]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/ABP_Character32F02D8B4E3624BD833D24903E84E079.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset'
+[2024.03.30-19.03.30:018][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 16.1 sec)
+[2024.03.30-19.03.30:021][448]AssetCheck: New page: Asset Save: ABP_Character
+[2024.03.30-19.03.30:021][448]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/ABP_Character.ABP_Character
+[2024.03.30-19.03.33:493][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.30-19.03.37:181][870]LogViewport: Scene viewport resized to 1244x663, mode Windowed.
+[2024.03.30-19.03.37:202][871]LogViewport: Scene viewport resized to 1236x663, mode Windowed.
+[2024.03.30-19.03.37:228][872]LogViewport: Scene viewport resized to 1230x663, mode Windowed.
+[2024.03.30-19.03.37:260][873]LogViewport: Scene viewport resized to 1216x663, mode Windowed.
+[2024.03.30-19.03.37:299][874]LogViewport: Scene viewport resized to 1184x663, mode Windowed.
+[2024.03.30-19.03.37:334][875]LogViewport: Scene viewport resized to 1153x663, mode Windowed.
+[2024.03.30-19.03.37:364][876]LogViewport: Scene viewport resized to 1143x663, mode Windowed.
+[2024.03.30-19.03.37:386][877]LogViewport: Scene viewport resized to 1136x663, mode Windowed.
+[2024.03.30-19.03.37:576][888]LogViewport: Scene viewport resized to 1140x663, mode Windowed.
+[2024.03.30-19.03.38:142][922]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.03.30-19.03.42:439][165]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-19.03.42:514][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.30-19.03.42:958][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.03.43:072][183]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ThirdPersonCharacter
+[2024.03.30-19.03.43:075][183]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter3F9864034BDE706E2F330E937C37E986.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-19.03.43:083][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 16.2 sec)
+[2024.03.30-19.03.43:084][183]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.30-19.03.43:084][183]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-19.04.13:603][522]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\Skateboarding.fbx)
+[2024.03.30-19.04.13:609][522]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\Skateboarding.fbx
+[2024.03.30-19.04.13:626][522]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.30-19.04.33:359][522]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(0) Hips
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(1) Spine
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(2) Spine1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(3) Spine2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(4) Neck
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(5) Head
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(31) RightShoulder
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(32) RightArm
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(33) RightForeArm
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(34) RightHand
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(56) LeftLeg
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(57) LeftFoot
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(61) RightLeg
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(62) RightFoot
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(63) RightToeBase
+[2024.03.30-19.04.33:398][522]LogFbx: SortedLinks :(64) RightToe_End
+[2024.03.30-19.04.33:399][522]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.30-19.04.33:800][522]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Skateboarding.Skateboarding
+[2024.03.30-19.04.33:820][522]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Skateboarding.Skateboarding
+[2024.03.30-19.04.33:836][522]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Skateboarding.Skateboarding, at AnimationSequence/8b777a2eff811c20e5a5cd1a6bc605226b905485
+[2024.03.30-19.04.49:205][393]BlueprintLog: New page: Compile ABP_Character
+[2024.03.30-19.04.49:234][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.30-19.04.50:304][451]BlueprintLog: New page: Compile ABP_Character
+[2024.03.30-19.04.50:336][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.30-19.04.51:789][534]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-19.04.51:799][534]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.30-19.04.51:799][534]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.30-19.04.51:804][534]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 22 ms)
+[2024.03.30-19.04.51:804][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-19.04.51:804][534]PIE: New page: PIE session: ThirdPersonMap (Mar 30, 2024, 1:04:51 PM)
+[2024.03.30-19.04.51:805][534]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-19.04.51:809][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004335s)
+[2024.03.30-19.04.51:809][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004400s)
+[2024.03.30-19.04.51:822][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.30-19.04.51:825][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.04.51:825][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-19.04.51:825][534]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.30-19.04.51:826][534]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.30-19.04.51:826][534]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.30-19.04.51:826][534]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.30-19.04.51:826][534]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.30-19.04.51:827][534]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.30-19.04.51:827][534]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 66 ms)
+[2024.03.30-19.04.51:827][534]LogPlayLevel: PIE: World Init took: (0.003003s)
+[2024.03.30-19.04.51:827][534]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-19.04.51:827][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-19.04.51:827][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-19.04.51:828][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-19.04.51:828][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-19.04.51:828][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-19.04.51:830][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-19.04.51:904][534]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-19.04.51:904][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-19.04.51:904][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-19.04.51:904][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-19.04.51:906][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.30-19.04.51:906][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.30-19.04.51:908][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.30-19.04.51:908][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.30-19.04.51:908][534]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.30-19.04.51:908][534]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.03.30-19.04.51:908][534]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.30-19.04.51:911][534]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-19.04.51:913][534]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.03.30-16.04.51
+[2024.03.30-19.04.51:914][534]LogWorld: Bringing up level for play took: 0.001793
+[2024.03.30-19.04.51:916][534]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.03.30-19.04.51:920][534]PIE: Server logged in
+[2024.03.30-19.04.51:921][534]PIE: Play in editor total start time 0.122 seconds.
+[2024.03.30-19.05.15:950][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-19.05.15:950][969]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-19.05.15:950][969]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-19.05.15:951][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-19.05.15:951][969]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.30-19.05.15:954][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-19.05.15:959][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-19.05.15:975][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-19.05.15:976][969]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.30-19.05.15:976][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.30-19.05.15:978][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.30-19.05.15:987][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-19.05.15:991][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.30-19.05.16:037][970]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.03.30-19.05.22:250][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.30-19.05.23:891][325]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.30-19.05.25:189][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.30-19.05.25:847][400]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-19.05.25:857][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.05.25:993][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Character" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset" SILENT=true
+[2024.03.30-19.05.26:005][400]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Character
+[2024.03.30-19.05.26:008][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/ABP_CharacterD8F749104841AF736F455D935F08815A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset'
+[2024.03.30-19.05.26:019][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Skateboarding" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Animations/Skateboarding.uasset" SILENT=true
+[2024.03.30-19.05.26:035][400]LogSavePackage: Moving output files for package: /Game/Animations/Skateboarding
+[2024.03.30-19.05.26:035][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding0294084A4816AFD4035C2E98351E4644.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Animations/Skateboarding.uasset'
+[2024.03.30-19.05.26:051][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 16.4 sec)
+[2024.03.30-19.05.26:053][400]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-19.05.26:053][400]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/ABP_Character.ABP_Character
+[2024.03.30-19.05.26:053][400]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/Skateboarding.Skateboarding
+[2024.03.30-19.05.31:707][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.30-19.05.32:969][728]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.30-19.05.32:985][728]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animations/Skateboarding_Anim_mixamo_com.Skateboarding_Anim_mixamo_com
+	Asset Type: AnimSequence
+[2024.03.30-19.05.33:296][728]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A02919478BA467E701_1902618240 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZI/H8CCLJSU5ON1ZWRODHPG5W.PackageMetaData in its package
+[2024.03.30-19.05.33:301][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.30-19.05.33:322][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.30-19.05.33:342][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.30-19.05.33:365][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.30-19.06.31:321][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.30-19.06.32:644][203]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-19.06.32:654][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.06.32:746][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ABP_Character" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset" SILENT=true
+[2024.03.30-19.06.32:758][203]LogSavePackage: Moving output files for package: /Game/Blueprints/ABP_Character
+[2024.03.30-19.06.32:761][203]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/ABP_Character950B62E641F96C513993E09ADC1EB496.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/ABP_Character.uasset'
+[2024.03.30-19.06.32:772][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 16.5 sec)
+[2024.03.30-19.06.32:772][203]AssetCheck: New page: Asset Save: ABP_Character
+[2024.03.30-19.06.32:772][203]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/ABP_Character.ABP_Character
