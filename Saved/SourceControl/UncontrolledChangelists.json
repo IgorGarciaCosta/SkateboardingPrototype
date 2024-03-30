@@ -8,7 +8,17 @@
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap",
 				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/GM_Menu.uasset",
-				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset"
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/GM_MainGameMode.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/GM_MainGameMode.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/GM_Menu.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/PC_MainPlayerController.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/PC_MainPlayerController.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/BP_MusicController.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/FeelGood.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/fightingDreamers.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/herosComeBack.uasset"
 			]
 		}
 	]
