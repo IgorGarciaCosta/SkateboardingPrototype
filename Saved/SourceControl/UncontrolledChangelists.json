@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/GM_Menu.uasset",
+				"C:/Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset"
+			]
+		}
+	]
+}

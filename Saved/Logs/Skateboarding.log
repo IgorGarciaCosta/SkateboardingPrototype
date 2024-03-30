@@ -1337,3 +1337,1489 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.30-22.56.17:267][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2024.03.30-22.56.17:318][719]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2024.03.30-22.58.37:173][448]LogDerivedDataCache: C:/Users/ISILV125/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:28.018 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 56766 files in 35420 folders with total size 30952 MiB.
+[2024.03.30-22.58.46:329][476]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.03.30-22.58.46:330][476]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.03.30-22.59.06:947][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.30-22.59.07:052][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.07:053][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Empty.Empty
+[2024.03.30-22.59.07:053][571]Cmd: MAP LOAD FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-22.59.07:053][571]LightingResults: New page: Lighting Build
+[2024.03.30-22.59.07:053][571]LoadErrors: New page: Loading map: Empty.umap
+[2024.03.30-22.59.07:100][571]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-22.59.07:101][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-22.59.07:101][571]MapCheck: New page: Map Check
+[2024.03.30-22.59.07:101][571]LightingResults: New page: Lighting Build
+[2024.03.30-22.59.07:104][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-22.59.07:105][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.30-22.59.07:107][571]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-22.59.07:107][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-22.59.07:111][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.30-22.59.07:115][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.30-22.59.07:120][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'Empty'.
+[2024.03.30-22.59.07:120][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.07:120][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-22.59.07:121][571]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-22.59.07:146][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-22.59.07:150][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.03.30-22.59.07:156][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-22.59.07:156][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2024.03.30-22.59.08:311][638]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-22.59.08:318][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-22.59.08:318][638]PIE: New page: PIE session: Empty (Mar 30, 2024, 4:59:08 PM)
+[2024.03.30-22.59.08:339][638]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-22.59.08:341][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001006s)
+[2024.03.30-22.59.08:341][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001035s)
+[2024.03.30-22.59.08:343][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.30-22.59.08:345][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.08:345][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-22.59.08:345][638]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-22.59.08:346][638]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2024.03.30-22.59.08:346][638]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-22.59.08:346][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-22.59.08:346][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-22.59.08:346][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-22.59.08:346][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-22.59.08:346][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-22.59.08:348][638]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-22.59.08:415][638]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-22.59.08:415][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-22.59.08:415][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-22.59.08:415][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-22.59.08:416][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.03.30-22.59.08:416][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.03.30-22.59.08:417][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.03.30-22.59.08:417][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.03.30-22.59.08:417][638]LogInit: FAudioDevice initialized with ID 4.
+[2024.03.30-22.59.08:417][638]LogAudio: Display: Audio Device (ID: 4) registered with world 'Empty'.
+[2024.03.30-22.59.08:417][638]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.30-22.59.08:420][638]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-22.59.08:420][638]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-19.59.08
+[2024.03.30-22.59.08:420][638]LogWorld: Bringing up level for play took: 0.000281
+[2024.03.30-22.59.08:422][638]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.03.30-22.59.08:425][638]PIE: Server logged in
+[2024.03.30-22.59.08:426][638]PIE: Play in editor total start time 0.108 seconds.
+[2024.03.30-22.59.16:030][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-22.59.16:030][ 89]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-22.59.16:030][ 89]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-22.59.16:030][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-22.59.16:033][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-22.59.16:035][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-22.59.16:037][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-22.59.16:038][ 89]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.30-22.59.16:038][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.30-22.59.16:039][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.30-22.59.16:045][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-22.59.16:047][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.30-22.59.16:112][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.03.30-22.59.18:265][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.03.30-22.59.18:317][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.18:318][222]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/SkatePark.SkatePark
+[2024.03.30-22.59.18:318][222]Cmd: MAP LOAD FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-22.59.18:318][222]LightingResults: New page: Lighting Build
+[2024.03.30-22.59.18:318][222]LoadErrors: New page: Loading map: SkatePark.umap
+[2024.03.30-22.59.18:336][222]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-22.59.18:336][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-22.59.18:336][222]MapCheck: New page: Map Check
+[2024.03.30-22.59.18:336][222]LightingResults: New page: Lighting Build
+[2024.03.30-22.59.18:339][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-22.59.18:340][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.30-22.59.18:342][222]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-22.59.18:342][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-22.59.18:345][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.30-22.59.18:348][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.30-22.59.18:352][222]LogAudio: Display: Audio Device (ID: 1) registered with world 'SkatePark'.
+[2024.03.30-22.59.18:352][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.18:352][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-22.59.18:352][222]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-22.59.18:407][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-22.59.18:412][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.30-22.59.18:417][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-22.59.18:417][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
+[2024.03.30-22.59.31:973][ 25]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.30-22.59.32:000][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.33:083][ 88]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/SkatePark.SkatePark:PersistentLevel.SkatePark
+[2024.03.30-22.59.33:084][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.33:084][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-22.59.33:092][ 88]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.30-22.59.33:741][ 88]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.30-22.59.33:743][ 88]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.30-22.59.35:507][181]LogSlate: Window 'SkatePark' being destroyed
+[2024.03.30-22.59.45:730][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.45:791][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.45:796][779]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_0
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:796][779]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_0
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:796][779]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_0
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.45:816][780]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_1
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:816][780]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_1
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:816][780]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_1
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.45:833][781]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_2
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:833][781]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_2
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:833][781]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_2
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.45:847][782]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_3
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:847][782]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_3
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:847][782]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_3
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.45:859][783]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_4
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:859][783]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_4
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:859][783]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_4
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.45:876][784]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_5
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:876][784]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_5
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:876][784]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_5
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.45:893][785]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_6
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-22.59.45:894][785]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_6
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-22.59.45:894][785]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_6
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-22.59.46:598][824]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-22.59.46:598][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.46:598][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-22.59.46:806][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.46:839][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-22.59.49:677][990]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.30-23.00.34:656][675]LogEditorTransaction: Undo Delete current selection
+[2024.03.30-23.01.02:623][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.01.02:631][293]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.30-23.01.02:633][293]LogPlayLevel: [PlayLevel] Compiling ABP_Character before play...
+[2024.03.30-23.01.02:634][293]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.30-23.01.02:652][293]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.01.02:652][293]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.01.02:652][293]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.01.02:704][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.30-23.01.02:705][293]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (2 blueprints)
+[2024.03.30-23.01.02:705][293]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 5:01:02 PM)
+[2024.03.30-23.01.02:706][293]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.01.02:708][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001867s)
+[2024.03.30-23.01.02:708][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001899s)
+[2024.03.30-23.01.02:719][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.01.02:720][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.01.02:720][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.01.02:720][293]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.01.02:720][293]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2024.03.30-23.01.02:720][293]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.30-23.01.02:720][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.01.02:720][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.01.02:720][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.01.02:721][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.01.02:721][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.01.02:721][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.01.02:721][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.01.02:721][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.01.02:721][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.01.02:721][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.01.02:721][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.01.02:723][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.01.02:785][293]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.01.02:785][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.01.02:785][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.01.02:785][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.01.02:785][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.30-23.01.02:785][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.30-23.01.02:787][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.30-23.01.02:787][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.30-23.01.02:787][293]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.30-23.01.02:787][293]LogAudio: Display: Audio Device (ID: 5) registered with world 'SkatePark'.
+[2024.03.30-23.01.02:787][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.30-23.01.02:853][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.01.02:853][293]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.01.02:854][293]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.01.02
+[2024.03.30-23.01.02:854][293]LogWorld: Bringing up level for play took: 0.000906
+[2024.03.30-23.01.02:857][293]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.03.30-23.01.02:859][293]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.01.02:860][293]PIE: Server logged in
+[2024.03.30-23.01.02:860][293]PIE: Play in editor total start time 0.23 seconds.
+[2024.03.30-23.01.02:931][293]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.01.04:140][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.01.04:140][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.01.04:140][353]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.01.04:144][353]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.01.04:144][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.04:146][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.01.04:151][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.04:165][353]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.30-23.01.04:165][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.30-23.01.04:167][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.30-23.01.04:175][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.30-23.01.04:232][355]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.03.30-23.01.05:366][421]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_7
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.05:366][421]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_7
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.05:366][421]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_7
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.05:908][451]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_8
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.05:908][451]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_8
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.05:908][451]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_8
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.05:944][452]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_9
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.05:944][452]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_9
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.05:944][452]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_9
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.05:953][453]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_10
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.05:953][453]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_10
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.05:953][453]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_10
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.05:969][454]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_11
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.05:969][454]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_11
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.05:969][454]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_11
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.05:986][455]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_12
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.05:986][455]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_12
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.05:986][455]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_12
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.06:003][456]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_13
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.03.30-23.01.06:003][456]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_13
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.03.30-23.01.06:003][456]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_13
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.03.30-23.01.07:720][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.30-23.01.08:980][558]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-23.01.08:988][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.01.09:061][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.01.09:130][558]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008613 seconds
+[2024.03.30-23.01.09:152][558]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_ThirdPersonCharacter
+[2024.03.30-23.01.09:154][558]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacterFA5E460341736E846CD8338BDEFCE35A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-23.01.09:164][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms
+[2024.03.30-23.01.09:249][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.01.09:250][558]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Empty.Empty
+[2024.03.30-23.01.09:250][558]Cmd: MAP LOAD FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.30-23.01.09:250][558]LightingResults: New page: Lighting Build
+[2024.03.30-23.01.09:250][558]LoadErrors: New page: Loading map: Empty.umap
+[2024.03.30-23.01.09:293][558]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.01.09:293][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.09:313][558]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.01.09:314][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.09:314][558]MapCheck: New page: Map Check
+[2024.03.30-23.01.09:314][558]LightingResults: New page: Lighting Build
+[2024.03.30-23.01.09:325][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.01.09:327][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.30-23.01.09:330][558]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.01.09:330][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.09:343][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.30-23.01.09:355][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.01.09:361][558]LogAudio: Display: Audio Device (ID: 1) registered with world 'Empty'.
+[2024.03.30-23.01.09:361][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.01.09:361][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.01.09:361][558]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.01.09:385][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.30-23.01.09:398][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.30-23.01.09:404][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.30-23.01.09:405][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2024.03.30-23.01.09:418][558]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.30-23.01.09:418][558]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-23.01.10:158][598]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.01.10:165][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.01.10:165][598]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:01:10 PM)
+[2024.03.30-23.01.10:165][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.01.10:166][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2024.03.30-23.01.10:166][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001123s)
+[2024.03.30-23.01.10:178][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-23.01.10:181][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.01.10:181][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.01.10:181][598]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.01.10:182][598]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2024.03.30-23.01.10:182][598]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.01.10:182][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.01.10:182][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.01.10:182][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.01.10:182][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.01.10:182][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.01.10:184][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.01.10:245][598]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.01.10:245][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.01.10:245][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.01.10:246][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.01.10:246][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.30-23.01.10:246][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.30-23.01.10:248][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.30-23.01.10:248][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.30-23.01.10:248][598]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.30-23.01.10:248][598]LogAudio: Display: Audio Device (ID: 6) registered with world 'Empty'.
+[2024.03.30-23.01.10:248][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.30-23.01.10:251][598]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.01.10:251][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.01.10
+[2024.03.30-23.01.10:251][598]LogWorld: Bringing up level for play took: 0.000268
+[2024.03.30-23.01.10:253][598]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.30-23.01.10:256][598]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.01.10:256][598]PIE: Server logged in
+[2024.03.30-23.01.10:256][598]PIE: Play in editor total start time 0.091 seconds.
+[2024.03.30-23.01.13:256][773]Cmd: quit
+[2024.03.30-23.01.13:257][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.01.13:257][773]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.01.13:257][773]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.01.13:257][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.13:259][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.01.13:263][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.01.13:274][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.01.13:274][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.30-23.01.13:274][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.30-23.01.13:276][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.30-23.01.13:283][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.30-23.01.13:365][777]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.30-23.02.10:095][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.02.10:104][710]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.30-23.02.10:106][710]LogPlayLevel: [PlayLevel] Compiling ABP_Character before play...
+[2024.03.30-23.02.10:107][710]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.30-23.02.10:124][710]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.10:124][710]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.10:124][710]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.10:175][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.30-23.02.10:176][710]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (2 blueprints)
+[2024.03.30-23.02.10:176][710]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:02:10 PM)
+[2024.03.30-23.02.10:176][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.02.10:178][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001248s)
+[2024.03.30-23.02.10:178][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001277s)
+[2024.03.30-23.02.10:188][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.30-23.02.10:189][710]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.02.10:189][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.02.10:189][710]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.02.10:189][710]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2024.03.30-23.02.10:189][710]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.30-23.02.10:189][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.02.10:189][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.02.10:190][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.02.10:190][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.02.10:190][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.02.10:190][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.02.10:190][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.02.10:190][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.02.10:190][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.02.10:190][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.02.10:190][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.02.10:192][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.02.10:253][710]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.02.10:254][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.02.10:254][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.02.10:254][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.02.10:255][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.30-23.02.10:255][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.30-23.02.10:256][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.30-23.02.10:256][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.30-23.02.10:256][710]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.30-23.02.10:256][710]LogAudio: Display: Audio Device (ID: 7) registered with world 'Empty'.
+[2024.03.30-23.02.10:256][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.30-23.02.10:329][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.02.10:329][710]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.02.10:329][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.02.10
+[2024.03.30-23.02.10:330][710]LogWorld: Bringing up level for play took: 0.000474
+[2024.03.30-23.02.10:332][710]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.30-23.02.10:332][710]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.02.10:334][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.02.10:335][710]PIE: Server logged in
+[2024.03.30-23.02.10:336][710]PIE: Play in editor total start time 0.232 seconds.
+[2024.03.30-23.02.10:414][710]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.02.12:663][833]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.02.12:664][833]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.02.12:664][833]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.02.12:664][833]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.02.12:664][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.12:698][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.02.12:700][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.30-23.02.12:706][833]LogAudio: Display: Audio Device (ID: 7) registered with world 'SkatePark'.
+[2024.03.30-23.02.12:706][833]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.02.12:706][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.02.12:707][833]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.02.12:707][833]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2024.03.30-23.02.12:707][833]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.02.12:708][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.02.12
+[2024.03.30-23.02.12:708][833]LogWorld: Bringing up level for play took: 0.001033
+[2024.03.30-23.02.12:710][833]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.02.12:710][833]LogLoad: Took 0.046297 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.02.14:649][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.02.14:649][948]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.02.14:649][948]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.02.14:654][948]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.02.14:654][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.14:656][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.02.14:661][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.14:673][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.30-23.02.14:673][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.30-23.02.14:675][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.30-23.02.14:683][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.30-23.02.14:737][950]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.30-23.02.20:395][276]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-23.02.20:416][276]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.20:416][276]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.20:417][276]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.20:443][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.02.21:404][324]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.02.21:412][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.02.21:412][324]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:02:21 PM)
+[2024.03.30-23.02.21:412][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.02.21:413][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001125s)
+[2024.03.30-23.02.21:413][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001152s)
+[2024.03.30-23.02.21:424][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.30-23.02.21:427][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.02.21:428][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.02.21:428][324]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.02.21:428][324]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2024.03.30-23.02.21:428][324]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.02.21:428][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.02.21:428][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.02.21:429][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.02.21:429][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.02.21:429][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.02.21:431][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.02.21:491][324]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.02.21:492][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.02.21:492][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.02.21:492][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.02.21:492][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.03.30-23.02.21:492][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.03.30-23.02.21:494][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.03.30-23.02.21:494][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.03.30-23.02.21:494][324]LogInit: FAudioDevice initialized with ID 8.
+[2024.03.30-23.02.21:494][324]LogAudio: Display: Audio Device (ID: 8) registered with world 'Empty'.
+[2024.03.30-23.02.21:494][324]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.30-23.02.21:563][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.02.21:563][324]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.02.21:563][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.02.21
+[2024.03.30-23.02.21:564][324]LogWorld: Bringing up level for play took: 0.000340
+[2024.03.30-23.02.21:566][324]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.03.30-23.02.21:566][324]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.02.21:567][324]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PlayerController_0
+[2024.03.30-23.02.21:570][324]PIE: Server logged in
+[2024.03.30-23.02.21:572][324]PIE: Play in editor total start time 0.161 seconds.
+[2024.03.30-23.02.21:578][324]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.02.23:104][402]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.02.23:104][402]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.02.23:104][402]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.02.23:105][402]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.02.23:105][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.23:148][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.02.23:150][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.30-23.02.23:155][402]LogAudio: Display: Audio Device (ID: 8) registered with world 'SkatePark'.
+[2024.03.30-23.02.23:155][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.02.23:155][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.02.23:156][402]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.02.23:156][402]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2024.03.30-23.02.23:156][402]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.02.23:157][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.02.23
+[2024.03.30-23.02.23:157][402]LogWorld: Bringing up level for play took: 0.000953
+[2024.03.30-23.02.23:159][402]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PlayerController_0
+[2024.03.30-23.02.23:159][402]LogLoad: Took 0.054621 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.02.23:950][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.02.23:950][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.02.23:950][448]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.02.23:955][448]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.02.23:956][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.23:958][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.02.23:962][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.23:975][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.30-23.02.23:975][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.30-23.02.23:977][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.30-23.02.23:985][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.02.24:035][451]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.03.30-23.02.39:694][348]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.02.39:701][348]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.30-23.02.39:704][348]LogPlayLevel: [PlayLevel] Compiling ABP_Character before play...
+[2024.03.30-23.02.39:705][348]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.30-23.02.39:723][348]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.39:723][348]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.39:723][348]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.02.39:777][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.30-23.02.39:778][348]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (2 blueprints)
+[2024.03.30-23.02.39:778][348]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:02:39 PM)
+[2024.03.30-23.02.39:778][348]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.02.39:779][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001071s)
+[2024.03.30-23.02.39:779][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001096s)
+[2024.03.30-23.02.39:789][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.30-23.02.39:789][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.02.39:790][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.02.39:790][348]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.02.39:791][348]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2024.03.30-23.02.39:791][348]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.02.39:791][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.02.39:791][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.02.39:791][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.02.39:791][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.02.39:791][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.02.39:793][348]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.02.39:852][348]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.02.39:852][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.02.39:852][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.02.39:852][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.02.39:853][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.03.30-23.02.39:853][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.03.30-23.02.39:855][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.03.30-23.02.39:855][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.03.30-23.02.39:855][348]LogInit: FAudioDevice initialized with ID 9.
+[2024.03.30-23.02.39:855][348]LogAudio: Display: Audio Device (ID: 9) registered with world 'Empty'.
+[2024.03.30-23.02.39:855][348]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.30-23.02.39:929][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.02.39:929][348]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.02.39:930][348]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.02.39
+[2024.03.30-23.02.39:930][348]LogWorld: Bringing up level for play took: 0.000321
+[2024.03.30-23.02.39:932][348]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.03.30-23.02.39:932][348]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.02.39:934][348]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] BP_ThirdPersonCharacter_C_0
+[2024.03.30-23.02.39:936][348]PIE: Server logged in
+[2024.03.30-23.02.39:936][348]PIE: Play in editor total start time 0.235 seconds.
+[2024.03.30-23.02.40:011][348]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.02.41:862][446]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.02.41:863][446]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.02.41:863][446]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.02.41:863][446]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.02.41:863][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.41:875][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.02.41:877][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.02.41:882][446]LogAudio: Display: Audio Device (ID: 9) registered with world 'SkatePark'.
+[2024.03.30-23.02.41:882][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.02.41:882][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.02.41:882][446]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.02.41:883][446]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.03.30-23.02.41:883][446]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.02.41:884][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.02.41
+[2024.03.30-23.02.41:884][446]LogWorld: Bringing up level for play took: 0.000997
+[2024.03.30-23.02.41:886][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] BP_ThirdPersonCharacter_C_0
+[2024.03.30-23.02.41:886][446]LogLoad: Took 0.023385 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.02.42:709][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.02.42:709][494]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.02.42:709][494]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.02.42:714][494]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.02.42:714][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.42:717][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.02.42:721][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.02.42:735][494]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.30-23.02.42:735][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.30-23.02.42:737][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.30-23.02.42:745][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.30-23.02.42:796][495]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.03.30-23.03.20:270][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.03.20:280][685]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.30-23.03.20:282][685]LogPlayLevel: [PlayLevel] Compiling ABP_Character before play...
+[2024.03.30-23.03.20:284][685]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.30-23.03.20:301][685]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.03.20:302][685]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.03.20:302][685]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.03.20:360][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.03.20:361][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (2 blueprints)
+[2024.03.30-23.03.20:361][685]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:03:20 PM)
+[2024.03.30-23.03.20:361][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.03.20:362][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001123s)
+[2024.03.30-23.03.20:362][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001168s)
+[2024.03.30-23.03.20:374][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.30-23.03.20:375][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.03.20:375][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.03.20:376][685]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.03.20:376][685]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2024.03.30-23.03.20:376][685]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.03.20:376][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.03.20:376][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.03.20:377][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.03.20:377][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.03.20:377][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.03.20:379][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.03.20:439][685]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.03.20:439][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.03.20:440][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.03.20:440][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.03.20:440][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.30-23.03.20:440][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.03.30-23.03.20:442][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.30-23.03.20:442][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.30-23.03.20:442][685]LogInit: FAudioDevice initialized with ID 10.
+[2024.03.30-23.03.20:442][685]LogAudio: Display: Audio Device (ID: 10) registered with world 'Empty'.
+[2024.03.30-23.03.20:442][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.30-23.03.20:512][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.03.20:513][685]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.03.20:513][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.03.20
+[2024.03.30-23.03.20:513][685]LogWorld: Bringing up level for play took: 0.000327
+[2024.03.30-23.03.20:515][685]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.03.30-23.03.20:516][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.03.20:517][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PersistentLevel
+[2024.03.30-23.03.20:519][685]PIE: Server logged in
+[2024.03.30-23.03.20:520][685]PIE: Play in editor total start time 0.24 seconds.
+[2024.03.30-23.03.20:595][685]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.03.21:902][751]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.03.21:902][751]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.03.21:902][751]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.03.21:903][751]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.03.21:903][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.03.21:912][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.03.21:914][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.03.21:919][751]LogAudio: Display: Audio Device (ID: 10) registered with world 'SkatePark'.
+[2024.03.30-23.03.21:919][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.03.21:920][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.03.21:920][751]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.03.21:920][751]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2024.03.30-23.03.21:920][751]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.03.21:921][751]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.03.21
+[2024.03.30-23.03.21:921][751]LogWorld: Bringing up level for play took: 0.001020
+[2024.03.30-23.03.21:923][751]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PersistentLevel
+[2024.03.30-23.03.21:923][751]LogLoad: Took 0.021085 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.03.23:200][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.03.23:200][825]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.03.23:200][825]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.03.23:206][825]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.03.23:206][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.03.23:208][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.03.23:213][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.03.23:226][825]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.30-23.03.23:226][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.30-23.03.23:228][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.30-23.03.23:236][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.30-23.03.23:253][826]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.03.30-23.03.50:526][429]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-23.03.50:547][429]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.03.50:547][429]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.03.50:547][429]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.03.50:573][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.30-23.03.54:857][677]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:206][698]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:245][699]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:261][700]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:278][701]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:294][702]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:311][703]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:327][704]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:344][705]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:361][706]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:377][707]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:394][708]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:411][709]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:428][710]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:444][711]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:461][712]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:478][713]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:494][714]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:528][716]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:545][717]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:611][721]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:627][722]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:728][728]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:756][729]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:772][730]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:788][731]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:805][732]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:822][733]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:938][740]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:954][741]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.55:971][742]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.56:155][753]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.56:172][754]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.56:421][769]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:391][818]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:833][845]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:849][846]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:866][847]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:883][848]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:899][849]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:916][850]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.57:933][851]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:183][866]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:200][867]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:216][868]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:233][869]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:250][870]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:266][871]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:282][872]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:299][873]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:316][874]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:332][875]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:349][876]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:366][877]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:383][878]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:399][879]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:416][880]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:433][881]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:449][882]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:466][883]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:483][884]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:500][885]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:516][886]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.03.58:936][911]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_HUD.WBP_HUD
+[2024.03.30-23.03.58:937][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.03.58:937][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.03.58:946][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.03.58:946][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.03.58:952][911]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.30-23.03.59:094][911]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.30-23.04.08:995][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.04.09:186][492]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_ThirdPersonCharacter
+[2024.03.30-23.04.09:189][492]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter394085CA455A35D8D0612782B5C69E74.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-23.04.09:201][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 382 ms)
+[2024.03.30-23.04.09:203][492]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.30-23.04.09:203][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-23.05.08:018][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.05.08:026][970]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.30-23.05.08:028][970]LogPlayLevel: [PlayLevel] Compiling ABP_Character before play...
+[2024.03.30-23.05.08:030][970]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.30-23.05.08:048][970]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.05.08:048][970]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.05.08:049][970]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.05.08:110][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.05.08:112][970]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (2 blueprints)
+[2024.03.30-23.05.08:112][970]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:05:08 PM)
+[2024.03.30-23.05.08:112][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.05.08:113][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001218s)
+[2024.03.30-23.05.08:113][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001245s)
+[2024.03.30-23.05.08:123][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.30-23.05.08:123][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.05.08:123][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.05.08:124][970]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.05.08:124][970]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2024.03.30-23.05.08:124][970]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.05.08:124][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.05.08:124][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.05.08:125][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.05.08:125][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.05.08:125][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.05.08:127][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.05.08:189][970]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.05.08:189][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.05.08:189][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.05.08:189][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.05.08:190][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.30-23.05.08:190][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.30-23.05.08:192][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.30-23.05.08:192][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.30-23.05.08:192][970]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.30-23.05.08:192][970]LogAudio: Display: Audio Device (ID: 11) registered with world 'Empty'.
+[2024.03.30-23.05.08:192][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.30-23.05.08:243][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.05.08:243][970]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.05.08:244][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.05.08
+[2024.03.30-23.05.08:244][970]LogWorld: Bringing up level for play took: 0.000348
+[2024.03.30-23.05.08:246][970]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.03.30-23.05.08:246][970]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.05.08:248][970]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] BP_ThirdPersonGameMode_C_0
+[2024.03.30-23.05.08:249][970]PIE: Server logged in
+[2024.03.30-23.05.08:250][970]PIE: Play in editor total start time 0.224 seconds.
+[2024.03.30-23.05.08:324][970]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.05.11:236][131]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.05.11:236][131]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.05.11:236][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.05.11:236][131]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.05.11:237][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.05.11:278][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.05.11:280][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.30-23.05.11:286][131]LogAudio: Display: Audio Device (ID: 11) registered with world 'SkatePark'.
+[2024.03.30-23.05.11:286][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.05.11:286][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.05.11:286][131]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.05.11:287][131]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2024.03.30-23.05.11:287][131]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.05.11:288][131]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.05.11
+[2024.03.30-23.05.11:288][131]LogWorld: Bringing up level for play took: 0.001048
+[2024.03.30-23.05.11:289][131]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] BP_ThirdPersonGameMode_C_0
+[2024.03.30-23.05.11:290][131]LogLoad: Took 0.054230 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.05.14:589][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.05.14:589][327]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.05.14:589][327]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.05.14:594][327]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.05.14:594][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.05.14:596][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.05.14:602][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.05.14:615][327]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.30-23.05.14:615][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.30-23.05.14:617][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.30-23.05.14:625][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.30-23.05.14:680][329]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.03.30-23.05.16:955][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.05.17:156][463]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_ThirdPersonCharacter
+[2024.03.30-23.05.17:158][463]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacterD311669B49955094225B24805233227B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-23.05.17:166][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 593 ms)
+[2024.03.30-23.05.17:168][463]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.30-23.05.17:168][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-23.05.38:390][696]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-23.05.38:412][696]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.05.38:412][696]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.05.38:412][696]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.05.38:442][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.30-23.05.38:993][722]LogBlueprintUserMessages: [WBP_MainMenu_C_1] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.05.40:073][786]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.05.40:081][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.05.40:081][786]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:05:40 PM)
+[2024.03.30-23.05.40:081][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.05.40:082][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001039s)
+[2024.03.30-23.05.40:082][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001065s)
+[2024.03.30-23.05.40:095][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.05.40:099][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.05.40:099][786]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.05.40:099][786]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.05.40:100][786]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2024.03.30-23.05.40:100][786]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.05.40:100][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.05.40:100][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.05.40:100][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.05.40:100][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.05.40:100][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.05.40:102][786]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.05.40:162][786]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.05.40:162][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.05.40:162][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.05.40:162][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.05.40:163][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.30-23.05.40:163][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.30-23.05.40:165][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.30-23.05.40:165][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.30-23.05.40:165][786]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.30-23.05.40:165][786]LogAudio: Display: Audio Device (ID: 12) registered with world 'Empty'.
+[2024.03.30-23.05.40:165][786]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.30-23.05.40:167][786]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.05.40:168][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.05.40
+[2024.03.30-23.05.40:168][786]LogWorld: Bringing up level for play took: 0.000284
+[2024.03.30-23.05.40:170][786]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.03.30-23.05.40:171][786]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.05.40:172][786]PIE: Server logged in
+[2024.03.30-23.05.40:173][786]PIE: Play in editor total start time 0.093 seconds.
+[2024.03.30-23.05.42:335][907]LogViewport: Scene viewport resized to 408x170, mode Windowed.
+[2024.03.30-23.05.50:935][415]LogViewport: Scene viewport resized to 408x170, mode Windowed.
+[2024.03.30-23.06.04:360][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.06.04:360][213]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.06.04:360][213]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.06.04:360][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.06.04:364][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.06.04:368][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.06.04:377][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.06.04:378][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.30-23.06.04:378][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.30-23.06.04:380][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.30-23.06.04:385][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.06.04:386][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.06.04:438][216]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.30-23.06.09:622][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.06.09:630][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.06.09:630][527]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:06:09 PM)
+[2024.03.30-23.06.09:630][527]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.06.09:631][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001047s)
+[2024.03.30-23.06.09:631][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001072s)
+[2024.03.30-23.06.09:643][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.06.09:645][527]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.06.09:645][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.06.09:645][527]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.06.09:645][527]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2024.03.30-23.06.09:645][527]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.30-23.06.09:645][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.06.09:645][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.06.09:645][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.06.09:645][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.06.09:645][527]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.06.09:646][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.06.09:646][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.06.09:646][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.06.09:646][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.06.09:646][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.06.09:646][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.06.09:648][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.06.09:712][527]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.06.09:713][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.06.09:713][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.06.09:713][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.06.09:714][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.30-23.06.09:714][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.30-23.06.09:715][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.30-23.06.09:715][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.30-23.06.09:715][527]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.30-23.06.09:715][527]LogAudio: Display: Audio Device (ID: 13) registered with world 'Empty'.
+[2024.03.30-23.06.09:715][527]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.30-23.06.09:718][527]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.06.09:718][527]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.06.09
+[2024.03.30-23.06.09:718][527]LogWorld: Bringing up level for play took: 0.000277
+[2024.03.30-23.06.09:720][527]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.30-23.06.09:722][527]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.06.09:722][527]PIE: Server logged in
+[2024.03.30-23.06.09:723][527]PIE: Play in editor total start time 0.093 seconds.
+[2024.03.30-23.06.28:122][614]LogViewport: Scene viewport resized to 408x170, mode Windowed.
+[2024.03.30-23.06.30:470][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.06.30:470][751]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.06.30:471][751]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.06.30:471][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.06.30:490][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.06.30:493][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.06.30:504][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.06.30:505][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.30-23.06.30:505][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.30-23.06.30:507][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.30-23.06.30:514][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-23.06.30:597][752]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.30-23.07.26:020][222]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:036][223]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:072][224]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:088][225]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:105][226]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:122][227]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:138][228]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.26:155][229]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.27:239][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.07.31:191][515]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.30-23.07.33:692][583]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.30-23.07.33:697][583]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.30-23.07.33:703][583]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.30-23.07.33:712][584]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.30-23.07.36:144][729]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_Menu
+[2024.03.30-23.07.36:150][729]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.30-23.07.46:117][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.30-23.07.46:990][309]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-23.07.46:997][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.07.47:073][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Empty" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.30-23.07.47:101][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.03.30-23.07.47:110][309]LogSavePackage: Moving output files for package: /Game/Maps/Empty
+[2024.03.30-23.07.47:112][309]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Empty2F78333B40EBA7254BB0EC82E98D2DE3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap'
+[2024.03.30-23.07.47:122][309]LogFileHelpers: Saving map 'Empty' took 0.051
+[2024.03.30-23.07.47:231][309]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_ThirdPersonCharacter
+[2024.03.30-23.07.47:234][309]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter2F34FAE54007ED0E6939D2A2FDD75458.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-23.07.47:237][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Menu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/GM_Menu.uasset" SILENT=true
+[2024.03.30-23.07.47:242][309]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Menu
+[2024.03.30-23.07.47:242][309]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/GM_Menu80B9EB734E0E042A2527979F81DCFBAE.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/GM_Menu.uasset'
+[2024.03.30-23.07.47:253][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 849 ms)
+[2024.03.30-23.07.47:255][309]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-23.07.47:255][309]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Empty.Empty
+[2024.03.30-23.07.47:255][309]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-23.07.47:256][309]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_Menu.GM_Menu
+[2024.03.30-23.07.47:866][343]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.07.47:875][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.07.47:875][343]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:07:47 PM)
+[2024.03.30-23.07.47:875][343]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.07.47:876][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001059s)
+[2024.03.30-23.07.47:876][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001084s)
+[2024.03.30-23.07.47:888][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.30-23.07.47:889][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.07.47:889][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.07.47:890][343]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.07.47:890][343]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2024.03.30-23.07.47:890][343]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.07.47:890][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.07.47:890][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.07.47:891][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.07.47:891][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.07.47:891][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.07.47:893][343]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.07.47:953][343]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.07.47:953][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.07.47:953][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.07.47:953][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.07.47:954][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.30-23.07.47:954][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.30-23.07.47:955][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.30-23.07.47:955][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.30-23.07.47:955][343]LogInit: FAudioDevice initialized with ID 14.
+[2024.03.30-23.07.47:955][343]LogAudio: Display: Audio Device (ID: 14) registered with world 'Empty'.
+[2024.03.30-23.07.47:955][343]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.30-23.07.47:959][343]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.30-23.07.47:959][343]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.07.47
+[2024.03.30-23.07.47:959][343]LogWorld: Bringing up level for play took: 0.000296
+[2024.03.30-23.07.47:961][343]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.03.30-23.07.47:962][343]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.07.47:962][343]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Empty_C /Game/Maps/UEDPIE_0_Empty.Empty:PersistentLevel.Empty_C_1
+	Function /Game/Maps/Empty.Empty_C:ExecuteUbergraph_Empty:00CD
+[2024.03.30-23.07.47:962][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  Disable Movement Graph:  EventGraph Function:  Execute Ubergraph Empty Blueprint:  Empty
+[2024.03.30-23.07.47:962][343]LogScript: Warning: Accessed None
+	Empty_C /Game/Maps/UEDPIE_0_Empty.Empty:PersistentLevel.Empty_C_1
+	Function /Game/Maps/Empty.Empty_C:ExecuteUbergraph_Empty:00E2
+[2024.03.30-23.07.47:962][343]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Disable Movement Graph:  EventGraph Function:  Execute Ubergraph Empty Blueprint:  Empty
+[2024.03.30-23.07.47:962][343]PIE: Server logged in
+[2024.03.30-23.07.47:963][343]PIE: Play in editor total start time 0.088 seconds.
+[2024.03.30-23.07.52:108][587]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.07.52:108][587]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.07.52:108][587]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.07.52:108][587]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.07.52:108][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.07.52:149][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.07.52:150][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.30-23.07.52:155][587]LogAudio: Display: Audio Device (ID: 14) registered with world 'SkatePark'.
+[2024.03.30-23.07.52:155][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.07.52:155][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.07.52:156][587]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.07.52:156][587]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2024.03.30-23.07.52:156][587]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.07.52:157][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.07.52
+[2024.03.30-23.07.52:157][587]LogWorld: Bringing up level for play took: 0.001054
+[2024.03.30-23.07.52:159][587]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.03.30-23.07.52:159][587]LogLoad: Took 0.051721 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.07.55:510][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.07.55:510][785]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.07.55:510][785]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.07.55:510][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.07.55:513][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.07.55:517][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.07.55:526][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.07.55:526][785]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.30-23.07.55:526][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.30-23.07.55:527][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.30-23.07.55:534][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.07.55:675][786]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.03.30-23.07.59:123][979]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-23.07.59:127][979]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-23.08.08:065][497]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-23.08.08:086][497]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.08.08:086][497]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.08.08:086][497]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.03.30-23.08.08:112][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.30-23.08.09:649][579]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.08.09:657][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.08.09:657][579]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:08:09 PM)
+[2024.03.30-23.08.09:657][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.09:658][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001071s)
+[2024.03.30-23.08.09:658][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001096s)
+[2024.03.30-23.08.09:670][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.30-23.08.09:674][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.09:674][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.09:675][579]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.08.09:675][579]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2024.03.30-23.08.09:675][579]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.08.09:675][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.08.09:675][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.08.09:676][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.08.09:676][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.08.09:676][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.08.09:678][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.08.09:760][579]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.08.09:760][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.08.09:760][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.08.09:760][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.08.09:761][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.30-23.08.09:761][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.30-23.08.09:762][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.30-23.08.09:762][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.30-23.08.09:762][579]LogInit: FAudioDevice initialized with ID 15.
+[2024.03.30-23.08.09:762][579]LogAudio: Display: Audio Device (ID: 15) registered with world 'Empty'.
+[2024.03.30-23.08.09:762][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.30-23.08.09:765][579]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.30-23.08.09:765][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.08.09
+[2024.03.30-23.08.09:765][579]LogWorld: Bringing up level for play took: 0.000285
+[2024.03.30-23.08.09:767][579]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.30-23.08.09:768][579]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.09:768][579]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	Empty_C /Game/Maps/UEDPIE_0_Empty.Empty:PersistentLevel.Empty_C_1
+	Function /Game/Maps/Empty.Empty_C:ExecuteUbergraph_Empty:00CD
+[2024.03.30-23.08.09:768][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  Disable Movement Graph:  EventGraph Function:  Execute Ubergraph Empty Blueprint:  Empty
+[2024.03.30-23.08.09:768][579]LogScript: Warning: Accessed None
+	Empty_C /Game/Maps/UEDPIE_0_Empty.Empty:PersistentLevel.Empty_C_1
+	Function /Game/Maps/Empty.Empty_C:ExecuteUbergraph_Empty:00E2
+[2024.03.30-23.08.09:768][579]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Disable Movement Graph:  EventGraph Function:  Execute Ubergraph Empty Blueprint:  Empty
+[2024.03.30-23.08.09:768][579]PIE: Server logged in
+[2024.03.30-23.08.09:769][579]PIE: Play in editor total start time 0.112 seconds.
+[2024.03.30-23.08.10:711][633]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.08.10:711][633]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.08.10:711][633]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.10:711][633]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.08.10:711][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.10:723][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.08.10:725][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.08.10:730][633]LogAudio: Display: Audio Device (ID: 15) registered with world 'SkatePark'.
+[2024.03.30-23.08.10:730][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.10:730][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.10:730][633]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.08.10:731][633]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2024.03.30-23.08.10:731][633]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.08.10:732][633]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.08.10
+[2024.03.30-23.08.10:732][633]LogWorld: Bringing up level for play took: 0.001067
+[2024.03.30-23.08.10:734][633]LogLoad: Took 0.023228 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.08.11:730][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.08.11:730][690]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.08.11:730][690]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.08.11:730][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.11:733][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.08.11:736][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.11:745][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.08.11:745][690]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.30-23.08.11:745][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.30-23.08.11:747][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.30-23.08.11:767][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.30-23.08.11:906][691]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.30-23.08.14:656][843]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Empty.Empty:PersistentLevel.Empty
+[2024.03.30-23.08.14:656][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.14:656][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.23:642][300]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-23.08.23:646][300]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-23.08.24:374][338]BlueprintLog: New page: Compile Empty
+[2024.03.30-23.08.24:395][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.30-23.08.25:423][396]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.08.25:432][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.08.25:432][396]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:08:25 PM)
+[2024.03.30-23.08.25:432][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.25:433][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000979s)
+[2024.03.30-23.08.25:433][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001002s)
+[2024.03.30-23.08.25:443][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.30-23.08.25:444][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.25:444][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.25:445][396]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.08.25:445][396]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2024.03.30-23.08.25:445][396]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.08.25:445][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.08.25:445][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.08.25:446][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.08.25:446][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.08.25:446][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.08.25:448][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.08.25:509][396]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.08.25:509][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.08.25:509][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.08.25:509][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.08.25:510][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.30-23.08.25:510][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.03.30-23.08.25:512][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.30-23.08.25:512][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.30-23.08.25:512][396]LogInit: FAudioDevice initialized with ID 16.
+[2024.03.30-23.08.25:512][396]LogAudio: Display: Audio Device (ID: 16) registered with world 'Empty'.
+[2024.03.30-23.08.25:512][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.30-23.08.25:590][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.08.25:590][396]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.30-23.08.25:590][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.08.25
+[2024.03.30-23.08.25:590][396]LogWorld: Bringing up level for play took: 0.000340
+[2024.03.30-23.08.25:592][396]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.03.30-23.08.25:593][396]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.08.25:594][396]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.25:595][396]PIE: Server logged in
+[2024.03.30-23.08.25:596][396]PIE: Play in editor total start time 0.165 seconds.
+[2024.03.30-23.08.25:601][396]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.08.29:309][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.08.29:309][607]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.29:309][607]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.08.29:314][607]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.08.29:314][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.29:317][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.08.29:321][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.29:333][607]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.30-23.08.29:333][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.30-23.08.29:335][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.30-23.08.29:343][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.30-23.08.29:391][610]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.03.30-23.08.30:648][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.08.30:657][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.08.30:657][685]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:08:30 PM)
+[2024.03.30-23.08.30:657][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.30:658][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001028s)
+[2024.03.30-23.08.30:658][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001055s)
+[2024.03.30-23.08.30:668][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.30-23.08.30:669][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.30:669][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.30:670][685]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.08.30:670][685]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2024.03.30-23.08.30:670][685]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.08.30:670][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.08.30:670][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.08.30:670][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.08.30:670][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.08.30:670][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.08.30:672][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.08.30:732][685]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.08.30:732][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.08.30:732][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.08.30:732][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.08.30:733][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.30-23.08.30:733][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.30-23.08.30:735][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.30-23.08.30:735][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.30-23.08.30:735][685]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.30-23.08.30:735][685]LogAudio: Display: Audio Device (ID: 17) registered with world 'Empty'.
+[2024.03.30-23.08.30:735][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.30-23.08.30:807][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.08.30:807][685]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.30-23.08.30:807][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.08.30
+[2024.03.30-23.08.30:807][685]LogWorld: Bringing up level for play took: 0.000331
+[2024.03.30-23.08.30:810][685]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.03.30-23.08.30:810][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.30-23.08.30:811][685]LogBlueprintUserMessages: [WBP_MainMenu_C_0] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.30:812][685]PIE: Server logged in
+[2024.03.30-23.08.30:813][685]PIE: Play in editor total start time 0.157 seconds.
+[2024.03.30-23.08.30:818][685]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.30-23.08.32:609][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.08.32:609][781]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.32:609][781]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.30-23.08.32:615][781]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.08.32:615][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.32:617][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.08.32:622][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.08.32:636][781]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.30-23.08.32:636][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.30-23.08.32:638][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.30-23.08.32:645][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.30-23.08.32:676][783]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.03.30-23.08.39:522][191]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.39:904][214]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.39:938][215]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.39:955][216]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.39:972][217]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.39:988][218]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:005][219]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:022][220]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:039][221]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:054][222]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:071][223]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:088][224]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:105][225]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:488][248]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:505][249]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:522][250]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:538][251]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:555][252]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:572][253]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:588][254]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:605][255]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:622][256]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:638][257]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:654][258]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:671][259]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:688][260]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:704][261]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:721][262]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:738][263]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:754][264]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:771][265]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:788][266]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:805][267]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:821][268]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:838][269]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:855][270]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:871][271]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:888][272]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:904][273]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:921][274]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:938][275]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:954][276]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:971][277]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.40:988][278]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:005][279]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:021][280]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:038][281]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:054][282]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:071][283]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:171][289]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:188][290]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:205][291]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:221][292]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.30-23.08.41:221][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.41:221][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.41:228][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.41:228][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.41:343][292]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:375][292]LogBlueprintUserMessages: [WBP_MainMenu_C_1] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:380][293]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:387][293]LogBlueprintUserMessages: [WBP_MainMenu_C_2] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.41:394][294]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.47:150][633]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.47:181][635]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.50:825][850]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.50:907][855]LogBlueprintUserMessages: [WBP_MainMenu_C_3] PLAYER REF NOT VALID IN MENU WBP
+[2024.03.30-23.08.52:304][937]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.30-23.08.52:327][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-23.08.54:809][987]LogSlate: Window 'Delete Variable' being destroyed
+[2024.03.30-23.08.55:920][ 49]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.30-23.08.55:943][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-23.08.59:436][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.08.59:445][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.08.59:445][252]PIE: New page: PIE session: Empty (Mar 30, 2024, 5:08:59 PM)
+[2024.03.30-23.08.59:445][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.08.59:446][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000953s)
+[2024.03.30-23.08.59:446][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.000979s)
+[2024.03.30-23.08.59:456][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.30-23.08.59:457][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.08.59:457][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.08.59:458][252]LogAIModule: Creating AISystem for world Empty
+[2024.03.30-23.08.59:458][252]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2024.03.30-23.08.59:458][252]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.08.59:458][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.08.59:458][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.08.59:459][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.08.59:459][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.08.59:459][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.08.59:461][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.08.59:523][252]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.08.59:523][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.08.59:523][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.08.59:523][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.08.59:524][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.30-23.08.59:524][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.03.30-23.08.59:525][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.30-23.08.59:525][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.30-23.08.59:525][252]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.30-23.08.59:525][252]LogAudio: Display: Audio Device (ID: 18) registered with world 'Empty'.
+[2024.03.30-23.08.59:525][252]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.30-23.08.59:528][252]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.30-23.08.59:528][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-20.08.59
+[2024.03.30-23.08.59:528][252]LogWorld: Bringing up level for play took: 0.000290
+[2024.03.30-23.08.59:530][252]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.03.30-23.08.59:531][252]PIE: Server logged in
+[2024.03.30-23.08.59:532][252]PIE: Play in editor total start time 0.088 seconds.
+[2024.03.30-23.09.00:273][294]LogNet: Browse: /Game/Maps/SkatePark
+[2024.03.30-23.09.00:273][294]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.03.30-23.09.00:273][294]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.30-23.09.00:273][294]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.09.00:273][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.09.00:285][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-23.09.00:287][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.30-23.09.00:291][294]LogAudio: Display: Audio Device (ID: 18) registered with world 'SkatePark'.
+[2024.03.30-23.09.00:291][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.09.00:292][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.09.00:292][294]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.09.00:292][294]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2024.03.30-23.09.00:292][294]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.09.00:294][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.09.00
+[2024.03.30-23.09.00:294][294]LogWorld: Bringing up level for play took: 0.001199
+[2024.03.30-23.09.00:296][294]LogLoad: Took 0.023478 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.03.30-23.09.01:809][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.09.01:809][382]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.09.01:809][382]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.09.01:809][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.09.01:812][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.09.01:816][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.09.01:827][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.09.01:828][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.30-23.09.01:828][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.30-23.09.01:830][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.30-23.09.01:837][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.30-23.09.01:879][384]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.30-23.09.03:465][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.30-23.09.04:304][476]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-23.09.04:313][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.09.04:387][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Empty" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.30-23.09.04:418][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.30-23.09.04:426][476]LogSavePackage: Moving output files for package: /Game/Maps/Empty
+[2024.03.30-23.09.04:428][476]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Empty19D2136D499F17170C7BF986A2A23D63.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap'
+[2024.03.30-23.09.04:438][476]LogFileHelpers: Saving map 'Empty' took 0.050
+[2024.03.30-23.09.04:525][476]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_ThirdPersonCharacter
+[2024.03.30-23.09.04:528][476]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter660490E14E1AE46BFA24D6A16309F5F6.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-23.09.04:533][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.30-23.09.04:543][476]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.30-23.09.04:545][476]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu7456D7B64FADCDEAA25B5090EC17A637.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.30-23.09.04:554][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 1.09 sec)
+[2024.03.30-23.09.04:557][476]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-23.09.04:557][476]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Empty.Empty
+[2024.03.30-23.09.04:557][476]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-23.09.04:557][476]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
