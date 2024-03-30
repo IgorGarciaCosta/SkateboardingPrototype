@@ -1979,3 +1979,639 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.03.30-18.52.09:262][811]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2024.03.30-18.52.13:304][ 54]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
 [2024.03.30-18.52.13:305][ 54]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-18.54.04:050][811]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\Skateboarding.fbx)
+[2024.03.30-18.54.04:255][811]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\Skateboarding.fbx
+[2024.03.30-18.54.04:414][811]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.30-18.54.05:843][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.54.19:926][811]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.30-18.54.19:975][811]LogFbx: Valid bind pose for Pose (skinCluster2) - Ch49_body2
+[2024.03.30-18.54.19:975][811]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch49_body2
+[2024.03.30-18.54.19:976][811]LogMaterial: Display: Material /Game/Animations/Ch_49_body1.Ch_49_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.30-18.54.20:232][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.20:272][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1002_Diffuse.Ch49_1002_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.20:599][811]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.03.30-18.54.20:600][811]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.03.30-18.54.20:613][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1002_Specular.Ch49_1002_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.20:756][811]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.03.30-18.54.20:768][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1002_Glossiness.Ch49_1002_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.21:216][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.21:252][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1002_Normal.Ch49_1002_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.21:344][811]LogFbx: Triangulating skeletal mesh Ch49_body2
+[2024.03.30-18.54.21:781][811]LogMaterial: Display: Material /Game/Animations/Ch_49_body2.Ch_49_body2 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.30-18.54.22:297][811]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.30-18.54.22:297][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.22:329][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Diffuse.Ch49_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.22:642][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.22:678][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Specular.Ch49_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.22:817][811]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.03.30-18.54.22:827][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Glossiness.Ch49_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.23:379][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.23:411][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Normal.Ch49_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.23:476][811]LogMaterial: Display: Material /Game/Animations/Ch_49_eyelashes.Ch_49_eyelashes needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.30-18.54.23:988][811]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.30-18.54.23:989][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.24:016][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Diffuse_ncl1_1.Ch49_1001_Diffuse_ncl1_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.24:560][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.24:592][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Normal_ncl1_1.Ch49_1001_Normal_ncl1_1 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.25:095][811]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.30-18.54.25:096][811]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.54.25:124][811]LogTexture: Display: Building textures: /Game/Animations/Ch49_1001_Diffuse_ncl1_1.Ch49_1001_Diffuse_ncl1_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.54.25:173][811]LogFbx: Triangulating skeletal mesh Ch49_body1
+[2024.03.30-18.54.25:770][811]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.03.30-18.54.27:050][811]LogSkeletalMesh: Section 0: Material=0, 17634 triangles
+[2024.03.30-18.54.27:050][811]LogSkeletalMesh: Section 1: Material=1, 36138 triangles
+[2024.03.30-18.54.27:050][811]LogSkeletalMesh: Section 2: Material=2, 896 triangles
+[2024.03.30-18.54.27:297][811]LogSkeletalMesh: Building Skeletal Mesh Skateboarding...
+[2024.03.30-18.54.27:314][811]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Skateboarding) ...
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: ================================================
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Total job queries 142, among them cache hits 66 (46.48%)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Tracking 46 distinct input hashes that result in 27 distinct outputs (58.70%)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: RAM used: 1.13 MiB of 3.20 GiB budget. Usage: 0.03%
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Shaders Compiled: 46
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100%)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Average time worker was idle: 380.32 s
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.33 s
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Job execution time: average 1.83 s, max 2.70 s
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Job life time (pending + execution): average 1.87 s, max 2.70
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Shader code size: average 42.852 KiB, min 29.613 KiB, max 61.711 KiB
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.02 s
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.92 jobs/batch
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Average processing rate: 9.17 jobs/sec
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Total thread time: 11.163 s
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Total thread preprocess time: 1.106 s
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Percentage time preprocessing: 9.91%
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Effective parallelization: 2.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.35 sec, max 0.47 sec, min 0.26 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.31 sec, max 0.39 sec, min 0.23 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.29 sec, max 0.33 sec, min 0.22 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.28 sec, max 0.36 sec, min 0.24 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.26 sec, max 0.30 sec, min 0.24 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.32% of total time (compiled    3 times, average 0.35 sec, max 0.47 sec, min 0.26 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.39% of total time (compiled    3 times, average 0.31 sec, max 0.39 sec, min 0.23 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.86% of total time (compiled    3 times, average 0.29 sec, max 0.33 sec, min 0.22 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.46% of total time (compiled    3 times, average 0.28 sec, max 0.36 sec, min 0.24 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.00% of total time (compiled    3 times, average 0.26 sec, max 0.30 sec, min 0.24 sec)
+[2024.03.30-18.54.27:314][811]LogShaderCompilers: Display: ================================================
+[2024.03.30-18.54.28:423][811]LogSkeletalMesh: Built Skeletal Mesh [1.13s] /Game/Animations/Skateboarding.Skateboarding
+[2024.03.30-18.54.37:975][811]LogSlate: Window 'Message' being destroyed
+[2024.03.30-18.54.37:978][811]Message dialog closed, result: No, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.03.30-18.54.38:075][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.54.38:075][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.54.38:085][811]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.54.38:085][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.54.38:121][811]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Skateboarding) ...
+[2024.03.30-18.54.38:135][811]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch49_1001_Diffuse' was renamed 'Ch49_1001_Diffuse_ncl1_1' 
+[2024.03.30-18.54.38:135][811]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch49_1001_Normal' was renamed 'Ch49_1001_Normal_ncl1_1' 
+[2024.03.30-18.54.38:135][811]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.30-18.54.38:900][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.54.39:390][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.54.40:662][938]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.54.40:665][938]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.54.45:386][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.30-18.54.46:507][214]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.30-18.54.46:543][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.30-18.54.46:557][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.30-18.54.46:569][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.30-18.54.48:080][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-18.54.48:089][305]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.30-18.54.48:089][305]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.30-18.54.48:093][305]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 11 ms)
+[2024.03.30-18.54.48:093][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-18.54.48:093][305]PIE: New page: PIE session: ThirdPersonMap (Mar 30, 2024, 12:54:48 PM)
+[2024.03.30-18.54.48:129][305]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-18.54.48:132][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003589s)
+[2024.03.30-18.54.48:132][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003619s)
+[2024.03.30-18.54.48:144][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.30-18.54.48:145][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.54.48:145][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.54.48:145][305]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.30-18.54.48:146][305]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.30-18.54.48:146][305]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.30-18.54.48:146][305]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.30-18.54.48:146][305]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.30-18.54.48:147][305]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.30-18.54.48:147][305]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 64 ms)
+[2024.03.30-18.54.48:147][305]LogPlayLevel: PIE: World Init took: (0.002186s)
+[2024.03.30-18.54.48:147][305]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-18.54.48:147][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-18.54.48:147][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-18.54.48:147][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-18.54.48:147][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-18.54.48:148][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-18.54.48:149][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-18.54.48:215][305]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-18.54.48:215][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-18.54.48:215][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-18.54.48:215][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-18.54.48:215][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.03.30-18.54.48:215][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.03.30-18.54.48:217][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.03.30-18.54.48:217][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.03.30-18.54.48:217][305]LogInit: FAudioDevice initialized with ID 4.
+[2024.03.30-18.54.48:217][305]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.03.30-18.54.48:217][305]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.30-18.54.48:220][305]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-18.54.48:221][305]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.03.30-15.54.48
+[2024.03.30-18.54.48:222][305]LogWorld: Bringing up level for play took: 0.001243
+[2024.03.30-18.54.48:223][305]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.30-18.54.48:227][305]PIE: Server logged in
+[2024.03.30-18.54.48:228][305]PIE: Play in editor total start time 0.139 seconds.
+[2024.03.30-18.54.50:539][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-18.54.50:539][438]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-18.54.50:539][438]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.54.50:540][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.54.50:540][438]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.30-18.54.50:543][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-18.54.50:546][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.54.50:558][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.30-18.54.50:558][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.30-18.54.50:559][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.30-18.54.50:561][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.30-18.54.50:567][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-18.54.50:570][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.30-18.54.50:626][440]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.30-18.55.20:743][681]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\Skateboarding.fbx)
+[2024.03.30-18.55.20:749][681]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\Skateboarding.fbx
+[2024.03.30-18.55.20:767][681]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.30-18.55.32:515][681]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.30-18.55.32:551][681]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.30-18.55.32:551][681]FBXImport: Error: Import failed. 
+[2024.03.30-18.55.37:834][681]LogSlate: Window 'Message' being destroyed
+[2024.03.30-18.55.37:839][681]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\ISILV125\Downloads\Skateboarding.fbx'. Failed to create asset '/Game/Animations/Skateboarding'.
+Please see Output Log for details.
+[2024.03.30-18.55.37:839][681]LogAssetTools: Warning: Failed to import 'C:\Users\ISILV125\Downloads\Skateboarding.fbx'. Failed to create asset '/Game/Animations/Skateboarding'.
+Please see Output Log for details.
+[2024.03.30-18.55.41:207][876]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.55.41:212][876]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.55.43:359][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\Skateboarding.fbx)
+[2024.03.30-18.55.43:365][928]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\Skateboarding.fbx
+[2024.03.30-18.55.43:382][928]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.30-18.55.51:556][928]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.30-18.55.51:591][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.30-18.55.51:593][928]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2024.03.30-18.55.51:825][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.30-18.55.51:826][928]FBXImport: Import was canceled. 
+[2024.03.30-18.55.51:892][928]LogAssetTools: The import task was canceled.
+[2024.03.30-18.57.36:148][319]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.57.36:150][319]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.58.30:100][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\Skateboarding.fbx)
+[2024.03.30-18.58.30:197][389]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\Skateboarding.fbx
+[2024.03.30-18.58.30:295][389]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.30-18.58.39:464][389]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.30-18.58.39:496][389]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch42_Sneakers
+[2024.03.30-18.58.39:496][389]LogFbx: Valid bind pose for Pose (skinCluster4) - Ch42_Sneakers
+[2024.03.30-18.58.39:496][389]LogFbx: Valid bind pose for Pose (skinCluster5) - Ch42_Sneakers
+[2024.03.30-18.58.39:496][389]LogFbx: Valid bind pose for Pose (skinCluster6) - Ch42_Sneakers
+[2024.03.30-18.58.39:496][389]LogFbx: Valid bind pose for Pose (skinCluster7) - Ch42_Sneakers
+[2024.03.30-18.58.39:496][389]LogFbx: Valid bind pose for Pose (skinCluster8) - Ch42_Sneakers
+[2024.03.30-18.58.39:498][389]LogMaterial: Display: Material /Game/Animations/Ch42_Body.Ch42_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.30-18.58.39:870][389]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.58.39:905][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1001_Diffuse.Ch42_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.40:174][389]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.03.30-18.58.40:174][389]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.03.30-18.58.40:192][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1001_Specular.Ch42_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.40:377][389]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.03.30-18.58.40:390][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1001_Glossiness.Ch42_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.40:964][389]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.58.41:005][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1001_Normal.Ch42_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.41:080][389]LogFbx: Triangulating skeletal mesh Ch42_Sneakers
+[2024.03.30-18.58.41:215][389]LogFbx: Triangulating skeletal mesh Ch42_Body1
+[2024.03.30-18.58.41:582][389]LogFbx: Triangulating skeletal mesh Ch42_Shirt
+[2024.03.30-18.58.41:663][389]LogFbx: Triangulating skeletal mesh Ch42_Shorts
+[2024.03.30-18.58.41:756][389]LogMaterial: Display: Material /Game/Animations/Ch42_Hair.Ch42_Hair needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.30-18.58.41:890][389]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.30-18.58.41:890][389]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.58.41:902][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1002_Diffuse.Ch42_1002_Diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.42:383][389]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.58.42:425][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1001_Normal_ncl1_1.Ch42_1001_Normal_ncl1_1 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.42:700][389]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.30-18.58.42:701][389]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.03.30-18.58.42:717][389]LogTexture: Display: Building textures: /Game/Animations/Ch42_1002_Diffuse.Ch42_1002_Diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.30-18.58.42:745][389]LogFbx: Triangulating skeletal mesh Ch42__Eyelashes
+[2024.03.30-18.58.42:771][389]LogFbx: Triangulating skeletal mesh Ch42_Hair1
+[2024.03.30-18.58.42:999][389]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.03.30-18.58.44:091][389]LogSkeletalMesh: Section 0: Material=0, 38587 triangles
+[2024.03.30-18.58.44:091][389]LogSkeletalMesh: Section 1: Material=1, 11600 triangles
+[2024.03.30-18.58.44:237][389]LogSkeletalMesh: Building Skeletal Mesh Skateboarding...
+[2024.03.30-18.58.44:310][389]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Skateboarding) ...
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: ================================================
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Total job queries 219, among them cache hits 130 (59.36%)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 34 distinct outputs (59.65%)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: RAM used: 1.43 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Shaders Compiled: 57
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Jobs assigned 57, completed 57 (100%)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Average time worker was idle: 228.97 s
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.33 s
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Job execution time: average 1.54 s, max 2.70 s
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Job life time (pending + execution): average 1.58 s, max 2.70
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Shader code size: average 44.512 KiB, min 29.613 KiB, max 73.371 KiB
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.19 s
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.63 jobs/batch
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Average processing rate: 9.21 jobs/sec
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Total thread time: 13.668 s
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Total thread preprocess time: 1.36 s
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Percentage time preprocessing: 9.95%
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Effective parallelization: 2.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.35 sec, max 0.47 sec, min 0.26 sec)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.31 sec, max 0.39 sec, min 0.23 sec)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.28 sec, max 0.36 sec, min 0.24 sec)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 0.27 sec, max 0.33 sec, min 0.19 sec)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.26 sec, max 0.30 sec, min 0.21 sec)
+[2024.03.30-18.58.44:310][389]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.30-18.58.44:311][389]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.65% of total time (compiled    7 times, average 0.25 sec, max 0.30 sec, min 0.20 sec)
+[2024.03.30-18.58.44:311][389]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.99% of total time (compiled    6 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.03.30-18.58.44:311][389]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.77% of total time (compiled    5 times, average 0.27 sec, max 0.33 sec, min 0.19 sec)
+[2024.03.30-18.58.44:311][389]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.61% of total time (compiled    3 times, average 0.35 sec, max 0.47 sec, min 0.26 sec)
+[2024.03.30-18.58.44:311][389]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.86% of total time (compiled    3 times, average 0.31 sec, max 0.39 sec, min 0.23 sec)
+[2024.03.30-18.58.44:311][389]LogShaderCompilers: Display: ================================================
+[2024.03.30-18.58.45:222][389]LogSkeletalMesh: Built Skeletal Mesh [0.98s] /Game/Animations/Skateboarding.Skateboarding
+[2024.03.30-18.58.45:528][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.58.45:528][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.58.45:549][389]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.58.45:549][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(0) Hips
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(1) Spine
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(2) Spine1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(3) Spine2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(4) Neck
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(5) Head
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(31) RightShoulder
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(32) RightArm
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(33) RightForeArm
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(34) RightHand
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.03.30-18.58.45:567][389]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(56) LeftLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(57) LeftFoot
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(61) RightLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(62) RightFoot
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(63) RightToeBase
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(64) RightToe_End
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(0) Hips
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(1) Spine
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(2) Spine1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(3) Spine2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(4) Neck
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(5) Head
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(31) RightShoulder
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(32) RightArm
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(33) RightForeArm
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(34) RightHand
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(56) LeftLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(57) LeftFoot
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(61) RightLeg
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(62) RightFoot
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(63) RightToeBase
+[2024.03.30-18.58.45:568][389]LogFbx: SortedLinks :(64) RightToe_End
+[2024.03.30-18.58.45:568][389]LogFbx: Parsing AnimStack Take 001
+[2024.03.30-18.58.45:568][389]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.30-18.58.46:013][389]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Skateboarding_Anim_mixamo_com.Skateboarding_Anim_mixamo_com
+[2024.03.30-18.58.46:032][389]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Skateboarding_Anim_mixamo_com.Skateboarding_Anim_mixamo_com, at AnimationSequence/e6ffd5eab57d9f9a400f77c7f015ec968968d1b6
+[2024.03.30-18.58.46:037][389]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Skateboarding) ...
+[2024.03.30-18.58.46:049][389]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch42_1001_Normal' was renamed 'Ch42_1001_Normal_ncl1_1' 
+[2024.03.30-18.58.46:049][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.30-18.58.46:049][389]FBXImport: Error: Animation length 9.08 is not compatible with import frame-rate 30 fps (sub frame 0.4), animation has to be frame-border aligned. Either re-export animation or enable snap to closest frame boundary import option. 
+[2024.03.30-18.58.46:365][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.58.46:412][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.58.57:119][ 30]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.58.57:125][ 30]LogSlate: Window 'Message Log' being destroyed
+[2024.03.30-18.58.59:829][186]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Skateboarding_Anim_mixamo_com.Skateboarding_Anim_mixamo_com
+[2024.03.30-18.58.59:873][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.58.59:873][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.58.59:881][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.30-18.59.00:135][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.59.00:135][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.59.00:252][186]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.03.30-18.59.00:261][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.59.00:261][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-18.59.00:278][186]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.03.30-18.59.00:295][186]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.30-18.59.09:855][739]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.59.09:855][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.59.09:866][739]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.59.09:866][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.59.09:920][739]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-18.59.09:920][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-18.59.30:211][843]LogMetaData: Removing '/Game/meshes/Skateboarding.Skateboarding' ref from Metadata '/Game/Animations/Skateboarding.PackageMetaData'
+[2024.03.30-18.59.30:215][843]LogMetaData: Removing '/Game/meshes/Skateboarding_Skeleton.Skateboarding_Skeleton' ref from Metadata '/Game/Animations/Skateboarding_Skeleton.PackageMetaData'
+[2024.03.30-18.59.30:216][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.59.30:321][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.59.30:375][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Skateboarding" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Skateboarding.uasset" SILENT=true
+[2024.03.30-18.59.30:457][843]LogSavePackage: Moving output files for package: /Game/meshes/Skateboarding
+[2024.03.30-18.59.30:457][843]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateboardingE4C500E84D2F35C9A010C190A782C62F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Skateboarding.uasset'
+[2024.03.30-18.59.30:478][843]LogSavePackage: Moving output files for package: /Game/meshes/Skateboarding_PhysicsAsset
+[2024.03.30-18.59.30:478][843]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_PhysicsAsset3ECD5CF848DA1B1BB91081BE74536DFA.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Skateboarding_PhysicsAsset.uasset'
+[2024.03.30-18.59.30:482][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.59.30:501][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Skateboarding_Skeleton" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Skateboarding_Skeleton.uasset" SILENT=true
+[2024.03.30-18.59.30:506][843]LogSavePackage: Moving output files for package: /Game/meshes/Skateboarding_Skeleton
+[2024.03.30-18.59.30:506][843]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_SkeletonB58E94824D5B7948357F069A9872DF78.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Skateboarding_Skeleton.uasset'
+[2024.03.30-18.59.30:519][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 8.84 sec)
+[2024.03.30-18.59.30:561][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.30-18.59.30:585][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.30-18.59.30:603][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.30-18.59.30:634][843]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-18.59.30:634][843]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/meshes/Skateboarding.Skateboarding
+[2024.03.30-18.59.30:634][843]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/meshes/Skateboarding_PhysicsAsset.Skateboarding_PhysicsAsset
+[2024.03.30-18.59.30:634][843]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/meshes/Skateboarding_Skeleton.Skateboarding_Skeleton
+[2024.03.30-18.59.33:974][ 19]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-18.59.34:009][ 19]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-18.59.34:022][ 20]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-18.59.41:193][447]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2024.03.30-18.59.41:193][447]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-18.59.48:069][789]LogMetaData: Removing '/Game/meshes/Character/Skateboarding.Skateboarding' ref from Metadata '/Game/meshes/Skateboarding.PackageMetaData'
+[2024.03.30-18.59.48:073][789]LogMetaData: Removing '/Game/meshes/Character/Skateboarding_Skeleton.Skateboarding_Skeleton' ref from Metadata '/Game/meshes/Skateboarding_Skeleton.PackageMetaData'
+[2024.03.30-18.59.48:075][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.59.48:233][789]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding
+[2024.03.30-18.59.48:233][789]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateboardingDB1C6B034C64E256780C489CF2B22112.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding.uasset'
+[2024.03.30-18.59.48:243][789]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding_PhysicsAsset
+[2024.03.30-18.59.48:243][789]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_PhysicsAssetAFB955824598D505218E4C9A434CEC07.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding_PhysicsAsset.uasset'
+[2024.03.30-18.59.48:251][789]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding_Skeleton
+[2024.03.30-18.59.48:251][789]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_Skeleton970E6FF34536C1467B284A882210DA59.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding_Skeleton.uasset'
+[2024.03.30-18.59.48:262][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 9.03 sec)
+[2024.03.30-18.59.48:304][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.30-18.59.48:325][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.30-18.59.48:344][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.30-18.59.48:377][789]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-18.59.48:377][789]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/meshes/Character/Skateboarding.Skateboarding
+[2024.03.30-18.59.48:377][789]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/meshes/Character/Skateboarding_PhysicsAsset.Skateboarding_PhysicsAsset
+[2024.03.30-18.59.48:377][789]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/meshes/Character/Skateboarding_Skeleton.Skateboarding_Skeleton
+[2024.03.30-18.59.49:310][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-18.59.49:386][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.00.02:339][549]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-19.00.02:357][549]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-19.00.02:367][550]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-19.00.05:851][759]LogContentBrowser: Attempting asset rename: NewFolder -> materials
+[2024.03.30-19.00.05:851][759]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-19.00.09:692][962]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-19.00.09:706][962]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-19.00.09:743][964]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-19.00.13:730][202]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2024.03.30-19.00.13:731][202]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-19.00.16:007][321]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.30-19.00.16:023][321]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.30-19.00.16:036][322]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.30-19.00.17:095][386]LogContentBrowser: Attempting asset rename: NewFolder -> Skate
+[2024.03.30-19.00.17:095][386]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.30-19.00.30:086][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.00.30:250][115]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding
+[2024.03.30-19.00.30:252][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding47C4EE0B4D90819FBB40038414527F15.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding.uasset'
+[2024.03.30-19.00.30:549][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_1001_Diffuse
+[2024.03.30-19.00.30:549][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_1001_Diffuse9618244E4EB52637C67E1AA902F51280.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_1001_Diffuse.uasset'
+[2024.03.30-19.00.30:639][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_1001_Glossiness
+[2024.03.30-19.00.30:639][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_1001_GlossinessA72D537C41219F63B9E8C681D45B9A25.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_1001_Glossiness.uasset'
+[2024.03.30-19.00.30:999][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_1001_Normal
+[2024.03.30-19.00.30:999][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_1001_NormalA0C2F6324FF393DCE797C08E75BA8B3D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_1001_Normal.uasset'
+[2024.03.30-19.00.31:352][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_1001_Normal_ncl1_1
+[2024.03.30-19.00.31:352][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_1001_Normal_ncl1_1D80D43DA480DC951E1E738BCE9738203.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_1001_Normal_ncl1_1.uasset'
+[2024.03.30-19.00.31:406][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_1001_Specular
+[2024.03.30-19.00.31:406][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_1001_SpecularE83D30254BB12BB2305CB79A4621C48A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_1001_Specular.uasset'
+[2024.03.30-19.00.31:499][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_1002_Diffuse
+[2024.03.30-19.00.31:499][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_1002_DiffuseE00500CD41C1553A4E30848CE9967B42.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_1002_Diffuse.uasset'
+[2024.03.30-19.00.33:524][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.03.30-19.00.33:710][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.186045s
+[2024.03.30-19.00.33:899][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.378300s (0.378300s overbudget)
+[2024.03.30-19.00.34:000][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/Character/Ch42_Body" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Body.uasset" SILENT=true
+[2024.03.30-19.00.34:006][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_Body
+[2024.03.30-19.00.34:006][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_BodyCE18B06E405D161229A6719FF0894D88.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Body.uasset'
+[2024.03.30-19.00.36:036][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.03.30-19.00.36:163][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.132464s (0.132464s overbudget)
+[2024.03.30-19.00.36:185][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/Character/Ch42_Hair" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset" SILENT=true
+[2024.03.30-19.00.36:189][115]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_Hair
+[2024.03.30-19.00.36:190][115]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_Hair2B64808E42EBEE171C3CB3B4C92029FC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset'
+[2024.03.30-19.00.36:200][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.11 sec (total: 15.1 sec)
+[2024.03.30-19.00.36:274][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.03.30-19.00.36:297][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.30-19.00.36:316][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.30-19.00.36:351][115]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/meshes/Character/Skateboarding.Skateboarding
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Character/Ch42_1001_Diffuse.Ch42_1001_Diffuse
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Character/Ch42_1001_Glossiness.Ch42_1001_Glossiness
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Character/Ch42_1001_Normal.Ch42_1001_Normal
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Character/Ch42_1001_Normal_ncl1_1.Ch42_1001_Normal_ncl1_1
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Character/Ch42_1001_Specular.Ch42_1001_Specular
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Character/Ch42_1002_Diffuse.Ch42_1002_Diffuse
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Character/Ch42_Body.Ch42_Body
+[2024.03.30-19.00.36:351][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Character/Ch42_Hair.Ch42_Hair
+[2024.03.30-19.00.37:474][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.30-19.00.38:327][167]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-19.00.38:335][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.00.38:468][167]LogSavePackage: Moving output files for package: /Game/Animations/Skateboarding_Anim_mixamo_com
+[2024.03.30-19.00.38:468][167]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_Anim_mixamo_com4CB03FD849AE28A100094691E047BA8C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Animations/Skateboarding_Anim_mixamo_com.uasset'
+[2024.03.30-19.00.38:481][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 15.2 sec)
+[2024.03.30-19.00.38:482][167]AssetCheck: New page: Asset Save: Skateboarding_Anim_mixamo_com
+[2024.03.30-19.00.38:482][167]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/Skateboarding_Anim_mixamo_com.Skateboarding_Anim_mixamo_com
+[2024.03.30-19.00.52:545][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.00.52:638][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/skate/skateMesh" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateMesh.uasset" SILENT=true
+[2024.03.30-19.00.52:704][958]LogSavePackage: Moving output files for package: /Game/meshes/skate/skateMesh
+[2024.03.30-19.00.52:707][958]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateMeshFE390461444D7089F4A0FC9698DFC629.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/skate/skateMesh.uasset'
+[2024.03.30-19.00.52:719][958]LogSavePackage: Moving output files for package: /Game/materials/Skate/skateboard_board
+[2024.03.30-19.00.52:719][958]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_board05FA0F8D408DC61025CC65A9B98411FB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Skate/skateboard_board.uasset'
+[2024.03.30-19.00.52:737][958]LogSavePackage: Moving output files for package: /Game/materials/Skate/skateboard_diffuse
+[2024.03.30-19.00.52:737][958]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_diffuseD30BCE2343309B16D18938952F70D0BC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Skate/skateboard_diffuse.uasset'
+[2024.03.30-19.00.52:749][958]LogSavePackage: Moving output files for package: /Game/materials/Skate/skateboard_metal
+[2024.03.30-19.00.52:749][958]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_metalA51A78054F0BC24327E1EFB8AC610AFE.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Skate/skateboard_metal.uasset'
+[2024.03.30-19.00.52:761][958]LogSavePackage: Moving output files for package: /Game/materials/Skate/skateboard_wheel_4
+[2024.03.30-19.00.52:761][958]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/skateboard_wheel_41C759B36418BBBDE2C26EA9E8224765F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Skate/skateboard_wheel_4.uasset'
+[2024.03.30-19.00.52:810][958]LogSavePackage: Moving output files for package: /Game/materials/Skate/TEX_skateboard_diffuse
+[2024.03.30-19.00.52:810][958]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/TEX_skateboard_diffuseF8A8A0E54A898E8ED7438DBC173954EF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Skate/TEX_skateboard_diffuse.uasset'
+[2024.03.30-19.00.52:823][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 15.5 sec)
+[2024.03.30-19.00.52:882][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.30-19.00.52:901][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.30-19.00.52:918][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.30-19.00.52:954][958]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-19.00.52:954][958]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/skate/skateMesh.skateMesh
+[2024.03.30-19.00.52:954][958]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Skate/skateboard_board.skateboard_board
+[2024.03.30-19.00.52:954][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Skate/skateboard_diffuse.skateboard_diffuse
+[2024.03.30-19.00.52:954][958]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Skate/skateboard_metal.skateboard_metal
+[2024.03.30-19.00.52:954][958]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Skate/skateboard_wheel_4.skateboard_wheel_4
+[2024.03.30-19.00.52:954][958]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/Skate/TEX_skateboard_diffuse.TEX_skateboard_diffuse
+[2024.03.30-19.00.54:865][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.30-19.01.22:714][657]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.30-19.01.22:786][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-19.01.23:355][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-19.01.23:461][678]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ThirdPersonCharacter
+[2024.03.30-19.01.23:465][678]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacterD04A5D3C42B67AECB0BAEE9437FB1033.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.30-19.01.23:475][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 15.6 sec)
+[2024.03.30-19.01.23:478][678]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.30-19.01.23:478][678]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.30-19.01.24:875][760]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-19.01.24:884][760]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.30-19.01.24:884][760]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.30-19.01.24:890][760]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5 ms (total: 17 ms)
+[2024.03.30-19.01.24:890][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-19.01.24:890][760]PIE: New page: PIE session: ThirdPersonMap (Mar 30, 2024, 1:01:24 PM)
+[2024.03.30-19.01.24:929][760]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-19.01.24:933][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004186s)
+[2024.03.30-19.01.24:933][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004233s)
+[2024.03.30-19.01.24:948][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.30-19.01.24:952][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-19.01.24:952][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-19.01.24:952][760]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.30-19.01.24:953][760]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.30-19.01.24:953][760]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.30-19.01.24:953][760]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.30-19.01.24:953][760]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.30-19.01.24:954][760]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.30-19.01.24:954][760]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 65 ms)
+[2024.03.30-19.01.24:954][760]LogPlayLevel: PIE: World Init took: (0.002691s)
+[2024.03.30-19.01.24:954][760]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-19.01.24:954][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-19.01.24:954][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-19.01.24:955][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-19.01.24:956][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-19.01.24:956][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-19.01.24:958][760]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-19.01.25:030][760]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-19.01.25:031][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-19.01.25:031][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-19.01.25:031][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-19.01.25:032][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.30-19.01.25:032][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.30-19.01.25:034][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.30-19.01.25:034][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.30-19.01.25:034][760]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.30-19.01.25:034][760]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.03.30-19.01.25:034][760]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.30-19.01.25:037][760]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-19.01.25:039][760]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.03.30-16.01.25
+[2024.03.30-19.01.25:039][760]LogWorld: Bringing up level for play took: 0.002095
+[2024.03.30-19.01.25:042][760]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.30-19.01.25:044][760]PIE: Server logged in
+[2024.03.30-19.01.25:045][760]PIE: Play in editor total start time 0.161 seconds.
+[2024.03.30-19.01.30:790][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-19.01.30:790][ 98]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.30-19.01.30:790][ 98]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-19.01.30:790][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-19.01.30:790][ 98]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.30-19.01.30:794][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-19.01.30:800][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-19.01.30:817][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-19.01.30:817][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.30-19.01.30:818][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.30-19.01.30:820][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.30-19.01.30:834][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.30-19.01.30:877][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.30-19.01.31:761][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
