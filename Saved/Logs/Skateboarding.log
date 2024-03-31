@@ -2999,3 +2999,1493 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.30-23.32.03:575][159]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/FeelGood.FeelGood
 [2024.03.30-23.32.03:575][159]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers
 [2024.03.30-23.32.03:575][159]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/herosComeBack.herosComeBack
+[2024.03.30-23.32.35:987][792]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.32.35:987][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.32.35:996][792]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.32.35:996][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.32.36:260][805]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.32.36:260][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.32.37:825][864]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/herosComeBack.herosComeBack
+[2024.03.30-23.32.41:341][ 45]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers
+[2024.03.30-23.32.45:368][252]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music/FeelGood.FeelGood
+[2024.03.30-23.32.49:977][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.30-23.32.50:900][511]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-23.32.50:908][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.32.51:021][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/FeelGood" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/FeelGood.uasset" SILENT=true
+[2024.03.30-23.32.51:091][511]LogSavePackage: Moving output files for package: /Game/Audio/Music/FeelGood
+[2024.03.30-23.32.51:094][511]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/FeelGood41CAF62B49780F85D18CA1B05C8763AD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/FeelGood.uasset'
+[2024.03.30-23.32.51:124][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/fightingDreamers" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/fightingDreamers.uasset" SILENT=true
+[2024.03.30-23.32.51:200][511]LogSavePackage: Moving output files for package: /Game/Audio/Music/fightingDreamers
+[2024.03.30-23.32.51:201][511]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/fightingDreamersBD2E213749843FF129ED5A8F5987CD2B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/fightingDreamers.uasset'
+[2024.03.30-23.32.51:232][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/herosComeBack" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/herosComeBack.uasset" SILENT=true
+[2024.03.30-23.32.51:329][511]LogSavePackage: Moving output files for package: /Game/Audio/Music/herosComeBack
+[2024.03.30-23.32.51:331][511]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/herosComeBackBF21B6894DDCCA587142E4AEE10F186A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/herosComeBack.uasset'
+[2024.03.30-23.32.51:341][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 433 ms (total: 2.28 sec)
+[2024.03.30-23.32.51:343][511]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-23.32.51:343][511]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/FeelGood.FeelGood
+[2024.03.30-23.32.51:343][511]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers
+[2024.03.30-23.32.51:343][511]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/herosComeBack.herosComeBack
+[2024.03.30-23.34.08:521][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController
+[2024.03.30-23.34.08:522][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.34.08:522][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.34.10:472][390]LogViewport: Scene viewport resized to 1140x663, mode Windowed.
+[2024.03.30-23.34.32:312][582]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2024.03.30-23.34.32:319][582]LogContentBrowser: Creating deferred item: NewSoundCue
+[2024.03.30-23.34.32:332][583]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2024.03.30-23.34.41:675][144]LogContentBrowser: Attempting asset rename: NewSoundCue -> SC_BackgroundSoundCue
+[2024.03.30-23.34.41:676][144]LogContentBrowser: End creating deferred item NewSoundCue
+[2024.03.30-23.34.43:107][230]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Blueprints/Controllers/SC_BackgroundSoundCue.SC_BackgroundSoundCue
+[2024.03.30-23.34.51:635][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.34.51:733][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/herosComeBack" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/herosComeBack.uasset" SILENT=true
+[2024.03.30-23.34.51:823][733]LogSavePackage: Moving output files for package: /Game/Audio/Music/herosComeBack
+[2024.03.30-23.34.51:825][733]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/herosComeBack1238232B4A9E8EF4BB635B8A7EA411BB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/herosComeBack.uasset'
+[2024.03.30-23.34.51:836][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 2.48 sec)
+[2024.03.30-23.34.51:837][733]AssetCheck: New page: Asset Save: herosComeBack
+[2024.03.30-23.34.51:837][733]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/herosComeBack.herosComeBack
+[2024.03.30-23.34.54:898][879]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/Music/herosComeBack.herosComeBack
+[2024.03.30-23.34.54:898][879]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/Music/herosComeBack.herosComeBack
+[2024.03.30-23.34.54:898][879]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/Music/herosComeBack.herosComeBack as actor: AmbientSound /Game/Maps/SkatePark.SkatePark:PersistentLevel.AmbientSound_0
+[2024.03.30-23.34.54:899][879]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/Music/herosComeBack.herosComeBack as actor: AmbientSound /Game/Maps/SkatePark.SkatePark:PersistentLevel.AmbientSound_0
+[2024.03.30-23.34.58:686][ 84]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers
+[2024.03.30-23.34.58:687][ 84]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers
+[2024.03.30-23.34.58:687][ 84]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers as actor: AmbientSound /Game/Maps/SkatePark.SkatePark:PersistentLevel.AmbientSound_1
+[2024.03.30-23.34.58:687][ 84]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/Music/fightingDreamers.fightingDreamers as actor: AmbientSound /Game/Maps/SkatePark.SkatePark:PersistentLevel.AmbientSound_1
+[2024.03.30-23.35.02:848][306]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/Music/FeelGood.FeelGood
+[2024.03.30-23.35.02:848][306]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Audio/Music/FeelGood.FeelGood
+[2024.03.30-23.35.02:849][306]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/Music/FeelGood.FeelGood as actor: AmbientSound /Game/Maps/SkatePark.SkatePark:PersistentLevel.AmbientSound_2
+[2024.03.30-23.35.02:849][306]LogActorFactory: Actor Factory spawned SoundWave /Game/Audio/Music/FeelGood.FeelGood as actor: AmbientSound /Game/Maps/SkatePark.SkatePark:PersistentLevel.AmbientSound_2
+[2024.03.30-23.37.52:039][664]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.37.52:072][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.30-23.39.35:188][760]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Blueprints/Controllers/SC_BackgroundSoundCue.SC_BackgroundSoundCue was zero and has changed. Consider manually Re-saving the asset
+[2024.03.30-23.39.36:525][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.39.36:581][837]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/SC_BackgroundSoundCue
+[2024.03.30-23.39.36:581][837]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SC_BackgroundSoundCue893950AD491FFC8D5CBD7B997720F097.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/SC_BackgroundSoundCue.uasset'
+[2024.03.30-23.39.36:588][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.55 sec)
+[2024.03.30-23.39.36:589][837]AssetCheck: New page: Asset Save: SC_BackgroundSoundCue
+[2024.03.30-23.39.36:589][837]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Blueprints/Controllers/SC_BackgroundSoundCue.SC_BackgroundSoundCue
+[2024.03.30-23.39.48:572][536]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.39.48:598][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.30-23.39.50:637][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.39.50:646][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.39.50:646][650]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 5:39:50 PM)
+[2024.03.30-23.39.50:646][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.39.50:648][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001838s)
+[2024.03.30-23.39.50:648][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001863s)
+[2024.03.30-23.39.50:660][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.30-23.39.50:662][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.39.50:662][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.39.50:663][650]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.39.50:663][650]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2024.03.30-23.39.50:663][650]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.39.50:663][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.39.50:663][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.39.50:664][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.39.50:664][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.39.50:664][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.39.50:666][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.39.50:730][650]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.39.50:730][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.39.50:730][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.39.50:730][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.39.50:731][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.30-23.39.50:731][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.03.30-23.39.50:733][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.30-23.39.50:733][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.30-23.39.50:733][650]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.30-23.39.50:733][650]LogAudio: Display: Audio Device (ID: 19) registered with world 'SkatePark'.
+[2024.03.30-23.39.50:733][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.30-23.39.50:736][650]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.39.50:737][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.39.50
+[2024.03.30-23.39.50:737][650]LogWorld: Bringing up level for play took: 0.000801
+[2024.03.30-23.39.50:739][650]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.03.30-23.39.50:741][650]PIE: Server logged in
+[2024.03.30-23.39.50:742][650]PIE: Play in editor total start time 0.096 seconds.
+[2024.03.30-23.40.07:798][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.40.07:798][668]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.40.07:798][668]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.40.07:799][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.40.07:805][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.40.07:808][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.40.07:818][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.40.07:818][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.30-23.40.07:818][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.30-23.40.07:820][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.30-23.40.07:826][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.30-23.40.07:832][668]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.30-23.40.07:872][669]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.03.30-23.40.16:670][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.40.16:765][195]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/SC_BackgroundSoundCue
+[2024.03.30-23.40.16:767][195]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SC_BackgroundSoundCue6A90E2A14F695133F490CCA9F5AB3B39.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/SC_BackgroundSoundCue.uasset'
+[2024.03.30-23.40.16:774][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.65 sec)
+[2024.03.30-23.40.16:775][195]AssetCheck: New page: Asset Save: SC_BackgroundSoundCue
+[2024.03.30-23.40.16:775][195]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Blueprints/Controllers/SC_BackgroundSoundCue.SC_BackgroundSoundCue
+[2024.03.30-23.40.17:836][255]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.40.17:845][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.40.17:845][255]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 5:40:17 PM)
+[2024.03.30-23.40.17:845][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.40.17:847][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001822s)
+[2024.03.30-23.40.17:847][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001852s)
+[2024.03.30-23.40.17:859][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.30-23.40.17:860][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.40.17:860][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.40.17:861][255]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.40.17:861][255]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2024.03.30-23.40.17:861][255]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.40.17:861][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.40.17:861][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.40.17:862][255]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.40.17:862][255]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.40.17:862][255]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.40.17:864][255]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.40.17:926][255]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.40.17:926][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.40.17:926][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.40.17:926][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.40.17:927][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.30-23.40.17:927][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.03.30-23.40.17:929][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.30-23.40.17:929][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.30-23.40.17:929][255]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.30-23.40.17:929][255]LogAudio: Display: Audio Device (ID: 20) registered with world 'SkatePark'.
+[2024.03.30-23.40.17:929][255]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.30-23.40.17:931][255]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.40.17:932][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.40.17
+[2024.03.30-23.40.17:933][255]LogWorld: Bringing up level for play took: 0.000708
+[2024.03.30-23.40.17:934][255]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.03.30-23.40.17:937][255]PIE: Server logged in
+[2024.03.30-23.40.17:938][255]PIE: Play in editor total start time 0.093 seconds.
+[2024.03.30-23.40.20:938][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.40.20:938][429]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.40.20:938][429]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.40.20:938][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.40.20:943][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.40.20:947][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.40.20:957][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.40.20:958][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.30-23.40.20:958][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.30-23.40.20:959][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.30-23.40.20:968][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.30-23.40.20:973][429]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.30-23.40.21:013][430]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.03.30-23.40.22:965][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.30-23.40.22:974][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.30-23.40.22:974][546]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 5:40:22 PM)
+[2024.03.30-23.40.22:974][546]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.40.22:976][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001776s)
+[2024.03.30-23.40.22:976][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001802s)
+[2024.03.30-23.40.22:988][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.30-23.40.22:989][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-23.40.22:989][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.30-23.40.22:990][546]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.30-23.40.22:990][546]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2024.03.30-23.40.22:990][546]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.30-23.40.22:990][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.30-23.40.22:990][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.30-23.40.22:991][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.30-23.40.22:991][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.30-23.40.22:991][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.30-23.40.22:992][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.30-23.40.23:057][546]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.30-23.40.23:057][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.30-23.40.23:057][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.30-23.40.23:057][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.30-23.40.23:058][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.30-23.40.23:058][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.03.30-23.40.23:060][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.30-23.40.23:060][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.30-23.40.23:060][546]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.30-23.40.23:060][546]LogAudio: Display: Audio Device (ID: 21) registered with world 'SkatePark'.
+[2024.03.30-23.40.23:060][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.30-23.40.23:062][546]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.30-23.40.23:064][546]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-20.40.23
+[2024.03.30-23.40.23:064][546]LogWorld: Bringing up level for play took: 0.000740
+[2024.03.30-23.40.23:066][546]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.03.30-23.40.23:068][546]PIE: Server logged in
+[2024.03.30-23.40.23:069][546]PIE: Play in editor total start time 0.096 seconds.
+[2024.03.30-23.40.54:488][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.40.54:488][425]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.30-23.40.54:488][425]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-23.40.54:488][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.40.54:492][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.30-23.40.54:496][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-23.40.54:507][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.30-23.40.54:508][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.30-23.40.54:508][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.30-23.40.54:510][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.30-23.40.54:518][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.30-23.40.54:522][425]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.30-23.40.54:563][426]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.03.30-23.41.35:372][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-23.41.35:462][860]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/SC_BackgroundSoundCue
+[2024.03.30-23.41.35:463][860]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SC_BackgroundSoundCueB35C209941AF30B225C6F7954D3563B1.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/SC_BackgroundSoundCue.uasset'
+[2024.03.30-23.41.35:471][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.75 sec)
+[2024.03.30-23.41.35:472][860]AssetCheck: New page: Asset Save: SC_BackgroundSoundCue
+[2024.03.30-23.41.35:472][860]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Blueprints/Controllers/SC_BackgroundSoundCue.SC_BackgroundSoundCue
+[2024.03.30-23.42.16:174][995]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.03.30-23.42.25:322][524]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.42.25:349][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.30-23.43.49:183][175]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.43.49:185][175]LogClass: Warning: Type mismatch in Songs of BP_MusicController_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.03.30-23.43.49:208][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.30-23.44.06:202][586]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.44.06:229][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.30-23.44.31:833][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.30-23.44.31:834][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SkatePark' took 0.013
+[2024.03.30-23.44.31:835][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/BP_MusicController] ([2] browsable assets)...
+[2024.03.30-23.44.31:835][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/BP_MusicController]
+[2024.03.30-23.44.31:843][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Controllers/BP_MusicController_Auto2
+[2024.03.30-23.44.31:843][703]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicController_Auto2A5B004B84DE980C321CB9B816D842232.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Blueprints/Controllers/BP_MusicController_Auto2.uasset'
+[2024.03.30-23.44.31:846][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/SC_BackgroundSoundCue] ([1] browsable assets)...
+[2024.03.30-23.44.31:846][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/SC_BackgroundSoundCue]
+[2024.03.30-23.44.31:850][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Controllers/SC_BackgroundSoundCue_Auto2
+[2024.03.30-23.44.31:850][703]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SC_BackgroundSoundCue_Auto291EB575549C83DE1EC0C4D9CEB874183.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Blueprints/Controllers/SC_BackgroundSoundCue_Auto2.uasset'
+[2024.03.30-23.44.31:852][703]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.03.30-23.44.36:536][933]BlueprintLog: New page: Collapse to Function
+[2024.03.30-23.45.20:991][ 65]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.45.21:020][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.30-23.48.08:971][176]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.48.08:999][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-23.51.18:701][105]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.51.18:730][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.30-23.51.58:505][332]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.51.58:533][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.30-23.52.55:392][636]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.52.55:421][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.30-23.54.24:330][373]LogEditorTransaction: Undo Add Node
+[2024.03.30-23.54.41:497][339]BlueprintLog: New page: Collapse to Function
+[2024.03.30-23.55.13:552][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.30-23.55.13:566][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/SkatePark_Auto3
+[2024.03.30-23.55.13:566][901]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark_Auto34EC649D54A560F25115A5EBD5BF00175.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Maps/SkatePark_Auto3.umap'
+[2024.03.30-23.55.13:571][901]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Maps/SkatePark_Auto3.umap is in the /Temp path, will not scan.
+[2024.03.30-23.55.13:571][901]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/SkatePark_Auto3 is in the /Temp path, will not scan.
+[2024.03.30-23.55.13:571][901]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/SkatePark_Auto3 is in the /Temp path, will not scan.
+[2024.03.30-23.55.13:571][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SkatePark' took 0.033
+[2024.03.30-23.55.13:571][901]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.03.30-23.55.13:571][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/BP_MusicController] ([2] browsable assets)...
+[2024.03.30-23.55.13:571][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/BP_MusicController]
+[2024.03.30-23.55.13:582][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Controllers/BP_MusicController_Auto3
+[2024.03.30-23.55.13:582][901]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicController_Auto32FF50D0847BD70292FF3688FCBDA8C94.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Blueprints/Controllers/BP_MusicController_Auto3.uasset'
+[2024.03.30-23.55.13:585][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/SC_BackgroundSoundCue] ([1] browsable assets)...
+[2024.03.30-23.55.13:585][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/SC_BackgroundSoundCue]
+[2024.03.30-23.55.13:588][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Controllers/SC_BackgroundSoundCue_Auto3
+[2024.03.30-23.55.13:588][901]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SC_BackgroundSoundCue_Auto3416052804917576D233A58B01CF12BC2.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Blueprints/Controllers/SC_BackgroundSoundCue_Auto3.uasset'
+[2024.03.30-23.55.13:590][901]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.03.30-23.55.38:973][451]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.55.39:000][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.30-23.56.07:904][149]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.56.07:934][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.30-23.58.37:213][719]LogDerivedDataCache: C:/Users/ISILV125/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:28.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 56986 files in 35687 folders with total size 31023 MiB.
+[2024.03.30-23.59.14:312][824]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.30-23.59.14:343][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.31-00.00.44:597][741]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.00.44:631][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.31-00.01.10:352][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-00.01.10:433][274]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/BP_MusicController
+[2024.03.31-00.01.10:435][274]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicControllerFE5F43A14C04C1E3C9EA8C979D0AEC46.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/BP_MusicController.uasset'
+[2024.03.31-00.01.10:444][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.84 sec)
+[2024.03.31-00.01.10:445][274]AssetCheck: New page: Asset Save: BP_MusicController
+[2024.03.31-00.01.10:445][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController
+[2024.03.31-00.01.56:663][431]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.01.56:694][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.31-00.02.27:780][424]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.02.27:811][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.31-00.05.17:319][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.31-00.05.17:332][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/SkatePark_Auto4
+[2024.03.31-00.05.17:332][678]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark_Auto4643360B24CAA7EF31BD5049E9F01FCAC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Maps/SkatePark_Auto4.umap'
+[2024.03.31-00.05.17:337][678]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Maps/SkatePark_Auto4.umap is in the /Temp path, will not scan.
+[2024.03.31-00.05.17:337][678]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/SkatePark_Auto4 is in the /Temp path, will not scan.
+[2024.03.31-00.05.17:337][678]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/SkatePark_Auto4 is in the /Temp path, will not scan.
+[2024.03.31-00.05.17:337][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SkatePark' took 0.031
+[2024.03.31-00.05.17:337][678]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2024.03.31-00.05.17:337][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Controllers/BP_MusicController] ([2] browsable assets)...
+[2024.03.31-00.05.17:337][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Controllers/BP_MusicController]
+[2024.03.31-00.05.17:350][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Controllers/BP_MusicController_Auto4
+[2024.03.31-00.05.17:350][678]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicController_Auto443F4F94844BDA2B29636E0BF50113F90.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Blueprints/Controllers/BP_MusicController_Auto4.uasset'
+[2024.03.31-00.05.17:352][678]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.03.31-00.07.23:208][ 18]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.07.23:240][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.31-00.07.23:977][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-00.07.24:083][ 57]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/BP_MusicController
+[2024.03.31-00.07.24:085][ 57]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicController60C8BB1741E411A144721580D227C670.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/BP_MusicController.uasset'
+[2024.03.31-00.07.24:093][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.96 sec)
+[2024.03.31-00.07.24:095][ 57]AssetCheck: New page: Asset Save: BP_MusicController
+[2024.03.31-00.07.24:095][ 57]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController
+[2024.03.31-00.07.37:619][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.07.37:628][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.07.37:628][802]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:07:37 PM)
+[2024.03.31-00.07.37:628][802]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.07.37:630][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2024.03.31-00.07.37:630][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001926s)
+[2024.03.31-00.07.37:642][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.31-00.07.37:646][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.07.37:646][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.07.37:647][802]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.07.37:647][802]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2024.03.31-00.07.37:647][802]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.07.37:647][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.07.37:647][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.07.37:648][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.07.37:648][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.07.37:648][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.07.37:650][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.07.37:715][802]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.07.37:715][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.07.37:715][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.07.37:715][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.07.37:716][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.31-00.07.37:716][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.31-00.07.37:718][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.31-00.07.37:718][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.31-00.07.37:718][802]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.31-00.07.37:718][802]LogAudio: Display: Audio Device (ID: 22) registered with world 'SkatePark'.
+[2024.03.31-00.07.37:718][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.31-00.07.37:720][802]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.07.37:721][802]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.07.37
+[2024.03.31-00.07.37:721][802]LogWorld: Bringing up level for play took: 0.000716
+[2024.03.31-00.07.37:723][802]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.03.31-00.07.37:726][802]PIE: Server logged in
+[2024.03.31-00.07.37:727][802]PIE: Play in editor total start time 0.1 seconds.
+[2024.03.31-00.07.47:066][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.07.47:066][357]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.07.47:066][357]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.07.47:066][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.07.47:074][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.07.47:078][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.07.47:090][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-00.07.47:090][357]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.31-00.07.47:090][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.31-00.07.47:092][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.31-00.07.47:098][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.07.47:101][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.31-00.07.47:107][357]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.07.47:149][358]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.03.31-00.07.57:867][992]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.07.57:897][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.31-00.08.01:906][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.08.01:914][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.08.01:914][217]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:08:01 PM)
+[2024.03.31-00.08.01:936][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.08.01:938][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001797s)
+[2024.03.31-00.08.01:938][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001829s)
+[2024.03.31-00.08.01:949][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.31-00.08.01:952][217]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.08.01:952][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.08.01:952][217]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.08.01:953][217]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2024.03.31-00.08.01:953][217]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.08.01:953][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.08.01:953][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.08.01:953][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.08.01:953][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.08.01:953][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.08.01:955][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.08.02:020][217]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.08.02:020][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.08.02:020][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.08.02:020][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.08.02:021][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.31-00.08.02:021][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.31-00.08.02:022][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.31-00.08.02:022][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.31-00.08.02:022][217]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.31-00.08.02:022][217]LogAudio: Display: Audio Device (ID: 23) registered with world 'SkatePark'.
+[2024.03.31-00.08.02:022][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.31-00.08.02:025][217]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.08.02:026][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.08.02
+[2024.03.31-00.08.02:026][217]LogWorld: Bringing up level for play took: 0.000670
+[2024.03.31-00.08.02:028][217]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.03.31-00.08.02:030][217]PIE: Server logged in
+[2024.03.31-00.08.02:031][217]PIE: Play in editor total start time 0.118 seconds.
+[2024.03.31-00.09.46:821][331]Cmd: SELECT NONE
+[2024.03.31-00.09.47:986][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.47:986][395]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.47:986][395]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.09.47:987][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.47:995][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.09.48:000][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.48:012][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-00.09.48:012][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.31-00.09.48:012][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.31-00.09.48:015][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.31-00.09.48:021][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.48:023][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.31-00.09.48:028][395]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.09.48:067][396]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.03.31-00.09.49:106][457]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.09.49:114][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.09.49:114][457]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:09:49 PM)
+[2024.03.31-00.09.49:135][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.49:137][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001836s)
+[2024.03.31-00.09.49:137][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001869s)
+[2024.03.31-00.09.49:149][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.31-00.09.49:151][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.09.49:151][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.09.49:151][457]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.09.49:151][457]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.03.31-00.09.49:151][457]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.31-00.09.49:151][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.09.49:151][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.09.49:152][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.09.49:152][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.09.49:152][457]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.09.49:152][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.09.49:152][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.09.49:152][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.09.49:152][457]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.09.49:152][457]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.09.49:152][457]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.09.49:154][457]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.09.49:216][457]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.09.49:217][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.09.49:217][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.09.49:217][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.09.49:217][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.31-00.09.49:217][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.31-00.09.49:219][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.31-00.09.49:219][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.31-00.09.49:219][457]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.31-00.09.49:219][457]LogAudio: Display: Audio Device (ID: 24) registered with world 'SkatePark'.
+[2024.03.31-00.09.49:219][457]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.31-00.09.49:221][457]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.09.49:222][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.09.49
+[2024.03.31-00.09.49:222][457]LogWorld: Bringing up level for play took: 0.000592
+[2024.03.31-00.09.49:224][457]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.03.31-00.09.49:226][457]PIE: Server logged in
+[2024.03.31-00.09.49:227][457]PIE: Play in editor total start time 0.113 seconds.
+[2024.03.31-00.09.50:796][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.50:797][546]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.50:797][546]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.09.50:797][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.50:802][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.09.50:804][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.50:816][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.50:816][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.31-00.09.50:816][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.31-00.09.50:818][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.31-00.09.50:826][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.31-00.09.50:831][546]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.09.50:873][547]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.03.31-00.09.51:604][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.09.51:612][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.09.51:613][590]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:09:51 PM)
+[2024.03.31-00.09.51:613][590]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.51:614][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001755s)
+[2024.03.31-00.09.51:614][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001786s)
+[2024.03.31-00.09.51:625][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.31-00.09.51:626][590]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.09.51:626][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.09.51:627][590]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.09.51:627][590]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2024.03.31-00.09.51:627][590]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.09.51:627][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.09.51:627][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.09.51:628][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.09.51:628][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.09.51:628][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.09.51:630][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.09.51:693][590]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.09.51:693][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.09.51:693][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.09.51:693][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.09.51:694][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.03.31-00.09.51:694][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.03.31-00.09.51:695][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.03.31-00.09.51:695][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.03.31-00.09.51:695][590]LogInit: FAudioDevice initialized with ID 25.
+[2024.03.31-00.09.51:695][590]LogAudio: Display: Audio Device (ID: 25) registered with world 'SkatePark'.
+[2024.03.31-00.09.51:695][590]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.31-00.09.51:698][590]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.09.51:699][590]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.09.51
+[2024.03.31-00.09.51:699][590]LogWorld: Bringing up level for play took: 0.000718
+[2024.03.31-00.09.51:701][590]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.03.31-00.09.51:704][590]PIE: Server logged in
+[2024.03.31-00.09.51:705][590]PIE: Play in editor total start time 0.092 seconds.
+[2024.03.31-00.09.53:146][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.53:146][671]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.53:146][671]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.09.53:146][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.53:151][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.09.53:155][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.53:167][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.53:167][671]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.31-00.09.53:167][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.31-00.09.53:169][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.31-00.09.53:177][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.31-00.09.53:182][671]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.09.53:223][672]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.03.31-00.09.54:469][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.09.54:477][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.09.54:477][746]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:09:54 PM)
+[2024.03.31-00.09.54:477][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.54:479][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001761s)
+[2024.03.31-00.09.54:479][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001790s)
+[2024.03.31-00.09.54:489][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.31-00.09.54:491][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.09.54:491][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.09.54:491][746]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.09.54:491][746]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2024.03.31-00.09.54:491][746]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.09.54:491][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.09.54:491][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.09.54:492][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.09.54:492][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.09.54:492][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.09.54:494][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.09.54:557][746]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.09.54:557][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.09.54:557][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.09.54:557][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.09.54:558][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.03.31-00.09.54:558][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.03.31-00.09.54:559][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.03.31-00.09.54:559][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.03.31-00.09.54:559][746]LogInit: FAudioDevice initialized with ID 26.
+[2024.03.31-00.09.54:559][746]LogAudio: Display: Audio Device (ID: 26) registered with world 'SkatePark'.
+[2024.03.31-00.09.54:559][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.31-00.09.54:562][746]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.09.54:563][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.09.54
+[2024.03.31-00.09.54:563][746]LogWorld: Bringing up level for play took: 0.000865
+[2024.03.31-00.09.54:565][746]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.03.31-00.09.54:568][746]PIE: Server logged in
+[2024.03.31-00.09.54:569][746]PIE: Play in editor total start time 0.091 seconds.
+[2024.03.31-00.09.55:716][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.55:717][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.09.55:717][810]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.09.55:717][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.55:720][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.09.55:724][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.09.55:735][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.09.55:736][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.31-00.09.55:736][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.31-00.09.55:738][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.31-00.09.55:745][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.31-00.09.55:751][810]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.09.55:803][812]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.03.31-00.10.02:066][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.10.02:074][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.10.02:074][185]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:10:02 PM)
+[2024.03.31-00.10.02:074][185]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.10.02:076][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001730s)
+[2024.03.31-00.10.02:076][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001759s)
+[2024.03.31-00.10.02:088][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.31-00.10.02:089][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.10.02:089][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.10.02:090][185]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.10.02:090][185]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2024.03.31-00.10.02:090][185]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.10.02:090][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.10.02:090][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.10.02:091][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.10.02:091][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.10.02:091][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.10.02:093][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.10.02:155][185]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.10.02:155][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.10.02:155][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.10.02:155][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.10.02:156][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.03.31-00.10.02:156][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.03.31-00.10.02:157][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.03.31-00.10.02:157][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.03.31-00.10.02:157][185]LogInit: FAudioDevice initialized with ID 27.
+[2024.03.31-00.10.02:157][185]LogAudio: Display: Audio Device (ID: 27) registered with world 'SkatePark'.
+[2024.03.31-00.10.02:157][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.03.31-00.10.02:160][185]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.10.02:161][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.10.02
+[2024.03.31-00.10.02:161][185]LogWorld: Bringing up level for play took: 0.000570
+[2024.03.31-00.10.02:162][185]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.03.31-00.10.02:165][185]PIE: Server logged in
+[2024.03.31-00.10.02:165][185]PIE: Play in editor total start time 0.092 seconds.
+[2024.03.31-00.10.04:356][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.10.04:356][310]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.10.04:356][310]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.10.04:356][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.10.04:360][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.10.04:364][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.10.04:377][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.10.04:377][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.03.31-00.10.04:377][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.03.31-00.10.04:379][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.03.31-00.10.04:387][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.31-00.10.04:392][310]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.10.04:455][311]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.03.31-00.10.08:252][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.10.08:260][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.10.08:260][538]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:10:08 PM)
+[2024.03.31-00.10.08:261][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.10.08:262][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001836s)
+[2024.03.31-00.10.08:262][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001863s)
+[2024.03.31-00.10.08:274][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.31-00.10.08:275][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.10.08:276][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.10.08:276][538]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.10.08:276][538]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2024.03.31-00.10.08:276][538]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.10.08:276][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.10.08:276][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.10.08:277][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.10.08:277][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.10.08:277][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.10.08:279][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.10.08:343][538]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.10.08:343][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.10.08:344][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.10.08:344][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.10.08:344][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.03.31-00.10.08:344][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.03.31-00.10.08:346][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.03.31-00.10.08:346][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.03.31-00.10.08:346][538]LogInit: FAudioDevice initialized with ID 28.
+[2024.03.31-00.10.08:346][538]LogAudio: Display: Audio Device (ID: 28) registered with world 'SkatePark'.
+[2024.03.31-00.10.08:346][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.03.31-00.10.08:349][538]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.10.08:350][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.10.08
+[2024.03.31-00.10.08:350][538]LogWorld: Bringing up level for play took: 0.000602
+[2024.03.31-00.10.08:352][538]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.03.31-00.10.08:355][538]PIE: Server logged in
+[2024.03.31-00.10.08:355][538]PIE: Play in editor total start time 0.095 seconds.
+[2024.03.31-00.10.41:306][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.10.41:306][508]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.10.41:306][508]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.10.41:306][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.10.41:311][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.10.41:315][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.10.41:326][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.10.41:326][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.03.31-00.10.41:327][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.03.31-00.10.41:328][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.03.31-00.10.41:336][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.31-00.10.41:341][508]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.10.41:403][509]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.03.31-00.13.17:848][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.13.17:859][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.13.17:859][221]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:13:17 PM)
+[2024.03.31-00.13.17:906][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.13.17:908][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002557s)
+[2024.03.31-00.13.17:908][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002636s)
+[2024.03.31-00.13.17:929][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.03.31-00.13.17:932][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.13.17:932][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.13.17:933][221]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.13.17:934][221]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2024.03.31-00.13.17:934][221]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.13.17:934][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.13.17:934][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.13.17:935][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.13.17:935][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.13.17:935][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.13.17:939][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.13.18:018][221]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.13.18:019][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.13.18:019][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.13.18:019][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.13.18:019][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.03.31-00.13.18:020][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.03.31-00.13.18:021][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.03.31-00.13.18:021][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.03.31-00.13.18:021][221]LogInit: FAudioDevice initialized with ID 29.
+[2024.03.31-00.13.18:021][221]LogAudio: Display: Audio Device (ID: 29) registered with world 'SkatePark'.
+[2024.03.31-00.13.18:021][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.03.31-00.13.18:023][221]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.13.18:025][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.13.18
+[2024.03.31-00.13.18:025][221]LogWorld: Bringing up level for play took: 0.000846
+[2024.03.31-00.13.18:029][221]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.03.31-00.13.18:034][221]PIE: Server logged in
+[2024.03.31-00.13.18:035][221]PIE: Play in editor total start time 0.176 seconds.
+[2024.03.31-00.13.29:756][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.13.29:756][916]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.13.29:757][916]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.13.29:757][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.13.29:762][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.13.29:767][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.13.29:781][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.13.29:781][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.03.31-00.13.29:781][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.03.31-00.13.29:783][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.03.31-00.13.29:794][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.31-00.13.29:801][916]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.13.29:873][917]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.03.31-00.13.32:914][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.31-00.13.33:723][ 96]LogSlate: Window 'Save Content' being destroyed
+[2024.03.31-00.13.33:734][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-00.13.33:826][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.31-00.13.33:867][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.31-00.13.33:879][ 96]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.03.31-00.13.33:882][ 96]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark8B23F017470774E87EA4EC95E00A5FAE.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.03.31-00.13.33:896][ 96]LogFileHelpers: Saving map 'SkatePark' took 0.071
+[2024.03.31-00.13.33:912][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/BP_MusicController
+[2024.03.31-00.13.33:916][ 96]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicController7DE4288749BD848FBF55DEAC45EE1AF3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/BP_MusicController.uasset'
+[2024.03.31-00.13.33:923][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/SC_BackgroundSoundCue
+[2024.03.31-00.13.33:925][ 96]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SC_BackgroundSoundCue00A8AA264388C9BE8A815E976946D8C5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/SC_BackgroundSoundCue.uasset'
+[2024.03.31-00.13.33:937][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 3.16 sec)
+[2024.03.31-00.13.33:940][ 96]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-00.13.33:940][ 96]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.03.31-00.13.33:940][ 96]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController
+[2024.03.31-00.13.33:940][ 96]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Blueprints/Controllers/SC_BackgroundSoundCue.SC_BackgroundSoundCue
+[2024.03.31-00.13.48:271][944]Cmd: DELETE
+[2024.03.31-00.13.48:271][944]Cmd: ACTOR DELETE
+[2024.03.31-00.13.48:274][944]LogEditorActor: Deleted Actor: BP_MusicController_C
+[2024.03.31-00.13.48:289][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.31-00.13.48:294][944]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.03.31-00.13.49:282][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.13.49:294][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.13.49:294][  2]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:13:49 PM)
+[2024.03.31-00.13.49:295][  2]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.13.49:297][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002258s)
+[2024.03.31-00.13.49:297][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002294s)
+[2024.03.31-00.13.49:310][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.31-00.13.49:312][  2]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.13.49:312][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.13.49:313][  2]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.13.49:313][  2]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2024.03.31-00.13.49:313][  2]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.13.49:313][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.13.49:313][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.13.49:314][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.13.49:314][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.13.49:314][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.13.49:317][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.13.49:387][  2]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.13.49:388][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.13.49:388][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.13.49:388][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.13.49:388][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.03.31-00.13.49:388][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.03.31-00.13.49:390][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.03.31-00.13.49:390][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.03.31-00.13.49:390][  2]LogInit: FAudioDevice initialized with ID 30.
+[2024.03.31-00.13.49:390][  2]LogAudio: Display: Audio Device (ID: 30) registered with world 'SkatePark'.
+[2024.03.31-00.13.49:390][  2]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.03.31-00.13.49:394][  2]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.13.49:395][  2]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.13.49
+[2024.03.31-00.13.49:395][  2]LogWorld: Bringing up level for play took: 0.000772
+[2024.03.31-00.13.49:398][  2]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.03.31-00.13.49:402][  2]PIE: Server logged in
+[2024.03.31-00.13.49:403][  2]PIE: Play in editor total start time 0.111 seconds.
+[2024.03.31-00.13.52:806][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.13.52:806][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.13.52:806][200]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.13.52:806][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.13.52:810][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.13.52:817][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.13.52:831][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-00.13.52:832][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.03.31-00.13.52:832][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.03.31-00.13.52:834][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.03.31-00.13.52:842][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.13.52:846][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.31-00.13.52:853][200]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.13.52:885][201]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.03.31-00.14.06:762][ 28]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.14.06:801][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.31-00.14.13:646][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Obstacles/BP_ObstacleBaseClass.BP_ObstacleBaseClass
+[2024.03.31-00.14.13:646][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.14.13:646][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.14.18:747][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.14.18:756][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.14.18:756][716]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:14:18 PM)
+[2024.03.31-00.14.18:756][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.18:758][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002159s)
+[2024.03.31-00.14.18:758][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002212s)
+[2024.03.31-00.14.18:772][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.31-00.14.18:774][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.14.18:774][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.14.18:775][716]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.14.18:776][716]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2024.03.31-00.14.18:776][716]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.14.18:776][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.14.18:776][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.14.18:777][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.14.18:777][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.14.18:777][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.14.18:779][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.14.18:853][716]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.14.18:853][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.14.18:853][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.14.18:853][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.14.18:854][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.03.31-00.14.18:854][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.03.31-00.14.18:856][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.03.31-00.14.18:856][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.03.31-00.14.18:857][716]LogInit: FAudioDevice initialized with ID 31.
+[2024.03.31-00.14.18:857][716]LogAudio: Display: Audio Device (ID: 31) registered with world 'SkatePark'.
+[2024.03.31-00.14.18:857][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.03.31-00.14.18:943][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.18:943][716]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.14.18:945][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.14.18
+[2024.03.31-00.14.18:945][716]LogWorld: Bringing up level for play took: 0.001150
+[2024.03.31-00.14.18:949][716]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.03.31-00.14.18:954][716]PIE: Server logged in
+[2024.03.31-00.14.18:956][716]PIE: Play in editor total start time 0.2 seconds.
+[2024.03.31-00.14.18:971][716]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.31-00.14.24:006][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.24:006][997]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.24:007][997]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.31-00.14.24:012][997]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.14.24:012][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.14.24:022][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.14.24:029][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.14.24:049][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-00.14.24:049][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.03.31-00.14.24:049][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.03.31-00.14.24:053][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.03.31-00.14.24:066][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.31-00.14.24:074][997]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.14.24:151][998]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.03.31-00.14.30:394][347]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController_C
+[2024.03.31-00.14.30:394][347]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController_C
+[2024.03.31-00.14.30:396][347]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController as actor: BP_MusicController_C /Game/Maps/SkatePark.SkatePark:PersistentLevel.BP_MusicController_C_2
+[2024.03.31-00.14.30:396][347]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController as actor: BP_MusicController_C /Game/Maps/SkatePark.SkatePark:PersistentLevel.BP_MusicController_C_2
+[2024.03.31-00.14.30:828][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController_C
+[2024.03.31-00.14.30:828][371]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController_C
+[2024.03.31-00.14.30:830][371]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController as actor: BP_MusicController_C /Game/Maps/SkatePark.SkatePark:PersistentLevel.BP_MusicController_C_3
+[2024.03.31-00.14.30:830][371]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController as actor: BP_MusicController_C /Game/Maps/SkatePark.SkatePark:PersistentLevel.BP_MusicController_C_3
+[2024.03.31-00.14.32:146][446]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.14.32:156][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.14.32:156][446]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:14:32 PM)
+[2024.03.31-00.14.32:156][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.32:158][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001868s)
+[2024.03.31-00.14.32:158][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001899s)
+[2024.03.31-00.14.32:173][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.31-00.14.32:176][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.14.32:176][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.14.32:176][446]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.14.32:177][446]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2024.03.31-00.14.32:177][446]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.14.32:177][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.14.32:177][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.14.32:178][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.14.32:178][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.14.32:178][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.14.32:180][446]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.14.32:254][446]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.14.32:254][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.14.32:254][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.14.32:254][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.14.32:255][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.03.31-00.14.32:255][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.03.31-00.14.32:259][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.03.31-00.14.32:260][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.03.31-00.14.32:260][446]LogInit: FAudioDevice initialized with ID 32.
+[2024.03.31-00.14.32:260][446]LogAudio: Display: Audio Device (ID: 32) registered with world 'SkatePark'.
+[2024.03.31-00.14.32:260][446]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.03.31-00.14.32:264][446]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.14.32:265][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.14.32
+[2024.03.31-00.14.32:266][446]LogWorld: Bringing up level for play took: 0.001100
+[2024.03.31-00.14.32:269][446]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.03.31-00.14.32:273][446]LogOutputDevice: Warning: 
+
+Script Stack (1 frames) :
+/Game/Blueprints/Controllers/BP_MusicController.BP_MusicController_C.ReceiveBeginPlay
+
+[2024.03.31-00.14.32:343][446]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.070 s
+[2024.03.31-00.14.32:343][446]LogOutputDevice: Error: === Handled ensure: ===
+[2024.03.31-00.14.32:343][446]LogOutputDevice: Error: 
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass)  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 897] 
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: Type mismatch: Expected BP_MusicController_C, Found REINST_BP_MusicController_C_319
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: Stack: 
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea721b188 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3b2a37f UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed41562ea UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed65bbba6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed65cbb70 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed659a7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed6599777 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed628d280 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed659828f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea6c5aacd UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea6c2f325 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea6c35e49 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea906e236 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea79552f1 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea8e93f11 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffea79833e8 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3cab5fd UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3ce15f0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3cac2dc UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3d09b22 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3d0dcdb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3d0d30e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed3564e94 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ffed41bea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ff6341f8af2 UnrealEditor.exe!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ff63421d28c UnrealEditor.exe!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ff63421d37a UnrealEditor.exe!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ff634220854 UnrealEditor.exe!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ff634236984 UnrealEditor.exe!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007ff634239d7a UnrealEditor.exe!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007fff87837344 KERNEL32.DLL!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: [Callstack] 0x00007fff88fc26b1 ntdll.dll!UnknownFunction []
+[2024.03.31-00.14.32:344][446]LogOutputDevice: Error: 
+[2024.03.31-00.14.32:349][446]LogStats:                SubmitErrorReport -  0.000 s
+[2024.03.31-00.14.33:458][446]LogStats:                    SendNewReport -  1.109 s
+[2024.03.31-00.14.33:458][446]LogStats:             FDebug::EnsureFailed -  1.185 s
+[2024.03.31-00.14.33:459][446]PIE: Server logged in
+[2024.03.31-00.14.33:460][446]PIE: Play in editor total start time 1.305 seconds.
+[2024.03.31-00.14.36:256][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.36:256][607]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.36:256][607]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.14.36:257][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.14.36:268][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.14.36:272][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.14.36:284][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-00.14.36:285][607]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.03.31-00.14.36:285][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.03.31-00.14.36:286][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.03.31-00.14.36:294][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.36:297][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.31-00.14.36:303][607]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.14.36:354][608]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.03.31-00.14.46:645][216]BlueprintLog: New page: Compile BP_MusicController
+[2024.03.31-00.14.46:684][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.31-00.14.48:031][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.14.48:049][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.14.48:049][290]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:14:48 PM)
+[2024.03.31-00.14.48:049][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.48:051][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001929s)
+[2024.03.31-00.14.48:051][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.001960s)
+[2024.03.31-00.14.48:067][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.31-00.14.48:069][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.14.48:069][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.14.48:069][290]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.14.48:070][290]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.03.31-00.14.48:070][290]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.14.48:070][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.14.48:070][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.14.48:070][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.14.48:070][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.14.48:070][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.14.48:072][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.14.48:141][290]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.14.48:142][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.14.48:142][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.14.48:142][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.14.48:143][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.03.31-00.14.48:143][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.03.31-00.14.48:146][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.03.31-00.14.48:147][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.03.31-00.14.48:147][290]LogInit: FAudioDevice initialized with ID 33.
+[2024.03.31-00.14.48:147][290]LogAudio: Display: Audio Device (ID: 33) registered with world 'SkatePark'.
+[2024.03.31-00.14.48:147][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.03.31-00.14.48:224][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.48:225][290]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.14.48:226][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.14.48
+[2024.03.31-00.14.48:227][290]LogWorld: Bringing up level for play took: 0.001226
+[2024.03.31-00.14.48:230][290]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.03.31-00.14.48:236][290]PIE: Server logged in
+[2024.03.31-00.14.48:237][290]PIE: Play in editor total start time 0.195 seconds.
+[2024.03.31-00.14.48:288][290]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.31-00.14.51:966][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.51:966][490]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.51:967][490]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.31-00.14.51:971][490]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.14.51:972][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.14.51:989][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.14.51:997][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.14.52:014][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-00.14.52:014][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.03.31-00.14.52:014][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.03.31-00.14.52:017][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.03.31-00.14.52:026][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.03.31-00.14.52:034][490]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.14.52:103][491]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.03.31-00.14.58:296][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.14.58:306][862]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.31-00.14.58:307][862]LogPlayLevel: [PlayLevel] Compiling BP_MusicController before play...
+[2024.03.31-00.14.58:356][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.31-00.14.58:358][862]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2024.03.31-00.14.58:358][862]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:14:58 PM)
+[2024.03.31-00.14.58:359][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.14.58:361][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002846s)
+[2024.03.31-00.14.58:361][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002908s)
+[2024.03.31-00.14.58:378][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.31-00.14.58:379][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.14.58:379][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.14.58:380][862]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.14.58:380][862]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2024.03.31-00.14.58:380][862]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.14.58:380][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.14.58:380][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.14.58:381][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.14.58:381][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.14.58:381][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.14.58:383][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.14.58:453][862]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.14.58:453][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.14.58:453][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.14.58:453][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.14.58:453][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.03.31-00.14.58:453][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.03.31-00.14.58:456][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.03.31-00.14.58:456][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.03.31-00.14.58:456][862]LogInit: FAudioDevice initialized with ID 34.
+[2024.03.31-00.14.58:456][862]LogAudio: Display: Audio Device (ID: 34) registered with world 'SkatePark'.
+[2024.03.31-00.14.58:456][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.03.31-00.14.58:542][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.14.58:542][862]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.14.58:544][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.14.58
+[2024.03.31-00.14.58:544][862]LogWorld: Bringing up level for play took: 0.001187
+[2024.03.31-00.14.58:547][862]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.03.31-00.14.58:553][862]PIE: Server logged in
+[2024.03.31-00.14.58:554][862]PIE: Play in editor total start time 0.248 seconds.
+[2024.03.31-00.14.58:605][862]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.31-00.15.01:466][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.01:466][ 16]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.01:466][ 16]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.31-00.15.01:471][ 16]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.15.01:471][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.01:485][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.15.01:491][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.01:509][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.03.31-00.15.01:509][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.03.31-00.15.01:512][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.03.31-00.15.01:522][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.31-00.15.01:531][ 16]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.15.01:600][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.03.31-00.15.04:978][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.15.04:991][217]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.31-00.15.04:992][217]LogPlayLevel: [PlayLevel] Compiling BP_MusicController before play...
+[2024.03.31-00.15.05:043][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.03.31-00.15.05:045][217]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2024.03.31-00.15.05:046][217]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:15:05 PM)
+[2024.03.31-00.15.05:046][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.05:048][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002253s)
+[2024.03.31-00.15.05:048][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002308s)
+[2024.03.31-00.15.05:065][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.03.31-00.15.05:067][217]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.15.05:067][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.15.05:067][217]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.15.05:068][217]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2024.03.31-00.15.05:068][217]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.15.05:068][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.15.05:068][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.15.05:068][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.15.05:068][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.15.05:068][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.15.05:071][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.15.05:141][217]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.15.05:141][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.15.05:141][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.15.05:141][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.15.05:142][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.03.31-00.15.05:142][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.03.31-00.15.05:146][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.03.31-00.15.05:146][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.03.31-00.15.05:146][217]LogInit: FAudioDevice initialized with ID 35.
+[2024.03.31-00.15.05:146][217]LogAudio: Display: Audio Device (ID: 35) registered with world 'SkatePark'.
+[2024.03.31-00.15.05:147][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.03.31-00.15.05:230][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.05:230][217]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.15.05:231][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.15.05
+[2024.03.31-00.15.05:232][217]LogWorld: Bringing up level for play took: 0.001057
+[2024.03.31-00.15.05:234][217]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.03.31-00.15.05:238][217]PIE: Server logged in
+[2024.03.31-00.15.05:239][217]PIE: Play in editor total start time 0.251 seconds.
+[2024.03.31-00.15.05:290][217]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.31-00.15.16:777][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.16:777][880]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.16:777][880]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.31-00.15.16:784][880]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.15.16:784][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.16:796][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.15.16:804][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.16:819][880]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.03.31-00.15.16:820][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.03.31-00.15.16:822][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.03.31-00.15.16:846][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.31-00.15.16:853][880]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.15.16:960][881]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.03.31-00.15.24:996][361]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.15.25:009][361]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.31-00.15.25:010][361]LogPlayLevel: [PlayLevel] Compiling BP_MusicController before play...
+[2024.03.31-00.15.25:059][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.31-00.15.25:062][361]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2024.03.31-00.15.25:062][361]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:15:25 PM)
+[2024.03.31-00.15.25:062][361]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.25:064][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002085s)
+[2024.03.31-00.15.25:064][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002121s)
+[2024.03.31-00.15.25:079][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.31-00.15.25:081][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.15.25:081][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.15.25:081][361]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.15.25:082][361]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2024.03.31-00.15.25:082][361]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.15.25:082][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.15.25:082][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.15.25:083][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.15.25:083][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.15.25:083][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.15.25:085][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.15.25:156][361]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.15.25:156][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.15.25:156][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.15.25:156][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.15.25:156][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.03.31-00.15.25:156][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.03.31-00.15.25:161][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.03.31-00.15.25:161][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.03.31-00.15.25:161][361]LogInit: FAudioDevice initialized with ID 36.
+[2024.03.31-00.15.25:161][361]LogAudio: Display: Audio Device (ID: 36) registered with world 'SkatePark'.
+[2024.03.31-00.15.25:161][361]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.03.31-00.15.25:244][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.25:244][361]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.15.25:246][361]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.15.25
+[2024.03.31-00.15.25:246][361]LogWorld: Bringing up level for play took: 0.001170
+[2024.03.31-00.15.25:249][361]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.03.31-00.15.25:255][361]PIE: Server logged in
+[2024.03.31-00.15.25:256][361]PIE: Play in editor total start time 0.249 seconds.
+[2024.03.31-00.15.25:305][361]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.31-00.15.28:536][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.28:536][532]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.28:537][532]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.31-00.15.28:542][532]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.15.28:542][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.28:553][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.15.28:560][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.28:577][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.03.31-00.15.28:577][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.03.31-00.15.28:579][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.03.31-00.15.28:588][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.31-00.15.28:594][532]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.15.28:705][533]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.03.31-00.15.29:911][605]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.15.29:923][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.15.29:923][605]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:15:29 PM)
+[2024.03.31-00.15.29:924][605]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.29:926][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002215s)
+[2024.03.31-00.15.29:926][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002250s)
+[2024.03.31-00.15.29:944][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.03.31-00.15.29:946][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.15.29:946][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.15.29:946][605]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.15.29:947][605]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2024.03.31-00.15.29:947][605]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.15.29:947][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.15.29:947][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.15.29:948][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.15.29:948][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.15.29:948][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.15.29:950][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.15.30:031][605]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.15.30:032][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.15.30:032][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.15.30:032][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.15.30:032][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.03.31-00.15.30:032][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.03.31-00.15.30:034][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.03.31-00.15.30:034][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.03.31-00.15.30:034][605]LogInit: FAudioDevice initialized with ID 37.
+[2024.03.31-00.15.30:034][605]LogAudio: Display: Audio Device (ID: 37) registered with world 'SkatePark'.
+[2024.03.31-00.15.30:035][605]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.03.31-00.15.30:111][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.30:111][605]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.15.30:113][605]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.15.30
+[2024.03.31-00.15.30:114][605]LogWorld: Bringing up level for play took: 0.001661
+[2024.03.31-00.15.30:118][605]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.03.31-00.15.30:125][605]PIE: Server logged in
+[2024.03.31-00.15.30:128][605]PIE: Play in editor total start time 0.207 seconds.
+[2024.03.31-00.15.30:144][605]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.31-00.15.41:636][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.15.41:636][276]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.41:637][276]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.31-00.15.41:642][276]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.15.41:642][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.41:654][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.15.41:661][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.15.41:681][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.03.31-00.15.41:681][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.03.31-00.15.41:683][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.03.31-00.15.41:691][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.31-00.15.41:700][276]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.15.41:769][277]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.03.31-00.15.57:045][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.15.57:054][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.15.57:054][179]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:15:57 PM)
+[2024.03.31-00.15.57:054][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.15.57:057][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002401s)
+[2024.03.31-00.15.57:057][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002456s)
+[2024.03.31-00.15.57:071][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.31-00.15.57:074][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.15.57:074][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.15.57:074][179]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.15.57:075][179]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2024.03.31-00.15.57:075][179]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.15.57:075][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.15.57:075][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.15.57:076][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.15.57:076][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.15.57:076][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.15.57:078][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.15.57:150][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.15.57:150][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.15.57:150][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.15.57:150][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.15.57:151][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.03.31-00.15.57:151][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.03.31-00.15.57:153][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.03.31-00.15.57:153][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.03.31-00.15.57:153][179]LogInit: FAudioDevice initialized with ID 38.
+[2024.03.31-00.15.57:153][179]LogAudio: Display: Audio Device (ID: 38) registered with world 'SkatePark'.
+[2024.03.31-00.15.57:153][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.03.31-00.15.57:156][179]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.15.57:158][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.15.57
+[2024.03.31-00.15.57:158][179]LogWorld: Bringing up level for play took: 0.001205
+[2024.03.31-00.15.57:161][179]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.03.31-00.15.57:166][179]PIE: Server logged in
+[2024.03.31-00.15.57:167][179]PIE: Play in editor total start time 0.112 seconds.
+[2024.03.31-00.16.00:096][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.16.00:096][348]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.16.00:096][348]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.16.00:096][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.16.00:107][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.16.00:112][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.16.00:127][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.16.00:127][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.03.31-00.16.00:128][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.03.31-00.16.00:130][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.03.31-00.16.00:140][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.31-00.16.00:148][348]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.16.00:197][349]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.03.31-00.16.01:411][420]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.16.01:420][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.16.01:420][420]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:16:01 PM)
+[2024.03.31-00.16.01:420][420]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.16.01:422][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002154s)
+[2024.03.31-00.16.01:422][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002189s)
+[2024.03.31-00.16.01:437][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.31-00.16.01:440][420]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.16.01:440][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.16.01:440][420]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.16.01:441][420]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2024.03.31-00.16.01:441][420]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.16.01:441][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.16.01:441][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.16.01:442][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.16.01:442][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.16.01:442][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.16.01:444][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.16.01:517][420]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.16.01:518][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.16.01:518][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.16.01:518][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.16.01:519][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.03.31-00.16.01:519][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.03.31-00.16.01:521][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.03.31-00.16.01:521][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.03.31-00.16.01:521][420]LogInit: FAudioDevice initialized with ID 39.
+[2024.03.31-00.16.01:521][420]LogAudio: Display: Audio Device (ID: 39) registered with world 'SkatePark'.
+[2024.03.31-00.16.01:521][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.03.31-00.16.01:526][420]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.16.01:527][420]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.16.01
+[2024.03.31-00.16.01:528][420]LogWorld: Bringing up level for play took: 0.001311
+[2024.03.31-00.16.01:531][420]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.03.31-00.16.01:534][420]PIE: Server logged in
+[2024.03.31-00.16.01:535][420]PIE: Play in editor total start time 0.115 seconds.
+[2024.03.31-00.16.18:076][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.16.18:077][406]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.16.18:077][406]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.16.18:077][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.16.18:084][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.16.18:088][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.16.18:104][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.16.18:105][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.03.31-00.16.18:105][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.03.31-00.16.18:107][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.03.31-00.16.18:118][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.31-00.16.18:125][406]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.16.18:175][407]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.03.31-00.16.19:311][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-00.16.19:321][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-00.16.19:321][473]PIE: New page: PIE session: SkatePark (Mar 30, 2024, 6:16:19 PM)
+[2024.03.31-00.16.19:321][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.16.19:323][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002214s)
+[2024.03.31-00.16.19:323][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.002249s)
+[2024.03.31-00.16.19:337][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.31-00.16.19:339][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-00.16.19:339][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-00.16.19:340][473]LogAIModule: Creating AISystem for world SkatePark
+[2024.03.31-00.16.19:340][473]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2024.03.31-00.16.19:340][473]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-00.16.19:340][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-00.16.19:340][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-00.16.19:341][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-00.16.19:341][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-00.16.19:341][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-00.16.19:343][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-00.16.19:418][473]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-00.16.19:418][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-00.16.19:418][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-00.16.19:418][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-00.16.19:418][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.03.31-00.16.19:419][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.03.31-00.16.19:422][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.03.31-00.16.19:422][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.03.31-00.16.19:422][473]LogInit: FAudioDevice initialized with ID 40.
+[2024.03.31-00.16.19:422][473]LogAudio: Display: Audio Device (ID: 40) registered with world 'SkatePark'.
+[2024.03.31-00.16.19:422][473]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.03.31-00.16.19:427][473]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-00.16.19:428][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.03.30-21.16.19
+[2024.03.31-00.16.19:428][473]LogWorld: Bringing up level for play took: 0.000910
+[2024.03.31-00.16.19:431][473]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.03.31-00.16.19:436][473]PIE: Server logged in
+[2024.03.31-00.16.19:437][473]PIE: Play in editor total start time 0.116 seconds.
+[2024.03.31-00.16.22:617][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.16.22:617][657]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.03.31-00.16.22:617][657]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-00.16.22:617][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.16.22:623][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-00.16.22:629][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-00.16.22:644][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-00.16.22:644][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.03.31-00.16.22:644][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.03.31-00.16.22:647][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.03.31-00.16.22:655][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.31-00.16.22:664][657]LogActorComponent: ReregisterComponent: (/Game/Maps/SkatePark.SkatePark:PersistentLevel.REINST_BP_MusicController_C_0.TRASH_MediaSoundComponent_154.AudioComponent_1) Not currently registered. Aborting.
+[2024.03.31-00.16.22:716][658]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.03.31-00.16.24:242][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.31-00.16.25:117][747]LogSlate: Window 'Save Content' being destroyed
+[2024.03.31-00.16.25:126][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-00.16.25:226][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.31-00.16.25:267][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.31-00.16.25:280][747]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.03.31-00.16.25:283][747]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark6497C16F4FD29F70CBA481B9A5507009.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.03.31-00.16.25:296][747]LogFileHelpers: Saving map 'SkatePark' took 0.071
+[2024.03.31-00.16.25:312][747]LogSavePackage: Moving output files for package: /Game/Blueprints/Controllers/BP_MusicController
+[2024.03.31-00.16.25:316][747]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_MusicController29761A814D3FA5248268238B1882FEB1.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Controllers/BP_MusicController.uasset'
+[2024.03.31-00.16.25:342][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/FeelGood" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/FeelGood.uasset" SILENT=true
+[2024.03.31-00.16.25:446][747]LogSavePackage: Moving output files for package: /Game/Audio/Music/FeelGood
+[2024.03.31-00.16.25:449][747]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/FeelGood2212D2354881896850AD4B9FBC2604AB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Audio/Music/FeelGood.uasset'
+[2024.03.31-00.16.25:463][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 3.50 sec)
+[2024.03.31-00.16.25:466][747]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-00.16.25:466][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.03.31-00.16.25:466][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Controllers/BP_MusicController.BP_MusicController
+[2024.03.31-00.16.25:466][747]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music/FeelGood.FeelGood
+[2024.03.31-00.16.32:422][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.31-00.16.34:513][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.03.31-00.16.37:665][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
