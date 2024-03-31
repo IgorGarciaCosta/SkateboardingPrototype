@@ -1615,3 +1615,492 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.31-01.47.23:242][958]AssetCheck: New page: Asset Save: WBP_MainMenu
 [2024.03.31-01.47.23:242][958]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
 [2024.03.31-01.47.24:239][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.31-01.48.15:795][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.31-01.48.37:018][767]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-01.48.37:041][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.31-01.48.37:598][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.48.37:691][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.48.37:707][788]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.48.37:709][788]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu6F62F68D41575744C4EEFDBE489C17D8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.48.37:716][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.42 sec)
+[2024.03.31-01.48.37:718][788]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.48.37:718][788]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.20:606][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.20:606][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.20:608][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.20:679][283]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.20:727][284]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.21:424][320]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.31-01.49.21:850][326]LogEditorTransaction: Undo Move Widgets
+[2024.03.31-01.49.26:122][563]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:123][563]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:125][563]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:197][565]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:256][566]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:264][566]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:273][567]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:324][568]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:331][568]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:341][569]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:409][571]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:466][572]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:532][574]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:545][575]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:614][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:669][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:733][580]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:745][581]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:793][582]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:810][583]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:811][583]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:813][583]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:862][584]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:868][584]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:878][585]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:928][586]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:934][586]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:944][587]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:946][587]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.26:996][588]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:013][589]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:015][589]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:064][590]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:070][590]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:079][591]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:131][592]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:137][592]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:147][593]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:149][593]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:197][594]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:214][595]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:216][595]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:267][596]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:273][596]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:284][597]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:329][598]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:335][598]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:346][599]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:346][599]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:348][599]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:363][600]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:378][601]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:380][601]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:395][602]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:396][602]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:412][603]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:429][604]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:446][605]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:480][607]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:497][608]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:512][609]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.27:513][609]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-01.49.30:101][749]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.31-01.49.54:507][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.54:604][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.54:616][159]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.54:618][159]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuF7E7E10A41637FFEB327A183F86DA0C9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.54:626][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.54 sec)
+[2024.03.31-01.49.54:627][159]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.54:627][159]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.57:890][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.57:991][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.58:009][340]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.58:012][340]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuA68A1EE8405766A38C9AE39651EAD3B8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.58:019][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 1.67 sec)
+[2024.03.31-01.49.58:021][340]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.58:021][340]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.58:383][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.58:467][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.58:478][362]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.58:480][362]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu936776F348D08CA2BD7D19882D899E3F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.58:487][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.77 sec)
+[2024.03.31-01.49.58:489][362]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.58:489][362]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.58:565][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.58:652][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.58:664][367]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.58:666][367]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuCAF755774804CBA5B112F0A3E807F499.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.58:675][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.88 sec)
+[2024.03.31-01.49.58:676][367]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.58:676][367]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.58:819][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.58:917][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.58:928][376]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.58:930][376]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu033862E240B004EFA868D98BD3380954.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.58:937][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.00 sec)
+[2024.03.31-01.49.58:938][376]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.58:938][376]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.59:315][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.59:400][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.59:411][399]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.59:413][399]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu4D5582F3403BBA5093635589EC8D55E3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.59:422][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.11 sec)
+[2024.03.31-01.49.59:423][399]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.59:423][399]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.59:601][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.59:682][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.59:693][410]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.59:695][410]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuC9D0E9BD4719EDC7E82285AFA1FE9F04.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.49.59:702][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.21 sec)
+[2024.03.31-01.49.59:703][410]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.49.59:703][410]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.49.59:898][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.49.59:983][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.49.59:995][422]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.49.59:997][422]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuD230EFEF458B9589082C9D9937ECC3DD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.50.00:004][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.32 sec)
+[2024.03.31-01.50.00:006][422]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.50.00:006][422]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.50.11:181][ 78]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-01.50.11:206][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.31-01.50.11:784][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.50.11:872][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.50.11:883][105]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.50.11:886][105]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuA450182F4F65A5366FD5F29C36925515.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.50.11:893][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.43 sec)
+[2024.03.31-01.50.11:894][105]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.50.11:894][105]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.50.27:798][ 22]LogSlate: Took 0.000405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.31-01.50.49:343][277]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-01.50.49:368][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.31-01.51.03:924][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.51.04:023][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.51.04:036][121]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.51.04:038][121]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuC1EC9B10477ACE8F15A771B70331CBDE.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.51.04:047][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.55 sec)
+[2024.03.31-01.51.04:049][121]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.51.04:049][121]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.51.04:754][161]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-01.51.04:779][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.31-01.51.12:200][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.51.12:304][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.51.12:316][577]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.51.12:319][577]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuE6F853F9484EDF09AD76EA86F1D3A83D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.51.12:325][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.67 sec)
+[2024.03.31-01.51.12:326][577]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.51.12:326][577]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.51.25:139][318]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-01.51.25:164][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.31-01.51.25:779][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-01.51.25:852][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-01.51.25:864][342]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-01.51.25:867][342]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu0A343455429D4E020EAFFB95BA270C6B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-01.51.25:876][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 2.77 sec)
+[2024.03.31-01.51.25:878][342]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-01.51.25:878][342]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-01.59.05:923][142]LogInterchangeEngine: [Pending] Importing
+[2024.03.31-01.59.05:923][142]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/inkSPlash.png]
+[2024.03.31-01.59.05:963][143]LogInterchangeEngine: [Pending] Importing
+[2024.03.31-01.59.05:993][143]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.31-01.59.06:260][143]LogTexture: Display: Building textures: /Game/images/inkSPlash.inkSPlash (TFO_AutoDXT, 3000x3000 x1x1x1) (Required Memory Estimate: 618.043457 MB), EncodeSpeed: Fast
+[2024.03.31-01.59.06:262][143]LogInterchangeEngine: [Success] Import Done
+[2024.03.31-01.59.06:343][144]LogInterchangeEngine: [Success] Import Done
+[2024.03.31-01.59.46:333][472]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.31-02.00.01:634][383]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.31-02.00.12:432][ 17]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.31-02.00.13:713][ 94]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-02.00.13:738][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.31-02.00.41:444][733]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-02.00.41:464][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.31-02.01.15:120][700]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-02.01.15:140][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.31-02.01.15:699][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-02.01.15:769][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-02.01.15:782][731]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-02.01.15:785][731]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu3BA41A2A45FD9851019C9DB2BB0C0317.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-02.01.15:791][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.86 sec)
+[2024.03.31-02.01.15:793][731]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.03.31-02.01.15:793][731]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-02.01.40:299][147]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-02.01.40:328][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.31-02.01.42:729][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.31-02.01.43:620][279]LogSlate: Window 'Save Content' being destroyed
+[2024.03.31-02.01.43:628][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-02.01.43:714][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/images/inkSPlash" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/inkSPlash.uasset" SILENT=true
+[2024.03.31-02.01.43:808][279]LogSavePackage: Moving output files for package: /Game/images/inkSPlash
+[2024.03.31-02.01.43:808][279]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/inkSPlash30DF55D1462E5B8FC2E7FDAF4E951A33.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/inkSPlash.uasset'
+[2024.03.31-02.01.43:815][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-02.01.43:829][279]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-02.01.43:831][279]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu6673A0374285B0100DF60090DA753FB1.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-02.01.43:839][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 3.07 sec)
+[2024.03.31-02.01.43:841][279]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-02.01.43:841][279]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/inkSPlash.inkSPlash
+[2024.03.31-02.01.43:841][279]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-02.01.46:705][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.31-02.01.46:806][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-02.01.46:808][448]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Empty.Empty
+[2024.03.31-02.01.46:808][448]Cmd: MAP LOAD FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.31-02.01.46:808][448]LightingResults: New page: Lighting Build
+[2024.03.31-02.01.46:808][448]LoadErrors: New page: Loading map: Empty.umap
+[2024.03.31-02.01.46:836][448]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-02.01.46:836][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.01.46:842][448]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.31-02.01.46:842][448]MapCheck: New page: Map Check
+[2024.03.31-02.01.46:842][448]LightingResults: New page: Lighting Build
+[2024.03.31-02.01.46:854][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-02.01.46:860][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.31-02.01.46:862][448]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-02.01.46:862][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.01.46:873][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.31-02.01.46:886][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.31-02.01.46:891][448]LogAudio: Display: Audio Device (ID: 1) registered with world 'Empty'.
+[2024.03.31-02.01.46:891][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-02.01.46:891][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-02.01.46:892][448]LogAIModule: Creating AISystem for world Empty
+[2024.03.31-02.01.46:916][448]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.31-02.01.46:928][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.31-02.01.46:935][448]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.31-02.01.46:935][448]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2024.03.31-02.01.48:530][534]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-02.01.48:539][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-02.01.48:539][534]PIE: New page: PIE session: Empty (Mar 30, 2024, 8:01:48 PM)
+[2024.03.31-02.01.48:539][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.31-02.01.48:541][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001009s)
+[2024.03.31-02.01.48:541][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001035s)
+[2024.03.31-02.01.48:553][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.31-02.01.48:555][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-02.01.48:555][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-02.01.48:556][534]LogAIModule: Creating AISystem for world Empty
+[2024.03.31-02.01.48:556][534]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.03.31-02.01.48:556][534]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-02.01.48:556][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-02.01.48:556][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-02.01.48:557][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-02.01.48:557][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-02.01.48:557][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-02.01.48:559][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-02.01.48:620][534]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-02.01.48:620][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-02.01.48:620][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-02.01.48:620][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-02.01.48:621][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.03.31-02.01.48:621][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.03.31-02.01.48:623][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.03.31-02.01.48:623][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.03.31-02.01.48:623][534]LogInit: FAudioDevice initialized with ID 3.
+[2024.03.31-02.01.48:623][534]LogAudio: Display: Audio Device (ID: 3) registered with world 'Empty'.
+[2024.03.31-02.01.48:623][534]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.31-02.01.48:626][534]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.31-02.01.48:626][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-23.01.48
+[2024.03.31-02.01.48:626][534]LogWorld: Bringing up level for play took: 0.000281
+[2024.03.31-02.01.48:628][534]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.03.31-02.01.48:629][534]PIE: Server logged in
+[2024.03.31-02.01.48:630][534]PIE: Play in editor total start time 0.091 seconds.
+[2024.03.31-02.01.50:632][650]LogViewport: Scene viewport resized to 1295x466, mode Windowed.
+[2024.03.31-02.01.50:649][651]LogViewport: Scene viewport resized to 1295x476, mode Windowed.
+[2024.03.31-02.01.50:666][652]LogViewport: Scene viewport resized to 1295x489, mode Windowed.
+[2024.03.31-02.01.50:686][653]LogViewport: Scene viewport resized to 1295x502, mode Windowed.
+[2024.03.31-02.01.50:703][654]LogViewport: Scene viewport resized to 1295x518, mode Windowed.
+[2024.03.31-02.01.50:720][655]LogViewport: Scene viewport resized to 1295x526, mode Windowed.
+[2024.03.31-02.01.50:737][656]LogViewport: Scene viewport resized to 1295x531, mode Windowed.
+[2024.03.31-02.01.50:753][657]LogViewport: Scene viewport resized to 1295x535, mode Windowed.
+[2024.03.31-02.01.50:770][658]LogViewport: Scene viewport resized to 1295x541, mode Windowed.
+[2024.03.31-02.01.50:786][659]LogViewport: Scene viewport resized to 1295x548, mode Windowed.
+[2024.03.31-02.01.50:805][660]LogViewport: Scene viewport resized to 1295x557, mode Windowed.
+[2024.03.31-02.01.50:822][661]LogViewport: Scene viewport resized to 1295x575, mode Windowed.
+[2024.03.31-02.01.50:839][662]LogViewport: Scene viewport resized to 1295x590, mode Windowed.
+[2024.03.31-02.01.50:856][663]LogViewport: Scene viewport resized to 1295x606, mode Windowed.
+[2024.03.31-02.01.50:873][664]LogViewport: Scene viewport resized to 1295x617, mode Windowed.
+[2024.03.31-02.01.50:889][665]LogViewport: Scene viewport resized to 1295x625, mode Windowed.
+[2024.03.31-02.01.50:906][666]LogViewport: Scene viewport resized to 1295x629, mode Windowed.
+[2024.03.31-02.01.51:037][674]LogViewport: Scene viewport resized to 1295x630, mode Windowed.
+[2024.03.31-02.01.51:155][681]LogViewport: Scene viewport resized to 1295x629, mode Windowed.
+[2024.03.31-02.01.51:171][682]LogViewport: Scene viewport resized to 1295x627, mode Windowed.
+[2024.03.31-02.01.51:189][683]LogViewport: Scene viewport resized to 1295x625, mode Windowed.
+[2024.03.31-02.01.51:205][684]LogViewport: Scene viewport resized to 1295x615, mode Windowed.
+[2024.03.31-02.01.51:222][685]LogViewport: Scene viewport resized to 1295x610, mode Windowed.
+[2024.03.31-02.02.00:659][250]Cmd: quit
+[2024.03.31-02.02.00:660][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-02.02.00:660][250]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.31-02.02.00:660][250]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-02.02.00:661][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.02.00:664][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-02.02.00:669][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.02.00:682][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-02.02.00:682][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.03.31-02.02.00:682][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.31-02.02.00:684][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.03.31-02.02.00:690][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-02.02.00:691][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.31-02.02.00:775][254]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.03.31-02.06.50:564][ 36]LogInterchangeEngine: [Pending] Importing
+[2024.03.31-02.06.50:564][ 36]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/arrow.png]
+[2024.03.31-02.06.50:566][ 36]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.03.31-02.06.50:572][ 37]LogTexture: Display: Building textures: /Game/images/arrow.arrow (BGRA8, 359x585 x1x1x1) (Required Memory Estimate: 6.204601 MB), EncodeSpeed: Fast
+[2024.03.31-02.06.50:608][ 37]LogInterchangeEngine: [Success] Import Done
+[2024.03.31-02.06.50:611][ 37]LogInterchangeEngine: [Success] Import Done
+[2024.03.31-02.06.50:986][ 38]LogInterchangeEngine: [Success] Import Done
+[2024.03.31-02.07.04:569][787]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:569][787]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:571][787]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:633][788]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:640][788]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:650][789]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:702][790]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:709][790]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:719][791]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:799][793]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:856][794]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:922][796]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:933][797]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:935][797]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.04:991][798]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.07.05:009][799]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.03.31-02.08.12:873][858]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-02.08.12:894][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.31-02.08.15:003][974]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-02.08.15:013][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-02.08.15:013][974]PIE: New page: PIE session: Empty (Mar 30, 2024, 8:08:15 PM)
+[2024.03.31-02.08.15:013][974]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.31-02.08.15:014][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001019s)
+[2024.03.31-02.08.15:014][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001046s)
+[2024.03.31-02.08.15:025][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.31-02.08.15:027][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-02.08.15:027][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-02.08.15:027][974]LogAIModule: Creating AISystem for world Empty
+[2024.03.31-02.08.15:027][974]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2024.03.31-02.08.15:028][974]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-02.08.15:028][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-02.08.15:028][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-02.08.15:028][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-02.08.15:028][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-02.08.15:028][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-02.08.15:030][974]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-02.08.15:092][974]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-02.08.15:093][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-02.08.15:093][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-02.08.15:093][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-02.08.15:094][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.03.31-02.08.15:094][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.03.31-02.08.15:095][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.03.31-02.08.15:095][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.03.31-02.08.15:095][974]LogInit: FAudioDevice initialized with ID 4.
+[2024.03.31-02.08.15:095][974]LogAudio: Display: Audio Device (ID: 4) registered with world 'Empty'.
+[2024.03.31-02.08.15:095][974]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.31-02.08.15:098][974]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.31-02.08.15:098][974]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-23.08.15
+[2024.03.31-02.08.15:099][974]LogWorld: Bringing up level for play took: 0.000355
+[2024.03.31-02.08.15:099][974]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.03.31-02.08.15:101][974]PIE: Server logged in
+[2024.03.31-02.08.15:101][974]PIE: Play in editor total start time 0.09 seconds.
+[2024.03.31-02.08.33:670][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.31-02.08.34:759][ 85]LogSlate: Window 'Save Content' being destroyed
+[2024.03.31-02.08.34:765][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-02.08.34:768][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/images/arrow" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/arrow.uasset" SILENT=true
+[2024.03.31-02.08.34:775][ 85]LogSavePackage: Moving output files for package: /Game/images/arrow
+[2024.03.31-02.08.34:775][ 85]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/arrow37C1B9974C8500A71BB27C9E908CC232.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/arrow.uasset'
+[2024.03.31-02.08.34:785][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-02.08.34:799][ 85]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-02.08.34:801][ 85]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenuD5183BF646F69AD45D067495982FFCF7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-02.08.34:803][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 3.11 sec)
+[2024.03.31-02.08.34:805][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-02.08.34:805][ 85]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/arrow.arrow
+[2024.03.31-02.08.34:805][ 85]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.03.31-02.08.42:118][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-02.08.42:118][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.31-02.08.42:118][521]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-02.08.42:118][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.08.42:121][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-02.08.42:124][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.08.42:140][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-02.08.42:140][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.03.31-02.08.42:140][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.31-02.08.42:142][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.03.31-02.08.42:147][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-02.08.42:149][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.31-02.08.42:209][523]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.03.31-02.08.45:519][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.31-02.09.15:809][531]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/images/inkSPlash.inkSPlash
+[2024.03.31-02.09.16:005][531]LogViewport: Scene viewport resized to 919x534, mode Windowed.
+[2024.03.31-02.09.25:545][ 99]LogSlate: Window 'inkSPlash' being destroyed
+[2024.03.31-02.09.25:552][ 99]LogSlate: Window 'inkSPlash' being destroyed
+[2024.03.31-02.09.38:786][448]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/images/inkSPlash.inkSPlash
+[2024.03.31-02.09.38:941][448]LogViewport: Scene viewport resized to 919x534, mode Windowed.
+[2024.03.31-02.09.47:030][931]LogTexture: Display: Building textures: /Game/images/inkSPlash.inkSPlash (TFO_AutoDXT, 3000x3000 x1x1x1) (Required Memory Estimate: 618.043457 MB), EncodeSpeed: Final
+[2024.03.31-02.10.29:548][297]LogViewport: Scene viewport resized to 916x557, mode Windowed.
+[2024.03.31-02.10.29:595][299]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2024.03.31-02.10.29:896][317]LogSlate: Window 'inkSPlash' being destroyed
+[2024.03.31-02.10.32:984][499]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/images/arrow.arrow
+[2024.03.31-02.10.33:058][499]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2024.03.31-02.11.39:983][499]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.03.31-02.11.40:005][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.31-02.11.41:183][556]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-02.11.41:193][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-02.11.41:193][556]PIE: New page: PIE session: Empty (Mar 30, 2024, 8:11:41 PM)
+[2024.03.31-02.11.41:193][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.03.31-02.11.41:194][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001054s)
+[2024.03.31-02.11.41:194][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001091s)
+[2024.03.31-02.11.41:205][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.31-02.11.41:207][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-02.11.41:207][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-02.11.41:207][556]LogAIModule: Creating AISystem for world Empty
+[2024.03.31-02.11.41:208][556]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2024.03.31-02.11.41:208][556]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-02.11.41:208][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-02.11.41:208][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-02.11.41:208][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-02.11.41:208][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-02.11.41:208][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-02.11.41:211][556]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-02.11.41:280][556]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-02.11.41:280][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-02.11.41:280][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-02.11.41:280][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-02.11.41:280][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.31-02.11.41:280][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.31-02.11.41:283][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.31-02.11.41:283][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.31-02.11.41:283][556]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.31-02.11.41:283][556]LogAudio: Display: Audio Device (ID: 5) registered with world 'Empty'.
+[2024.03.31-02.11.41:283][556]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.31-02.11.41:285][556]LogLoad: Game class is 'GM_Menu_C'
+[2024.03.31-02.11.41:286][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.03.30-23.11.41
+[2024.03.31-02.11.41:286][556]LogWorld: Bringing up level for play took: 0.000306
+[2024.03.31-02.11.41:287][556]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.03.31-02.11.41:289][556]PIE: Server logged in
+[2024.03.31-02.11.41:289][556]PIE: Play in editor total start time 0.098 seconds.
+[2024.03.31-02.11.48:569][990]Cmd: quit
+[2024.03.31-02.11.48:569][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-02.11.48:569][990]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.03.31-02.11.48:569][990]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-02.11.48:570][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.11.48:572][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-02.11.48:576][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-02.11.48:587][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-02.11.48:587][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.31-02.11.48:587][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.31-02.11.48:589][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.31-02.11.48:595][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-02.11.48:597][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.31-02.11.48:680][994]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.03.31-02.11.49:413][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.31-02.11.50:305][ 37]LogSlate: Window 'Save Content' being destroyed
+[2024.03.31-02.11.50:311][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-02.11.50:404][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/images/inkSPlash" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/inkSPlash.uasset" SILENT=true
+[2024.03.31-02.11.50:426][ 37]LogSavePackage: Moving output files for package: /Game/images/inkSPlash
+[2024.03.31-02.11.50:429][ 37]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/inkSPlashCA3C452D43BA7BCBE44F06B634CD823B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/inkSPlash.uasset'
+[2024.03.31-02.11.50:434][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_MainMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.03.31-02.11.50:452][ 37]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_MainMenu
+[2024.03.31-02.11.50:455][ 37]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_MainMenu2077AC2B4ADE404075B6108826B989F3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_MainMenu.uasset'
+[2024.03.31-02.11.50:463][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.26 sec)
+[2024.03.31-02.11.50:465][ 37]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-02.11.50:465][ 37]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/inkSPlash.inkSPlash
+[2024.03.31-02.11.50:465][ 37]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
