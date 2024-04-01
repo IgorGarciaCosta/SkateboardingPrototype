@@ -5464,3 +5464,786 @@ Script Stack (0 frames) :
 [2024.03.31-18.42.34:771][490]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/btn.btn
 [2024.03.31-18.42.34:771][490]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/btnPressed.btnPressed
 [2024.03.31-18.42.34:771][490]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/inkSPlashMenu.inkSPlashMenu
+[2024.03.31-18.58.17:577][458]LogDerivedDataCache: C:/Users/ISILV125/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:16.983 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 81950 files in 59219 folders with total size 31401 MiB.
+[2024.03.31-20.50.18:252][830]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [14 Seconds] waiting for h/w. InstanceID=1
+[2024.03.31-20.50.18:314][830]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22016
+[2024.03.31-20.50.18:989][832]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1b0d948d-a581-4e3f-bd97-94fc1c6a7d8b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=604.60
+[2024.03.31-20.50.18:989][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.31-20.50.18:992][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.31-20.50.34:475][863]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [12 Seconds] waiting for h/w. InstanceID=1
+[2024.04.01-09.57.36:009][863]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22016
+[2024.04.01-09.57.36:867][864]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1b0d948d-a581-4e3f-bd97-94fc1c6a7d8b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=79.71
+[2024.04.01-09.57.36:867][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.01-09.57.36:871][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 0 (Too old connection (47261 seconds idle), disconnect it)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 1 (Connection 9 seems to be dead)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 2 (Closing connection)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 4 (Send failure: Connection was reset)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 6 (Hostname in DNS cache was stale, zapped)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: 00000827E5BD4600: libcurl info message cache 8 (Closing connection)
+[2024.04.01-09.57.37:181][866]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB17E629F-472C-85E2-FA6F-CD997F40B20E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=85016be8447bc67aa5b8be813b7a36a0%7C678416a96f834f8090faeb7ab07a9e5d%7C8d0bae5f-6e46-49ae-a345-a1d7498f5e08&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.01-10.30.05:121][619]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-10.30.05:131][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-10.30.05:131][619]PIE: New page: PIE session: Empty (Apr 1, 2024, 4:30:05 AM)
+[2024.04.01-10.30.05:132][619]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.30.05:133][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001368s)
+[2024.04.01-10.30.05:133][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001414s)
+[2024.04.01-10.30.05:147][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.01-10.30.05:149][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.30.05:149][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.30.05:149][619]LogAIModule: Creating AISystem for world Empty
+[2024.04.01-10.30.05:150][619]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2024.04.01-10.30.05:150][619]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-10.30.05:150][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-10.30.05:150][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-10.30.05:151][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-10.30.05:151][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-10.30.05:151][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-10.30.05:154][619]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-10.30.05:219][619]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-10.30.05:219][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-10.30.05:219][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-10.30.05:219][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-10.30.05:220][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.04.01-10.30.05:220][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.04.01-10.30.05:222][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.04.01-10.30.05:222][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.04.01-10.30.05:222][619]LogInit: FAudioDevice initialized with ID 39.
+[2024.04.01-10.30.05:222][619]LogAudio: Display: Audio Device (ID: 39) registered with world 'Empty'.
+[2024.04.01-10.30.05:222][619]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.01-10.30.05:224][619]LogLoad: Game class is 'GM_Menu_C'
+[2024.04.01-10.30.05:225][619]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 0) at 2024.04.01-07.30.05
+[2024.04.01-10.30.05:225][619]LogWorld: Bringing up level for play took: 0.000344
+[2024.04.01-10.30.05:227][619]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.04.01-10.30.05:229][619]PIE: Server logged in
+[2024.04.01-10.30.05:230][619]PIE: Play in editor total start time 0.099 seconds.
+[2024.04.01-10.30.13:362][580]LogNet: Browse: /Game/Maps/SkatePark
+[2024.04.01-10.30.13:362][580]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.04.01-10.30.13:362][580]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.30.13:362][580]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.30.13:362][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.30.13:413][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-10.30.13:414][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.01-10.30.13:422][580]LogAudio: Display: Audio Device (ID: 39) registered with world 'SkatePark'.
+[2024.04.01-10.30.13:422][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.30.13:422][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.30.13:422][580]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-10.30.13:423][580]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2024.04.01-10.30.13:423][580]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-10.30.13:426][580]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-07.30.13
+[2024.04.01-10.30.13:426][580]LogWorld: Bringing up level for play took: 0.002956
+[2024.04.01-10.30.13:429][580]LogLoad: Took 0.066541 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.04.01-10.30.20:651][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.30.20:651][394]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-10.30.20:651][394]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.30.20:652][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.30.20:656][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-10.30.20:660][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.30.20:672][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.30.20:672][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.01-10.30.20:672][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.01-10.30.20:674][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.01-10.30.20:682][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.01-10.30.20:727][396]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.04.01-10.33.31:973][ 99]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.01-10.33.31:980][ 99]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.01-10.33.31:990][100]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.01-10.33.33:846][323]LogContentBrowser: Attempting asset rename: NewFolder -> helmet
+[2024.04.01-10.33.33:847][323]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.01-10.33.50:488][710]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-10.33.50:488][710]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Do...02-9746-5fe4d14871d3/10528_Skating_Helmet_v1_diffuse_SG.jpg]
+[2024.04.01-10.33.50:715][710]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/helmet/10528_Skating_Helmet_v1_SG_L3.123ce7051ef7-4961-4002-9746-5fe4d14871d3/10528_Skating_Helmet_v1_diffuse_SG.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-10.33.50:763][710]LogTexture: Display: Building textures: /Game/meshes/helmet/10528_Skating_Helmet_v1_diffuse_SG.10528_Skating_Helmet_v1_diffuse_SG (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.01-10.33.50:771][710]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-10.33.53:381][710]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.04.01-10.33.53:389][710]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-10.33.53:389][710]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Do...02-9746-5fe4d14871d3/10528_Skating_Helmet_v1_IT-2.mtl]
+[2024.04.01-10.33.53:390][710]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-10.33.53:390][710]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Do...02-9746-5fe4d14871d3/10528_Skating_Helmet_v1_IT-2.obj]
+[2024.04.01-10.33.53:410][710]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2024.04.01-10.33.53:417][710]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2024.04.01-10.33.53:467][711]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-10.33.53:475][711]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-10.33.53:500][711]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-10.33.53:596][712]LogTexture: Display: Building textures: /Game/meshes/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG.TEX_10528_Skating_Helmet_v1_diffuse_SG (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.01-10.33.53:614][712]LogStaticMesh: Display: Building static mesh 10528_Skating_Helmet_v1_IT-2...
+[2024.04.01-10.33.53:616][712]Interchange: Error: XML parse error in C:\Users\ISILV125\Downloads\helmet\10528_Skating_Helmet_v1_SG_L3.123ce7051ef7-4961-4002-9746-5fe4d14871d3\10528_Skating_Helmet_v1_IT-2.mtl (No document element found at character 448)
+[2024.04.01-10.33.53:616][712]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.01-10.33.53:670][712]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-10.33.53:771][712]LogStaticMesh: Built static mesh [0.16s] /Game/meshes/helmet/10528_Skating_Helmet_v1_IT-2.10528_Skating_Helmet_v1_IT-2
+[2024.04.01-10.33.53:864][713]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: ================================================
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: RAM used: 83.95 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.01-10.33.54:065][714]LogShaderCompilers: Display: ================================================
+[2024.04.01-10.33.54:241][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.33.59:029][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.01-10.34.00:094][216]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-10.34.00:103][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.34.00:195][216]LogSavePackage: Moving output files for package: /Game/meshes/helmet/10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.00:195][216]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/10528_Skating_Helmet_v1_diffuse_73C9B6464240D9B49DD7A3BC1F24A453.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/10528_Skating_Helmet_v1_diffuse_SG.uasset'
+[2024.04.01-10.34.00:256][216]LogSavePackage: Moving output files for package: /Game/meshes/helmet/10528_Skating_Helmet_v1_IT-2
+[2024.04.01-10.34.00:256][216]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/10528_Skating_Helmet_v1_IT-28A0F1B7F4B7C54C32879ADB7D972EDC3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/10528_Skating_Helmet_v1_IT-2.uasset'
+[2024.04.01-10.34.00:291][216]LogSavePackage: Moving output files for package: /Game/meshes/helmet/_10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG
+[2024.04.01-10.34.00:291][216]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/_10528_Skating_Helmet_v1_IT_2105BD7D779A41D31C603FE0E9838655D813.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/_10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG.uasset'
+[2024.04.01-10.34.00:315][216]LogSavePackage: Moving output files for package: /Game/meshes/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.00:315][216]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/TEX_10528_Skating_Helmet_v1_diff05E4C6E5496F43ABFA34BBB38B78F050.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG.uasset'
+[2024.04.01-10.34.00:326][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 8.90 sec)
+[2024.04.01-10.34.00:327][216]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-10.34.00:327][216]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/helmet/10528_Skating_Helmet_v1_diffuse_SG.10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.00:328][216]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/helmet/10528_Skating_Helmet_v1_IT-2.10528_Skating_Helmet_v1_IT-2
+[2024.04.01-10.34.00:328][216]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/helmet/_10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG._10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG
+[2024.04.01-10.34.00:328][216]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG.TEX_10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.05:928][772]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.01-10.34.05:948][772]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.01-10.34.05:958][773]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.01-10.34.08:470][ 75]LogContentBrowser: Attempting asset rename: NewFolder -> helmet
+[2024.04.01-10.34.08:471][ 75]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.01-10.34.20:562][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.34.20:645][373]LogSavePackage: Moving output files for package: /Game/meshes/helmet/10528_Skating_Helmet_v1_IT-2
+[2024.04.01-10.34.20:649][373]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/10528_Skating_Helmet_v1_IT-2D8EA89A447762635C5E23B9045161567.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/10528_Skating_Helmet_v1_IT-2.uasset'
+[2024.04.01-10.34.20:656][373]LogSavePackage: Moving output files for package: /Game/materials/helmet/_10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG
+[2024.04.01-10.34.20:656][373]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/_10528_Skating_Helmet_v1_IT_2105F1A2F41B4A2422BBEBF938841CB8CA08.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/helmet/_10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG.uasset'
+[2024.04.01-10.34.20:672][373]LogSavePackage: Moving output files for package: /Game/materials/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.20:672][373]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/TEX_10528_Skating_Helmet_v1_diff8583EF4544FEF2A84368A68CA50FE32F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG.uasset'
+[2024.04.01-10.34.20:680][373]LogSavePackage: Moving output files for package: /Game/materials/helmet/10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.20:680][373]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/10528_Skating_Helmet_v1_diffuse_A77454DA42ECA88591BAD5B8E6B874F8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/helmet/10528_Skating_Helmet_v1_diffuse_SG.uasset'
+[2024.04.01-10.34.20:689][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 9.03 sec)
+[2024.04.01-10.34.20:720][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.01-10.34.20:736][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.01-10.34.20:750][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.01-10.34.20:779][373]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-10.34.20:779][373]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/helmet/10528_Skating_Helmet_v1_IT-2.10528_Skating_Helmet_v1_IT-2
+[2024.04.01-10.34.20:779][373]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/helmet/_10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG._10528_Skating_Helmet_v1_IT_210528_Skating_Helmet_v1_SG
+[2024.04.01-10.34.20:779][373]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/helmet/TEX_10528_Skating_Helmet_v1_diffuse_SG.TEX_10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.20:779][373]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/materials/helmet/10528_Skating_Helmet_v1_diffuse_SG.10528_Skating_Helmet_v1_diffuse_SG
+[2024.04.01-10.34.27:436][ 56]LogContentBrowser: Attempting asset rename: 10528_Skating_Helmet_v1_IT-2 -> helmet
+[2024.04.01-10.34.27:461][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.34.27:535][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/helmet/helmet" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/helmet.uasset" SILENT=true
+[2024.04.01-10.34.27:549][ 56]LogSavePackage: Moving output files for package: /Game/meshes/helmet/helmet
+[2024.04.01-10.34.27:549][ 56]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/helmetACEE6A204B83252CEE9333B3AF6DF1DA.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/helmet.uasset'
+[2024.04.01-10.34.27:562][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 9.13 sec)
+[2024.04.01-10.34.27:583][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.01-10.34.27:598][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.01-10.34.27:610][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.01-10.34.27:614][ 56]AssetCheck: New page: Asset Save: helmet
+[2024.04.01-10.34.27:614][ 56]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/helmet/helmet.helmet
+[2024.04.01-10.34.32:240][580]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_89
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.34.32:240][580]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_89
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.34.32:240][580]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_89
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.34.32:407][599]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_90
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.34.32:407][599]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_90
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.34.32:407][599]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_90
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.34.32:464][601]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_91
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.34.32:464][601]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_91
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.34.32:464][601]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_91
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.34.32:475][602]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_92
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.34.32:475][602]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_92
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.34.32:475][602]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_92
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.34.34:207][780]LogViewport: Scene viewport resized to 1140x663, mode Windowed.
+[2024.04.01-10.34.52:098][673]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/materials/Character/Ch42_Hair.Ch42_Hair
+[2024.04.01-10.34.52:120][673]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.34.52:120][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.34.52:281][673]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-10.34.52:281][673]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.01-10.34.52:281][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.34.52:281][673]MaterialEditorStats: Shader Count: 0
+[2024.04.01-10.34.52:286][673]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.04.01-10.34.52:385][675]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.34.52:385][675]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.34.52:385][675]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.01-10.34.52:385][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.34.52:385][675]MaterialEditorStats: Shader Count: 2
+[2024.04.01-10.34.52:415][677]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_93
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.34.52:415][677]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_93
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.34.52:416][677]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_93
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.35.13:199][140]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-10.35.13:199][140]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.35.13:199][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.35.13:199][140]MaterialEditorStats: Shader Count: 0
+[2024.04.01-10.35.14:404][281]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.35.14:404][281]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.35.14:404][281]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.35.14:404][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.35.14:404][281]MaterialEditorStats: Shader Count: 2
+[2024.04.01-10.35.14:437][283]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_94
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.35.14:437][283]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_94
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.35.14:438][283]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_94
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.35.16:006][458]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_95
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.35.16:006][458]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_95
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.35.16:006][458]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_95
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.35.21:961][128]LogMaterialEditor: Applying material Ch42_Hair
+[2024.04.01-10.35.22:054][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.01-10.35.22:593][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-10.35.22:602][128]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.01-10.35.22:602][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.35.22:602][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.35.22:602][128]MaterialEditorStats: Shader Count: 2
+[2024.04.01-10.35.22:611][129]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.35.22:611][129]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.35.22:611][129]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.35.22:611][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.35.22:611][129]MaterialEditorStats: Shader Count: 4
+[2024.04.01-10.35.22:639][132]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_96
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.35.22:639][132]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_96
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.35.22:639][132]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_96
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.35.23:004][173]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_97
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.35.23:005][173]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_97
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.35.23:005][173]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_97
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.35.23:007][173]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.35.23:007][173]MaterialEditorStats: Base pass vertex shader: 425 instructions
+[2024.04.01-10.35.23:007][173]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.35.23:007][173]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.35.23:007][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.35.23:007][173]MaterialEditorStats: Shader Count: 6
+[2024.04.01-10.35.32:331][251]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-10.35.32:340][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-10.35.32:340][251]PIE: New page: PIE session: Empty (Apr 1, 2024, 4:35:32 AM)
+[2024.04.01-10.35.32:361][251]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.35.32:362][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000985s)
+[2024.04.01-10.35.32:362][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001016s)
+[2024.04.01-10.35.32:374][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.01-10.35.32:376][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.35.32:376][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.35.32:376][251]LogAIModule: Creating AISystem for world Empty
+[2024.04.01-10.35.32:377][251]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2024.04.01-10.35.32:377][251]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-10.35.32:377][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-10.35.32:377][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-10.35.32:377][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-10.35.32:377][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-10.35.32:377][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-10.35.32:379][251]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-10.35.32:444][251]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-10.35.32:444][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-10.35.32:444][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-10.35.32:444][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-10.35.32:445][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.04.01-10.35.32:445][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.04.01-10.35.32:447][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.04.01-10.35.32:447][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.04.01-10.35.32:447][251]LogInit: FAudioDevice initialized with ID 40.
+[2024.04.01-10.35.32:447][251]LogAudio: Display: Audio Device (ID: 40) registered with world 'Empty'.
+[2024.04.01-10.35.32:447][251]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.01-10.35.32:450][251]LogLoad: Game class is 'GM_Menu_C'
+[2024.04.01-10.35.32:450][251]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 0) at 2024.04.01-07.35.32
+[2024.04.01-10.35.32:450][251]LogWorld: Bringing up level for play took: 0.000308
+[2024.04.01-10.35.32:452][251]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.01-10.35.32:453][251]PIE: Server logged in
+[2024.04.01-10.35.32:454][251]PIE: Play in editor total start time 0.114 seconds.
+[2024.04.01-10.35.33:055][316]LogNet: Browse: /Game/Maps/SkatePark
+[2024.04.01-10.35.33:055][316]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.04.01-10.35.33:055][316]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.35.33:055][316]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.35.33:055][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.35.33:093][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-10.35.33:095][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-10.35.33:101][316]LogAudio: Display: Audio Device (ID: 40) registered with world 'SkatePark'.
+[2024.04.01-10.35.33:101][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.35.33:101][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.35.33:101][316]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-10.35.33:101][316]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2024.04.01-10.35.33:101][316]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-10.35.33:104][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-07.35.33
+[2024.04.01-10.35.33:105][316]LogWorld: Bringing up level for play took: 0.002853
+[2024.04.01-10.35.33:107][316]LogLoad: Took 0.052337 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.04.01-10.35.45:501][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.35.45:501][729]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-10.35.45:501][729]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.35.45:501][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.35.45:504][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-10.35.45:509][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.35.45:522][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.35.45:522][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.01-10.35.45:522][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.01-10.35.45:524][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.01-10.35.45:532][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.01-10.35.45:580][731]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.01-10.36.07:089][622]LogSlate: Took 0.001387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.01-10.36.51:550][257]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-10.36.51:580][257]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.01-10.36.51:580][257]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.01-10.36.51:580][257]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.01-10.36.51:641][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.01-10.36.51:969][257]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_98
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.36.51:969][257]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_98
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.36.51:969][257]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_98
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.36.52:057][259]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_99
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.36.52:057][259]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_99
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.36.52:057][259]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_99
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.36.53:498][342]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/meshes/Character/Skateboarding.Skateboarding
+[2024.04.01-10.36.53:500][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.36.53:500][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.36.53:509][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.01-10.36.53:845][342]LogViewport: Scene viewport resized to 1430x866, mode Windowed.
+[2024.04.01-10.39.26:441][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.01-10.39.26:444][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Empty' took 0.019
+[2024.04.01-10.39.26:444][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.01-10.39.26:557][161]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.01-10.39.26:557][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BP_ThirdPersonCharacter]
+[2024.04.01-10.39.26:583][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Character/BP_ThirdPersonCharacter_Auto4
+[2024.04.01-10.39.26:583][161]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacter_Auto4AD7625DB49B50D69A4FEC68D5764FF99.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/Blueprints/Character/BP_ThirdPersonCharacter_Auto4.uasset'
+[2024.04.01-10.39.26:586][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshes/Character/Skateboarding_Skeleton] ([1] browsable assets)...
+[2024.04.01-10.39.26:586][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.39.26:656][161]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/meshes/Character/Skateboarding_Skeleton.Skateboarding_Skeleton]
+[2024.04.01-10.39.26:656][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshes/Character/Skateboarding_Skeleton]
+[2024.04.01-10.39.26:662][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/meshes/Character/Skateboarding_Skeleton_Auto4
+[2024.04.01-10.39.26:662][161]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_Skeleton_Auto42D185A45443E39F4F615338319DB16B8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/meshes/Character/Skateboarding_Skeleton_Auto4.uasset'
+[2024.04.01-10.39.26:665][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/materials/Character/Ch42_Hair] ([1] browsable assets)...
+[2024.04.01-10.39.28:690][161]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.04.01-10.39.28:803][161]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.113129s
+[2024.04.01-10.39.29:036][161]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.349843s (0.349843s overbudget)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: ================================================
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Total job queries 74, among them cache hits 12 (16.22%)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 33 distinct outputs (53.23%)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: RAM used: 1.93 MiB of 3.20 GiB budget. Usage: 0.06%
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Shaders Compiled: 40
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Average time worker was idle: 15.74 s
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Time job spent in pending queue: average 0.93 s, longest 2.03 s
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 1.18 s
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 2.34
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Shader code size: average 67.557 KiB, min 35.938 KiB, max 73.371 KiB
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.25 s
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Average processing rate: 9.42 jobs/sec
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Total thread time: 9.626 s
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Total thread preprocess time: 1.092 s
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Percentage time preprocessing: 11.34%
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Effective parallelization: 2.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.28 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.30 sec, min 0.26 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.26 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 6.03% of total time (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 5.90% of total time (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.28 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy - 5.84% of total time (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.75% of total time (compiled    2 times, average 0.28 sec, max 0.30 sec, min 0.26 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.66% of total time (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.26 sec)
+[2024.04.01-10.39.29:039][161]LogShaderCompilers: Display: ================================================
+[2024.04.01-10.39.29:056][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/materials/Character/Ch42_Hair.Ch42_Hair]
+[2024.04.01-10.39.29:056][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/materials/Character/Ch42_Hair]
+[2024.04.01-10.39.29:060][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/materials/Character/Ch42_Hair_Auto4
+[2024.04.01-10.39.29:060][161]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_Hair_Auto4B96B2C2947BC7EA89D5242B2DE4E7248.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Autosaves/Game/materials/Character/Ch42_Hair_Auto4.uasset'
+[2024.04.01-10.39.29:062][161]LogFileHelpers: Auto-saving content packages took 2.619
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: Base pass vertex shader: 425 instructions
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.39.29:087][162]MaterialEditorStats: Shader Count: 40
+[2024.04.01-10.42.57:190][134]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_100
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.42.57:190][134]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_100
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.42.57:190][134]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_100
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.42.57:229][135]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_101
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-10.42.57:229][135]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_101
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-10.42.57:229][135]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_101
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-10.42.58:333][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.01-10.42.59:118][199]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-10.42.59:126][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.42.59:235][199]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_ThirdPersonCharacter
+[2024.04.01-10.42.59:238][199]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/BP_ThirdPersonCharacterA5FFE6144481CC245A9264AFEBEB585A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-10.42.59:241][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/Character/Ch42_Hair" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset" SILENT=true
+[2024.04.01-10.42.59:244][199]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_Hair
+[2024.04.01-10.42.59:246][199]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_HairD3711A3F4CB7B1183976E7916FBDC6B0.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset'
+[2024.04.01-10.42.59:252][199]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding_Skeleton
+[2024.04.01-10.42.59:253][199]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_SkeletonB875157148E491283B8F0E91A9EC3BD1.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding_Skeleton.uasset'
+[2024.04.01-10.42.59:261][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 9.26 sec)
+[2024.04.01-10.42.59:264][199]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-10.42.59:264][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-10.42.59:264][199]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Character/Ch42_Hair.Ch42_Hair
+[2024.04.01-10.42.59:264][199]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/meshes/Character/Skateboarding_Skeleton.Skateboarding_Skeleton
+[2024.04.01-10.43.30:320][838]LogEditorFactories: Performing atomic reimport of [C:/Users/ISILV125/Downloads/Helmet.fbx]
+[2024.04.01-10.43.30:334][838]LogFbx: Loading FBX Scene from C:/Users/ISILV125/Downloads/Helmet.fbx
+[2024.04.01-10.43.30:348][838]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.01-10.43.30:466][838]LogFbx: Display: Triangulating static mesh helmet
+[2024.04.01-10.43.30:644][838]LogStaticMesh: Display: Building static mesh helmet...
+[2024.04.01-10.43.30:806][838]LogStaticMesh: Built static mesh [0.16s] /Game/meshes/helmet/helmet.helmet
+[2024.04.01-10.43.36:089][838]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2024.04.01-10.43.36:094][838]LogEditorFactories: -- imported successfully
+[2024.04.01-10.43.36:097][838]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.01-10.43.36:098][838]LogStaticMesh: Display: Building static mesh helmet...
+[2024.04.01-10.43.36:175][839]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/helmet/helmet.helmet
+[2024.04.01-10.44.19:909][420]Cmd: MODE SCALEGRID=0
+[2024.04.01-10.44.24:686][704]Cmd: MODE SCALEGRID=1
+[2024.04.01-10.44.39:471][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.44.39:782][580]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding
+[2024.04.01-10.44.39:784][580]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding4006A90C48B45D19D9E66BBA7E904184.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding.uasset'
+[2024.04.01-10.44.39:805][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 9.60 sec)
+[2024.04.01-10.44.39:806][580]AssetCheck: New page: Asset Save: Skateboarding
+[2024.04.01-10.44.39:806][580]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/meshes/Character/Skateboarding.Skateboarding
+[2024.04.01-10.44.53:678][382]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-10.44.53:678][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.44.53:678][382]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.44.53:678][382]MaterialEditorStats: Shader Count: 0
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: ================================================
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Total job queries 76, among them cache hits 12 (15.79%)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Tracking 63 distinct input hashes that result in 34 distinct outputs (53.97%)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: RAM used: 1.97 MiB of 3.20 GiB budget. Usage: 0.06%
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Shaders Compiled: 41
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Jobs assigned 42, completed 41 (97.62%)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Average time worker was idle: 33.92 s
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Time job spent in pending queue: average 0.89 s, longest 2.03 s
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 1.18 s
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 2.34
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Shader code size: average 67.573 KiB, min 35.938 KiB, max 73.371 KiB
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.13 s
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Average processing rate: 7.99 jobs/sec
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Total thread time: 9.83 s
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Total thread preprocess time: 1.121 s
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Percentage time preprocessing: 11.40%
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Effective parallelization: 1.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.28 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.30 sec, min 0.26 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.26 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.90% of total time (compiled    3 times, average 0.23 sec, max 0.26 sec, min 0.20 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.90% of total time (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 5.77% of total time (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.28 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy - 5.72% of total time (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.63% of total time (compiled    2 times, average 0.28 sec, max 0.30 sec, min 0.26 sec)
+[2024.04.01-10.44.54:578][433]LogShaderCompilers: Display: ================================================
+[2024.04.01-10.44.54:594][434]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.44.54:594][434]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.44.54:594][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.44.54:594][434]MaterialEditorStats: Shader Count: 1
+[2024.04.01-10.44.54:694][440]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.44.54:694][440]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.44.54:694][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.44.54:694][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.44.54:694][440]MaterialEditorStats: Shader Count: 2
+[2024.04.01-10.44.57:028][577]LogMaterialEditor: Saving and Compiling material Ch42_Hair
+[2024.04.01-10.44.57:078][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.01-10.44.57:539][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.01-10.44.57:549][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.44.59:652][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/Character/Ch42_Hair" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset" SILENT=true
+[2024.04.01-10.44.59:657][577]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_Hair
+[2024.04.01-10.44.59:658][577]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_HairA817EDD946B1EB5F06A3808078543323.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset'
+[2024.04.01-10.44.59:664][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.11 sec (total: 11.7 sec)
+[2024.04.01-10.44.59:665][577]AssetCheck: New page: Asset Save: Ch42_Hair
+[2024.04.01-10.44.59:665][577]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Character/Ch42_Hair.Ch42_Hair
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: Base pass vertex shader: 425 instructions
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.44.59:667][577]MaterialEditorStats: Shader Count: 40
+[2024.04.01-10.45.33:959][615]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-10.45.33:969][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-10.45.33:969][615]PIE: New page: PIE session: Empty (Apr 1, 2024, 4:45:33 AM)
+[2024.04.01-10.45.33:969][615]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.45.33:971][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001153s)
+[2024.04.01-10.45.33:971][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001184s)
+[2024.04.01-10.45.33:983][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.01-10.45.33:985][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.45.33:985][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.45.33:986][615]LogAIModule: Creating AISystem for world Empty
+[2024.04.01-10.45.33:986][615]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2024.04.01-10.45.33:986][615]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-10.45.33:986][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-10.45.33:986][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-10.45.33:987][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-10.45.33:987][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-10.45.33:987][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-10.45.33:989][615]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-10.45.34:058][615]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-10.45.34:059][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-10.45.34:059][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-10.45.34:059][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-10.45.34:059][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.04.01-10.45.34:059][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.04.01-10.45.34:061][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.04.01-10.45.34:061][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.04.01-10.45.34:061][615]LogInit: FAudioDevice initialized with ID 41.
+[2024.04.01-10.45.34:061][615]LogAudio: Display: Audio Device (ID: 41) registered with world 'Empty'.
+[2024.04.01-10.45.34:061][615]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.01-10.45.34:064][615]LogLoad: Game class is 'GM_Menu_C'
+[2024.04.01-10.45.34:064][615]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.04.01-07.45.34
+[2024.04.01-10.45.34:064][615]LogWorld: Bringing up level for play took: 0.000324
+[2024.04.01-10.45.34:066][615]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.04.01-10.45.34:068][615]PIE: Server logged in
+[2024.04.01-10.45.34:069][615]PIE: Play in editor total start time 0.1 seconds.
+[2024.04.01-10.45.34:637][647]LogNet: Browse: /Game/Maps/SkatePark
+[2024.04.01-10.45.34:637][647]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.04.01-10.45.34:637][647]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.45.34:637][647]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.45.34:637][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.45.34:672][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-10.45.34:673][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-10.45.34:679][647]LogAudio: Display: Audio Device (ID: 41) registered with world 'SkatePark'.
+[2024.04.01-10.45.34:679][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.45.34:680][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.45.34:680][647]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-10.45.34:680][647]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.04.01-10.45.34:680][647]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-10.45.34:683][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-07.45.34
+[2024.04.01-10.45.34:683][647]LogWorld: Bringing up level for play took: 0.002919
+[2024.04.01-10.45.34:686][647]LogLoad: Took 0.048990 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.04.01-10.45.38:140][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.45.38:140][852]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-10.45.38:140][852]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.45.38:140][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.45.38:143][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-10.45.38:148][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.45.38:160][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.45.38:160][852]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.01-10.45.38:160][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.01-10.45.38:162][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.01-10.45.38:169][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.01-10.45.38:215][854]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.04.01-10.46.06:931][562]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-10.46.06:931][562]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.46.06:931][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.46.06:931][562]MaterialEditorStats: Shader Count: 0
+[2024.04.01-10.46.06:959][564]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.46.06:959][564]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.46.06:959][564]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.46.06:959][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.46.06:959][564]MaterialEditorStats: Shader Count: 2
+[2024.04.01-10.46.09:430][712]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-10.46.09:430][712]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.46.09:430][712]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.46.09:430][712]MaterialEditorStats: Shader Count: 0
+[2024.04.01-10.46.09:459][714]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.46.09:459][714]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.46.09:459][714]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.46.09:459][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.46.09:459][714]MaterialEditorStats: Shader Count: 2
+[2024.04.01-10.46.11:184][817]LogMaterialEditor: Saving and Compiling material Ch42_Hair
+[2024.04.01-10.46.11:233][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.01-10.46.11:462][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.01-10.46.11:473][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.46.11:597][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/Character/Ch42_Hair" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset" SILENT=true
+[2024.04.01-10.46.11:602][817]LogSavePackage: Moving output files for package: /Game/materials/Character/Ch42_Hair
+[2024.04.01-10.46.11:603][817]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Ch42_HairEAE9C5014F40A30652E40D8AAB99B981.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/materials/Character/Ch42_Hair.uasset'
+[2024.04.01-10.46.11:611][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 11.8 sec)
+[2024.04.01-10.46.11:612][817]AssetCheck: New page: Asset Save: Ch42_Hair
+[2024.04.01-10.46.11:613][817]LogContentValidation: Display: Validating /Script/Engine.Material /Game/materials/Character/Ch42_Hair.Ch42_Hair
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: Base pass vertex shader: 425 instructions
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-10.46.11:614][817]MaterialEditorStats: Shader Count: 40
+[2024.04.01-10.46.29:873][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.46.30:161][902]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding
+[2024.04.01-10.46.30:163][902]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateboardingF377CBFD453371ADE52637908ED43215.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding.uasset'
+[2024.04.01-10.46.30:172][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 12.1 sec)
+[2024.04.01-10.46.30:173][902]AssetCheck: New page: Asset Save: Skateboarding
+[2024.04.01-10.46.30:173][902]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/meshes/Character/Skateboarding.Skateboarding
+[2024.04.01-10.46.34:619][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.01-10.46.35:276][163]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-10.46.35:284][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-10.46.35:417][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/helmet/helmet" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/helmet.uasset" SILENT=true
+[2024.04.01-10.46.35:428][163]LogSavePackage: Moving output files for package: /Game/meshes/helmet/helmet
+[2024.04.01-10.46.35:432][163]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/helmet62B1E02B471CD0149E7791B6987C78A9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/helmet/helmet.uasset'
+[2024.04.01-10.46.35:440][163]LogSavePackage: Moving output files for package: /Game/meshes/Character/Skateboarding_Skeleton
+[2024.04.01-10.46.35:442][163]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Skateboarding_SkeletonB3DC829F4CC470DB81091991867BBC00.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/Character/Skateboarding_Skeleton.uasset'
+[2024.04.01-10.46.35:451][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 12.3 sec)
+[2024.04.01-10.46.35:453][163]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-10.46.35:453][163]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/helmet/helmet.helmet
+[2024.04.01-10.46.35:453][163]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/meshes/Character/Skateboarding_Skeleton.Skateboarding_Skeleton
+[2024.04.01-10.46.38:596][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.01-10.46.40:273][350]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-10.46.40:294][350]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/meshes/helmet/helmet.helmet
+	Asset Type: StaticMesh
+[2024.04.01-10.46.40:520][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.01-10.46.40:534][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-10.46.40:546][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-10.46.47:115][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.01-10.46.48:390][740]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-10.46.48:411][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.01-10.46.48:426][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.01-10.46.48:438][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.01-10.46.49:584][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.01-10.46.51:035][894]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-10.46.51:045][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-10.46.51:045][894]PIE: New page: PIE session: Empty (Apr 1, 2024, 4:46:51 AM)
+[2024.04.01-10.46.51:045][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.46.51:046][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001035s)
+[2024.04.01-10.46.51:046][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001063s)
+[2024.04.01-10.46.51:060][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.01-10.46.51:061][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.46.51:062][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.46.51:062][894]LogAIModule: Creating AISystem for world Empty
+[2024.04.01-10.46.51:062][894]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2024.04.01-10.46.51:062][894]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.04.01-10.46.51:062][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-10.46.51:062][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-10.46.51:063][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-10.46.51:063][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-10.46.51:063][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-10.46.51:063][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-10.46.51:063][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-10.46.51:063][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-10.46.51:063][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-10.46.51:063][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-10.46.51:063][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-10.46.51:065][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-10.46.51:136][894]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-10.46.51:137][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-10.46.51:137][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-10.46.51:137][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-10.46.51:137][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.04.01-10.46.51:137][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.04.01-10.46.51:140][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.04.01-10.46.51:140][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.04.01-10.46.51:140][894]LogInit: FAudioDevice initialized with ID 42.
+[2024.04.01-10.46.51:140][894]LogAudio: Display: Audio Device (ID: 42) registered with world 'Empty'.
+[2024.04.01-10.46.51:140][894]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.01-10.46.51:143][894]LogLoad: Game class is 'GM_Menu_C'
+[2024.04.01-10.46.51:144][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 60) at 2024.04.01-07.46.51
+[2024.04.01-10.46.51:144][894]LogWorld: Bringing up level for play took: 0.000310
+[2024.04.01-10.46.51:146][894]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.04.01-10.46.51:148][894]PIE: Server logged in
+[2024.04.01-10.46.51:149][894]PIE: Play in editor total start time 0.104 seconds.
+[2024.04.01-10.46.52:195][953]LogNet: Browse: /Game/Maps/SkatePark
+[2024.04.01-10.46.52:195][953]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.04.01-10.46.52:195][953]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-10.46.52:196][953]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.46.52:196][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.46.52:241][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-10.46.52:243][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-10.46.52:249][953]LogAudio: Display: Audio Device (ID: 42) registered with world 'SkatePark'.
+[2024.04.01-10.46.52:249][953]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-10.46.52:249][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-10.46.52:249][953]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-10.46.52:250][953]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2024.04.01-10.46.52:250][953]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-10.46.52:253][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-07.46.52
+[2024.04.01-10.46.52:253][953]LogWorld: Bringing up level for play took: 0.002927
+[2024.04.01-10.46.52:255][953]LogLoad: Took 0.059907 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.04.01-10.47.00:099][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.47.00:099][421]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-10.47.00:099][421]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-10.47.00:100][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.47.00:103][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-10.47.00:107][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-10.47.00:118][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-10.47.00:118][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.01-10.47.00:118][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.01-10.47.00:119][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.01-10.47.00:127][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.01-10.47.00:172][423]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.04.01-10.49.35:958][ 41]LogDerivedDataCache: C:/Users/ISILV125/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:17.046 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 82060 files in 59329 folders with total size 31409 MiB.
