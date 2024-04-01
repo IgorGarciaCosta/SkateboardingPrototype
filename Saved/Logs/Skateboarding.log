@@ -2373,3 +2373,349 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.04.01-16.44.04:982][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2024.04.01-16.44.06:159][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2024.04.01-16.44.06:281][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-16.46.27:580][823]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.01-16.46.27:601][823]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.01-16.46.27:612][824]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.01-16.46.30:322][987]LogContentBrowser: Attempting asset rename: NewFolder -> phoneBooth
+[2024.04.01-16.46.30:322][987]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.01-16.46.48:506][193]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.04.01-16.46.48:516][193]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.46.48:517][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/graffiti phone booth.obj]
+[2024.04.01-16.46.48:518][193]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-16.46.48:518][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/lex-guerra-4AX7M6pfJEk-unsplash.jpg]
+[2024.04.01-16.46.48:518][193]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.01-16.46.48:519][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/Metal011_4K_Color.jpg]
+[2024.04.01-16.46.48:519][193]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.01-16.46.48:519][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/pexels-sinitta-leunen-5013575.jpg]
+[2024.04.01-16.46.48:520][193]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.01-16.46.48:520][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/TexturesCom_MetalBare0012_M.jpg]
+[2024.04.01-16.46.48:521][193]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.01-16.46.48:521][193]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/andreas-schluter-sP5xn43Y3hQ-unsplash.jpg]
+[2024.04.01-16.46.48:522][193]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/lex-guerra-4AX7M6pfJEk-unsplash.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.46.48:523][193]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/Metal011_4K_Color.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.46.48:523][193]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/pexels-sinitta-leunen-5013575.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.46.48:524][193]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/TexturesCom_MetalBare0012_M.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.46.48:524][193]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/phoneBooth/OBJ/andreas-schluter-sP5xn43Y3hQ-unsplash.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.46.48:556][194]LogTexture: Display: Building textures: /Game/meshes/phoneBooth/TexturesCom_MetalBare0012_M.TexturesCom_MetalBare0012_M (TFO_AutoDXT, 1600x1200 x1x1x1) (Required Memory Estimate: 161.820312 MB), EncodeSpeed: Fast
+[2024.04.01-16.46.48:699][194]LogTexture: Display: Building textures: /Game/meshes/phoneBooth/andreas-schluter-sP5xn43Y3hQ-unsplash.andreas-schluter-sP5xn43Y3hQ-unsplash (TFO_AutoDXT, 3264x4896 x1x1x1) (Required Memory Estimate: 1097.359375 MB), EncodeSpeed: Fast
+[2024.04.01-16.46.48:944][194]LogTexture: Display: Building textures: /Game/meshes/phoneBooth/lex-guerra-4AX7M6pfJEk-unsplash.lex-guerra-4AX7M6pfJEk-unsplash (BGRA8, 3469x5345 x1x1x1) (Required Memory Estimate: 542.336346 MB), EncodeSpeed: Fast
+[2024.04.01-16.46.49:159][194]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.01-16.46.49:159][194]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.01-16.46.49:159][194]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.01-16.46.49:165][194]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-16.46.49:165][194]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-16.46.49:214][194]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-16.46.49:281][194]LogTexture: Display: Building textures: /Game/meshes/phoneBooth/pexels-sinitta-leunen-5013575.pexels-sinitta-leunen-5013575 (TFO_AutoDXT, 4160x6240 x1x1x1) (Required Memory Estimate: 1782.484375 MB), EncodeSpeed: Fast
+[2024.04.01-16.46.49:306][194]LogTexture: Display: Building textures: /Game/meshes/phoneBooth/Metal011_4K_Color.Metal011_4K_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.04.01-16.46.49:784][200]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.46.49:784][200]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.46.49:785][200]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.46.49:785][200]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.46.49:785][200]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.46.49:785][200]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.46.49:787][200]LogStaticMesh: Display: Building static mesh graffiti_phone_booth...
+[2024.04.01-16.46.49:964][200]LogStaticMesh: Built static mesh [0.18s] /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.46.49:982][200]LogStaticMesh: Warning: graffiti_phone_booth has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.04.01-16.46.49:982][200]LogStaticMesh: Warning: graffiti_phone_booth has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.01-16.46.49:982][200]LogStaticMesh: Warning: graffiti_phone_booth has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.01-16.46.50:006][200]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.46.50:033][200]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Total job queries 234, among them cache hits 158 (67.52%)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 41 distinct outputs (56.94%)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: RAM used: 1.70 MiB of 3.20 GiB budget. Usage: 0.05%
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Shaders Compiled: 36
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Jobs assigned 38, completed 36 (94.74%)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Average time worker was idle: 183.28 s
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.36 s
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 2.90 s
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 2.94
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Shader code size: average 41.376 KiB, min 29.902 KiB, max 61.465 KiB
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.17 s
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Average processing rate: 4.40 jobs/sec
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Total thread time: 7.42 s
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Total thread preprocess time: 0.975 s
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Percentage time preprocessing: 13.14%
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Effective parallelization: 0.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.25 sec, max 0.28 sec, min 0.23 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.24 sec, max 0.25 sec, min 0.24 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.76% of total time (compiled    3 times, average 0.22 sec, max 0.28 sec, min 0.17 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.52% of total time (compiled    3 times, average 0.19 sec, max 0.19 sec, min 0.18 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.41% of total time (compiled    3 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.36% of total time (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.84% of total time (compiled    2 times, average 0.25 sec, max 0.28 sec, min 0.23 sec)
+[2024.04.01-16.46.50:584][212]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.46.55:460][492]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.46.55:467][492]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.46.55:467][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.46.55:956][492]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-16.47.15:659][663]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.47.15:659][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.47.25:477][242]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.47.25:477][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.47.26:127][277]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.47.26:127][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.47.26:989][323]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.47.26:989][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.47.34:399][758]LogViewport: Scene viewport resized to 1283x925, mode Windowed.
+[2024.04.01-16.47.34:499][760]LogViewport: Scene viewport resized to 655x421, mode Windowed.
+[2024.04.01-16.47.34:530][761]LogViewport: Scene viewport resized to 528x319, mode Windowed.
+[2024.04.01-16.47.34:775][776]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-16.47.39:400][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.01-16.47.40:259][ 52]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-16.47.40:272][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.47.40:366][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/andreas-schluter-sP5xn43Y3hQ-unsplash
+[2024.04.01-16.47.40:366][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/andreas-schluter-sP5xn43Y3hQ-uns567F4E5F407E4C46B9B015A1EA839EB4.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/andreas-schluter-sP5xn43Y3hQ-unsplash.uasset'
+[2024.04.01-16.47.41:601][ 52]LogMaterial: Warning: Bottom_Box: Requesting an invalid TextureIndex! (0 / 1)
+[2024.04.01-16.47.41:679][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/phoneBooth/Bottom_Box" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Bottom_Box.uasset" SILENT=true
+[2024.04.01-16.47.41:685][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Bottom_Box
+[2024.04.01-16.47.41:685][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Bottom_Box472D1AAD4215E3227EB449AA81F27F09.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Bottom_Box.uasset'
+[2024.04.01-16.47.41:706][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/phoneBooth/cable" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/cable.uasset" SILENT=true
+[2024.04.01-16.47.41:711][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/cable
+[2024.04.01-16.47.41:711][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/cableC8C00AF84685AB2826AD4197CF3A017F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/cable.uasset'
+[2024.04.01-16.47.41:731][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/phoneBooth/Glass_-_Top" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Glass_-_Top.uasset" SILENT=true
+[2024.04.01-16.47.41:737][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Glass_-_Top
+[2024.04.01-16.47.41:737][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Glass_-_Top2ACEEB26443C77A09A5DB4895413028A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Glass_-_Top.uasset'
+[2024.04.01-16.47.41:762][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Glass_-_Windows
+[2024.04.01-16.47.41:762][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Glass_-_Windows7F1214D34A88F3A925A4A5BCB4A77A06.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Glass_-_Windows.uasset'
+[2024.04.01-16.47.41:788][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/graffiti_phone_booth
+[2024.04.01-16.47.41:788][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/graffiti_phone_booth7D533146414E6A61988C9CA8403A54D3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/graffiti_phone_booth.uasset'
+[2024.04.01-16.47.41:807][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/lex-guerra-4AX7M6pfJEk-unsplash
+[2024.04.01-16.47.41:807][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/lex-guerra-4AX7M6pfJEk-unsplashDF848B7B4B309EE8E47ED5A0EA5FF97A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/lex-guerra-4AX7M6pfJEk-unsplash.uasset'
+[2024.04.01-16.47.41:828][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/phoneBooth/Light_bulbs" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Light_bulbs.uasset" SILENT=true
+[2024.04.01-16.47.41:834][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Light_bulbs
+[2024.04.01-16.47.41:834][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Light_bulbs0AB06BD045A7A244989CDDAB1CCE1DE2.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Light_bulbs.uasset'
+[2024.04.01-16.47.41:859][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Material_006
+[2024.04.01-16.47.41:859][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Material_006D4FD1B9A4FCE8793DFBA91ACFA110BDE.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Material_006.uasset'
+[2024.04.01-16.47.41:869][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Metal011_4K_Color
+[2024.04.01-16.47.41:869][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Metal011_4K_Color03B398524EDA636F8C1C6E88CB161CEA.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Metal011_4K_Color.uasset'
+[2024.04.01-16.47.41:879][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/pexels-sinitta-leunen-5013575
+[2024.04.01-16.47.41:879][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/pexels-sinitta-leunen-50135750B2D36FE41EE4DCA5A03D080DA93BF35.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/pexels-sinitta-leunen-5013575.uasset'
+[2024.04.01-16.47.41:905][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Phone_Booth_Back
+[2024.04.01-16.47.41:905][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Phone_Booth_Back1FEC6D614126163458FB0BBD74B45082.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_Booth_Back.uasset'
+[2024.04.01-16.47.41:931][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Phone_Booth_Phone
+[2024.04.01-16.47.41:931][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Phone_Booth_PhoneB5228B69469A7AA2BECE608C169A84E3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_Booth_Phone.uasset'
+[2024.04.01-16.47.42:640][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Phone_Booth_Phone_Black
+[2024.04.01-16.47.42:640][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Phone_Booth_Phone_Black6797CB0A452F24194C1495A728C2D074.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_Booth_Phone_Black.uasset'
+[2024.04.01-16.47.42:667][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Phone_Booth_Walls
+[2024.04.01-16.47.42:667][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Phone_Booth_Walls2FDBA19645D1B490F82322AD0C0C5E39.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_Booth_Walls.uasset'
+[2024.04.01-16.47.42:692][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Phone_Receiver
+[2024.04.01-16.47.42:692][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Phone_Receiver2D3A55DD42F7C1E3C5B0BC956D2A7983.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_Receiver.uasset'
+[2024.04.01-16.47.43:224][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/phoneBooth/Phone_sign" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_sign.uasset" SILENT=true
+[2024.04.01-16.47.43:229][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Phone_sign
+[2024.04.01-16.47.43:229][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Phone_sign3AF9A2344A8351F22721509A85C4DFB9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Phone_sign.uasset'
+[2024.04.01-16.47.43:259][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/Stickers_and_buttons
+[2024.04.01-16.47.43:259][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Stickers_and_buttons63A2FEA041470E2C190CFD8BF322E11F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/Stickers_and_buttons.uasset'
+[2024.04.01-16.47.43:269][ 52]LogSavePackage: Moving output files for package: /Game/meshes/phoneBooth/TexturesCom_MetalBare0012_M
+[2024.04.01-16.47.43:269][ 52]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/TexturesCom_MetalBare0012_MDAE2B8A246F78F006A0DDB92081FE1C5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/phoneBooth/TexturesCom_MetalBare0012_M.uasset'
+[2024.04.01-16.47.43:280][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.00 sec (total: 10.5 sec)
+[2024.04.01-16.47.43:283][ 52]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/phoneBooth/andreas-schluter-sP5xn43Y3hQ-unsplash.andreas-schluter-sP5xn43Y3hQ-unsplash
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Bottom_Box.Bottom_Box
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/cable.cable
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Glass_-_Top.Glass_-_Top
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Glass_-_Windows.Glass_-_Windows
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/phoneBooth/lex-guerra-4AX7M6pfJEk-unsplash.lex-guerra-4AX7M6pfJEk-unsplash
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Light_bulbs.Light_bulbs
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Material_006.Material_006
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/phoneBooth/Metal011_4K_Color.Metal011_4K_Color
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/phoneBooth/pexels-sinitta-leunen-5013575.pexels-sinitta-leunen-5013575
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Phone_Booth_Back.Phone_Booth_Back
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Phone_Booth_Phone.Phone_Booth_Phone
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Phone_Booth_Phone_Black.Phone_Booth_Phone_Black
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Phone_Booth_Walls.Phone_Booth_Walls
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Phone_Receiver.Phone_Receiver
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Phone_sign.Phone_sign
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/phoneBooth/Stickers_and_buttons.Stickers_and_buttons
+[2024.04.01-16.47.43:283][ 52]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/phoneBooth/TexturesCom_MetalBare0012_M.TexturesCom_MetalBare0012_M
+[2024.04.01-16.48.23:192][665]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/meshes/phoneBooth/lex-guerra-4AX7M6pfJEk-unsplash.lex-guerra-4AX7M6pfJEk-unsplash
+[2024.04.01-16.48.23:317][665]LogViewport: Scene viewport resized to 1316x898, mode Windowed.
+[2024.04.01-16.48.44:229][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.48.44:229][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.48.44:229][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_79
+[2024.04.01-16.48.44:747][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.48.44:747][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth
+[2024.04.01-16.48.44:749][926]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/phoneBooth/graffiti_phone_booth.graffiti_phone_booth as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_80
+[2024.04.01-16.49.19:900][998]Cmd: DELETE
+[2024.04.01-16.49.19:900][998]Cmd: ACTOR DELETE
+[2024.04.01-16.49.19:902][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.01-16.49.19:916][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.01-16.49.19:921][998]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.04.01-16.49.27:120][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.01-16.49.28:387][428]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.49.28:452][428]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.49.28:452][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.49.28:472][428]LogUObjectGlobals: Force Deleting 19 Package(s):
+	Asset Name: /Game/meshes/phoneBooth/Material_006.Material_006
+	Asset Type: Material
+	Asset Name: /Game/meshes/phoneBooth/Glass_-_Windows.Glass_-_Windows
+	Asset Type: Material
+	Asset Name: /Game/meshes/phoneBooth/Light_bulbs.Light_bulbs
+	Asset Type: Material
+	Asset Name: /Game/meshes/phoneBooth/Phone_Receiver.Phone_Receiver
+	Asset Type: Material
+	Asset Name: /Game/meshes/phoneBooth/cable.cable
+	Asset Type: Material
+	Asset Name: /Game/meshes/phoneBooth/Glass_-_Top.Glass_-_Top
+	Asset Type: Material
+	Asset Name: /Game/meshes/phoneBooth/andreas-schluter-sP5xn43Y3hQ-unsplash.andreas-schluter-sP5xn43Y3hQ-unsplash
+	Asset Type: Texture2D
+	Asset Name: /Game/meshes/phoneBooth/TexturesCom_MetalBare0012_M.TexturesCom_MetalBare0012_M
+	Asset Type: Texture2D
+	Asset Name: /Game/meshes/phoneBooth/pexels-sinitta-leunen-5013575.pexels-sinitta-leunen-5013575
+	Asset Type: Texture2D
+	Asset Name: /Game/meshes/phoneBooth/Metal011_4K_Color.Metal011_4K_Color
+	Asset Type: Texture2D
+[2024.04.01-16.49.28:678][428]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/meshes/phoneBooth/graffiti_phone_booth) ...
+[2024.04.01-16.49.28:903][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.01-16.49.28:920][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.01-16.49.28:932][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.01-16.49.29:645][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.01-16.49.30:705][465]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-16.49.30:712][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.49.30:788][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.49.30:826][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-16.49.30:855][465]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.49.30:857][465]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark80266C1047F04D93253EF6B9E11F9762.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.49.30:869][465]LogFileHelpers: Saving map 'SkatePark' took 0.082
+[2024.04.01-16.49.30:875][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 10.7 sec)
+[2024.04.01-16.49.30:877][465]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.49.30:877][465]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.50.07:429][407]Cmd: EDIT COPY
+[2024.04.01-16.50.07:663][421]Cmd: EDIT PASTE
+[2024.04.01-16.50.14:436][822]Cmd: EDIT COPY
+[2024.04.01-16.50.14:622][833]Cmd: EDIT PASTE
+[2024.04.01-16.50.16:800][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.50.25:878][492]Cmd: EDIT COPY
+[2024.04.01-16.50.26:029][501]Cmd: EDIT PASTE
+[2024.04.01-16.50.40:383][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.50.40:437][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.50.40:478][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.01-16.50.40:512][340]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.50.40:515][340]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark0886A11344DBB53F9D7F9FB2DF5B22AD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.50.40:525][340]LogFileHelpers: Saving map 'SkatePark' took 0.089
+[2024.04.01-16.50.40:530][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 10.8 sec)
+[2024.04.01-16.50.40:532][340]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.50.40:532][340]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.50.52:727][ 60]Cmd: EDIT COPY
+[2024.04.01-16.50.52:895][ 70]Cmd: EDIT PASTE
+[2024.04.01-16.50.54:453][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.50.54:537][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.50.54:576][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.01-16.50.54:609][161]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.50.54:612][161]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkA5ECEDC045DEC6F6337337BD8F2A2380.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.50.54:624][161]LogFileHelpers: Saving map 'SkatePark' took 0.087
+[2024.04.01-16.50.54:629][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 11.0 sec)
+[2024.04.01-16.50.54:632][161]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.50.54:632][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.51.10:959][132]Cmd: EDIT COPY
+[2024.04.01-16.51.11:126][142]Cmd: EDIT PASTE
+[2024.04.01-16.51.23:493][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.51.23:588][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.51.23:626][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.01-16.51.23:659][877]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.51.23:662][877]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark928D5F46414AC1E17CD330803749A49C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.51.23:674][877]LogFileHelpers: Saving map 'SkatePark' took 0.086
+[2024.04.01-16.51.23:680][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 11.2 sec)
+[2024.04.01-16.51.23:682][877]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.51.23:682][877]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.51.28:764][179]Cmd: EDIT COPY
+[2024.04.01-16.51.28:997][193]Cmd: EDIT PASTE
+[2024.04.01-16.51.31:105][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.51.31:153][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.51.31:194][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-16.51.31:226][317]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.51.31:229][317]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark4DEE387049951EBBB7BBEE8D9D72C944.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.51.31:240][317]LogFileHelpers: Saving map 'SkatePark' took 0.088
+[2024.04.01-16.51.31:247][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 11.3 sec)
+[2024.04.01-16.51.31:248][317]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.51.31:248][317]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.51.52:147][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.51.52:220][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.51.52:259][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.01-16.51.52:288][568]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.51.52:290][568]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkA41D0542463D2CB35FBD32AC9860950A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.51.52:302][568]LogFileHelpers: Saving map 'SkatePark' took 0.083
+[2024.04.01-16.51.52:309][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 11.5 sec)
+[2024.04.01-16.51.52:310][568]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.51.52:310][568]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.51.52:395][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.51.52:454][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.51.52:489][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.01-16.51.52:520][573]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.51.52:522][573]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark15108D724875C62878B11CBDBF9C6891.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.51.52:533][573]LogFileHelpers: Saving map 'SkatePark' took 0.080
+[2024.04.01-16.51.52:539][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 11.6 sec)
+[2024.04.01-16.51.52:540][573]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.51.52:541][573]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.51.54:415][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-16.51.54:425][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-16.51.54:425][684]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 10:51:54 AM)
+[2024.04.01-16.51.54:425][684]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-16.51.54:432][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006977s)
+[2024.04.01-16.51.54:432][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.007004s)
+[2024.04.01-16.51.54:441][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.01-16.51.54:443][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.51.54:443][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.51.54:443][684]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-16.51.54:444][684]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2024.04.01-16.51.54:444][684]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-16.51.54:444][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-16.51.54:444][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-16.51.54:444][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-16.51.54:444][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-16.51.54:444][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-16.51.54:446][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-16.51.54:510][684]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-16.51.54:511][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-16.51.54:511][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-16.51.54:511][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-16.51.54:511][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.01-16.51.54:511][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.01-16.51.54:513][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.01-16.51.54:513][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.01-16.51.54:513][684]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.01-16.51.54:513][684]LogAudio: Display: Audio Device (ID: 5) registered with world 'SkatePark'.
+[2024.04.01-16.51.54:513][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.01-16.51.54:516][684]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-16.51.54:519][684]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-13.51.54
+[2024.04.01-16.51.54:520][684]LogWorld: Bringing up level for play took: 0.003705
+[2024.04.01-16.51.54:522][684]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.04.01-16.51.54:524][684]PIE: Server logged in
+[2024.04.01-16.51.54:525][684]PIE: Play in editor total start time 0.101 seconds.
+[2024.04.01-16.52.04:819][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-16.52.04:819][294]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-16.52.04:819][294]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.52.04:819][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.52.04:824][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-16.52.04:828][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.52.04:839][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-16.52.04:840][294]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.01-16.52.04:840][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.01-16.52.04:842][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.01-16.52.04:851][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.01-16.52.04:898][295]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.04.01-16.52.06:274][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.01-16.52.07:599][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.01-16.52.10:976][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
