@@ -1428,3 +1428,948 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.04.01-16.25.09:450][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1.17 sec)
 [2024.04.01-16.25.09:451][212]AssetCheck: New page: Asset Save: BP_IronBarricade
 [2024.04.01-16.25.09:451][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Obstacles/BP_IronBarricade.BP_IronBarricade
+[2024.04.01-16.25.36:004][368]LogDerivedDataCache: C:/Users/ISILV125/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:20.059 and deleted 27 files with total size 1 MiB and 0 empty folders. Scanned 84286 files in 60898 folders with total size 31997 MiB.
+[2024.04.01-16.26.04:000][801]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.26.04:000][801]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/grunge-wall-texture.jpg]
+[2024.04.01-16.26.04:036][802]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/grunge-wall-texture.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.26.04:039][802]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.26.04:518][803]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.26.04:548][803]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.26.04:667][803]LogTexture: Display: Building textures: /Game/images/grunge-wall-texture.grunge-wall-texture (TFO_AutoDXT, 5616x3744 x1x1x1) (Required Memory Estimate: 1443.824219 MB), EncodeSpeed: Fast
+[2024.04.01-16.26.07:491][943]LogContentBrowser: Deferred new asset file creation: grunge-wall-texture_Mat
+[2024.04.01-16.26.07:505][943]LogContentBrowser: Creating deferred item: grunge-wall-texture_Mat
+[2024.04.01-16.26.07:519][944]LogContentBrowser: Renaming the item being created (Deferred Item: grunge-wall-texture_Mat).
+[2024.04.01-16.26.08:084][976]LogContentBrowser: Attempting asset rename: grunge-wall-texture_Mat -> grunge-wall-texture_Mat
+[2024.04.01-16.26.08:092][976]LogContentBrowser: End creating deferred item grunge-wall-texture_Mat
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: Total job queries 22, among them cache hits 2 (9.09%)
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 17 distinct outputs (85.00%)
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: RAM used: 474.03 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.01-16.26.08:101][976]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.26.12:108][177]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.01-16.26.25:886][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.26.25:969][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.26.26:011][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.01-16.26.26:040][963]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.26.26:043][963]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkD9EB9AFB4FB3146234B6668E4C2D77E8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.26.26:055][963]LogFileHelpers: Saving map 'SkatePark' took 0.087
+[2024.04.01-16.26.26:064][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.35 sec)
+[2024.04.01-16.26.26:066][963]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.26.26:066][963]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.26.27:022][ 12]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/images/grunge-wall-texture_Mat.grunge-wall-texture_Mat
+[2024.04.01-16.26.27:028][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.26.27:029][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.26.27:161][ 12]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-16.26.27:161][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.26.27:161][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.26.27:161][ 12]MaterialEditorStats: Shader Count: 0
+[2024.04.01-16.26.27:164][ 12]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.01-16.26.27:166][ 12]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.04.01-16.26.27:262][ 14]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.01-16.26.27:262][ 14]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.01-16.26.27:262][ 14]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-16.26.27:262][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.26.27:262][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.26.27:262][ 14]MaterialEditorStats: Shader Count: 4
+[2024.04.01-16.26.57:440][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.26.57:517][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.26.57:557][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.01-16.26.57:585][744]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.26.57:587][744]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkA2F25403422BC2D9F69F0D9CA523DEEC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.26.57:599][744]LogFileHelpers: Saving map 'SkatePark' took 0.083
+[2024.04.01-16.26.57:607][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 1.51 sec)
+[2024.04.01-16.26.57:609][744]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.26.57:609][744]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.26.58:821][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.01-16.26.59:748][810]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-16.26.59:761][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.26.59:855][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/images/grunge-wall-texture" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/grunge-wall-texture.uasset" SILENT=true
+[2024.04.01-16.26.59:864][810]LogSavePackage: Moving output files for package: /Game/images/grunge-wall-texture
+[2024.04.01-16.26.59:864][810]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/grunge-wall-texture9C961B744930C0338748D5B5EB816D66.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/grunge-wall-texture.uasset'
+[2024.04.01-16.26.59:931][810]LogSavePackage: Moving output files for package: /Game/images/grunge-wall-texture_Mat
+[2024.04.01-16.26.59:931][810]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/grunge-wall-texture_Mat84149DEF4F2C58352910E185372906FF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/grunge-wall-texture_Mat.uasset'
+[2024.04.01-16.26.59:941][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 1.69 sec)
+[2024.04.01-16.26.59:942][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-16.26.59:942][810]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/grunge-wall-texture.grunge-wall-texture
+[2024.04.01-16.26.59:942][810]LogContentValidation: Display: Validating /Script/Engine.Material /Game/images/grunge-wall-texture_Mat.grunge-wall-texture_Mat
+[2024.04.01-16.28.04:868][353]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.01-16.28.04:887][353]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.01-16.28.04:899][354]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.01-16.28.06:091][425]LogContentBrowser: Attempting asset rename: NewFolder -> blocks
+[2024.04.01-16.28.06:091][425]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.01-16.28.19:996][593]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\blocks\FBX\Construction Blocks.FBX)
+[2024.04.01-16.28.20:002][593]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\blocks\FBX\Construction Blocks.FBX
+[2024.04.01-16.28.20:015][593]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.01-16.28.21:126][593]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.01-16.28.21:241][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\bricks_01.jpg
+[2024.04.01-16.28.21:242][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\bricks_01.jpg
+[2024.04.01-16.28.21:256][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_red_brick...
+[2024.04.01-16.28.21:284][593]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/blocks/Construction_Blocks_red_brick.Construction_Blocks_red_brick
+[2024.04.01-16.28.21:305][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\Briks_white.jpg
+[2024.04.01-16.28.21:305][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\Briks_white.jpg
+[2024.04.01-16.28.21:313][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_silikaty_brick...
+[2024.04.01-16.28.21:325][593]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/Construction_Blocks_silikaty_brick.Construction_Blocks_silikaty_brick
+[2024.04.01-16.28.21:348][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\concrete.jpg
+[2024.04.01-16.28.21:348][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\concrete.jpg
+[2024.04.01-16.28.21:364][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_concrete_block...
+[2024.04.01-16.28.21:380][593]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/Construction_Blocks_concrete_block.Construction_Blocks_concrete_block
+[2024.04.01-16.28.21:382][593]LogStaticMesh: Warning: Construction_Blocks_concrete_block has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.04.01-16.28.21:382][593]LogStaticMesh: Warning: Construction_Blocks_concrete_block has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.01-16.28.21:397][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\concrete_wall.jpg
+[2024.04.01-16.28.21:397][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\concrete_wall.jpg
+[2024.04.01-16.28.21:406][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_foam_concrete_block_2...
+[2024.04.01-16.28.21:423][593]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/Construction_Blocks_foam_concrete_block_2.Construction_Blocks_foam_concrete_block_2
+[2024.04.01-16.28.21:444][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\gas_concrete.jpg
+[2024.04.01-16.28.21:445][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\gas_concrete.jpg
+[2024.04.01-16.28.21:453][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_gas_concrete_1...
+[2024.04.01-16.28.21:470][593]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/Construction_Blocks_gas_concrete_1.Construction_Blocks_gas_concrete_1
+[2024.04.01-16.28.21:488][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_foam_concrete_block...
+[2024.04.01-16.28.21:504][593]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/Construction_Blocks_foam_concrete_block.Construction_Blocks_foam_concrete_block
+[2024.04.01-16.28.21:522][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_gas_concrete_2...
+[2024.04.01-16.28.21:538][593]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/Construction_Blocks_gas_concrete_2.Construction_Blocks_gas_concrete_2
+[2024.04.01-16.28.21:556][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_gas_concrete_3...
+[2024.04.01-16.28.21:575][593]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/Construction_Blocks_gas_concrete_3.Construction_Blocks_gas_concrete_3
+[2024.04.01-16.28.21:589][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_gas_concrete_4...
+[2024.04.01-16.28.21:604][593]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/Construction_Blocks_gas_concrete_4.Construction_Blocks_gas_concrete_4
+[2024.04.01-16.28.21:620][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\bricks_02.jpg
+[2024.04.01-16.28.21:621][593]LogFbxMaterialImport: Display: Unable to find Texture file D:\3ds\TURBOSQIUD\Industrial\Architecture\STROYMAT\File\Max\bricks_02.jpg
+[2024.04.01-16.28.21:659][593]LogStaticMesh: Display: Building static mesh Construction_Blocks_red_concrete_block...
+[2024.04.01-16.28.21:761][593]LogStaticMesh: Built static mesh [0.10s] /Game/meshes/blocks/Construction_Blocks_red_concrete_block.Construction_Blocks_red_concrete_block
+[2024.04.01-16.28.22:567][593]LogMeshUtilities: Finished distance field build in 1.2s - 126x56x98 sparse distance field, 1.0Mb total, 0.0Mb always loaded, 90% occupied, 507 triangles, Construction_Blocks_concrete_block
+[2024.04.01-16.28.23:143][593]LogMeshUtilities: Finished distance field build in 1.2s - 126x28x98 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 126 triangles, Construction_Blocks_foam_concrete_block_2
+[2024.04.01-16.28.23:602][593]LogMeshUtilities: Finished distance field build in 1.6s - 126x49x112 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 71% occupied, 164 triangles, Construction_Blocks_foam_concrete_block
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'bricks_01' was renamed 'bricks_01_ncl1_1' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Briks_white' was renamed 'Briks_white_ncl1_1' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Briks_white' was renamed 'Briks_white_ncl1_2' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'concrete' was renamed 'concrete_ncl1_1' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'concrete' was renamed 'concrete_ncl1_2' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'concrete_wall' was renamed 'concrete_wall_ncl1_1' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'gas_concrete' was renamed 'gas_concrete_ncl1_1' 
+[2024.04.01-16.28.23:874][593]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'bricks_02' was renamed 'bricks_02_ncl1_1' 
+[2024.04.01-16.28.23:874][593]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.01-16.28.23:874][593]FBXImport: Warning: Construction_Blocks_concrete_block has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.04.01-16.28.23:875][593]FBXImport: Warning: Construction_Blocks_concrete_block has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.04.01-16.28.25:158][638]LogMeshUtilities: Finished distance field build in 1.1s - 98x35x42 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 95% occupied, 108 triangles, Construction_Blocks_gas_concrete_2
+[2024.04.01-16.28.25:341][649]LogMeshUtilities: Finished distance field build in 1.3s - 98x49x42 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 90% occupied, 81 triangles, Construction_Blocks_gas_concrete_1
+[2024.04.01-16.28.25:482][655]LogMeshUtilities: Finished distance field build in 1.5s - 98x56x42 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 88% occupied, 86 triangles, Construction_Blocks_gas_concrete_3
+[2024.04.01-16.28.25:811][675]LogMeshUtilities: Finished distance field build in 1.8s - 126x28x98 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 126 triangles, Construction_Blocks_foam_concrete_block_2
+[2024.04.01-16.28.26:114][693]LogSlate: Window 'Message Log' being destroyed
+[2024.04.01-16.28.26:121][693]LogSlate: Window 'Message Log' being destroyed
+[2024.04.01-16.28.26:369][708]LogMeshUtilities: Finished distance field build in 2.4s - 126x49x112 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 71% occupied, 164 triangles, Construction_Blocks_foam_concrete_block
+[2024.04.01-16.28.26:736][726]LogMeshUtilities: Finished distance field build in 2.7s - 126x56x98 sparse distance field, 1.0Mb total, 0.0Mb always loaded, 90% occupied, 507 triangles, Construction_Blocks_concrete_block
+[2024.04.01-16.28.50:720][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.01-16.28.52:048][ 35]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.28.52:074][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-16.28.52:090][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-16.28.52:104][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.01-16.28.57:766][126]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.28.57:766][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/bricks_01.jpg]
+[2024.04.01-16.28.57:766][126]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-16.28.57:766][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/bricks_02.jpg]
+[2024.04.01-16.28.57:767][126]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.01-16.28.57:767][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/Briks_white.jpg]
+[2024.04.01-16.28.57:767][126]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.01-16.28.57:767][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/concrete.jpg]
+[2024.04.01-16.28.57:768][126]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.01-16.28.57:768][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/concrete_wall.jpg]
+[2024.04.01-16.28.57:853][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/bricks_01.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.57:854][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/bricks_02.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.57:854][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/Briks_white.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.57:854][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/concrete.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.57:855][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/concrete_wall.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.57:899][126]LogTexture: Display: Building textures: /Game/meshes/blocks/bricks_01.bricks_01 (BGRA8, 900x343 x1x1x1) (Required Memory Estimate: 9.090744 MB), EncodeSpeed: Fast
+[2024.04.01-16.28.57:905][126]LogTexture: Display: Building textures: /Game/meshes/blocks/bricks_02.bricks_02 (BGRA8, 900x578 x1x1x1) (Required Memory Estimate: 15.276276 MB), EncodeSpeed: Fast
+[2024.04.01-16.28.57:908][126]LogTexture: Display: Building textures: /Game/meshes/blocks/Briks_white.Briks_white (BGRA8, 441x900 x1x1x1) (Required Memory Estimate: 11.670242 MB), EncodeSpeed: Fast
+[2024.04.01-16.28.57:914][126]LogTexture: Display: Building textures: /Game/meshes/blocks/concrete.concrete (BGRA8, 1050x246 x1x1x1) (Required Memory Estimate: 7.616745 MB), EncodeSpeed: Fast
+[2024.04.01-16.28.57:925][126]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.01-16.28.57:925][126]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.01-16.28.57:925][126]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-16.28.57:925][126]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-16.28.57:925][126]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.28.57:935][126]LogTexture: Display: Building textures: /Game/meshes/blocks/concrete_wall.concrete_wall (TFO_AutoDXT, 1600x1200 x1x1x1) (Required Memory Estimate: 161.820312 MB), EncodeSpeed: Fast
+[2024.04.01-16.28.59:940][126]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.04.01-16.28.59:951][126]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.28.59:951][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/construction blocks.obj]
+[2024.04.01-16.28.59:951][126]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-16.28.59:952][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/gas_concrete.jpg]
+[2024.04.01-16.28.59:952][126]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.01-16.28.59:952][126]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/textures/OBJ/gas_concrete1.jpg]
+[2024.04.01-16.28.59:953][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/gas_concrete.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.59:954][126]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/textures/OBJ/gas_concrete1.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.28.59:955][126]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2024.04.01-16.28.59:957][126]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2024.04.01-16.28.59:987][127]LogTexture: Display: Building textures: /Game/meshes/blocks/gas_concrete.gas_concrete (TFO_AutoDXT, 1600x768 x1x1x1) (Required Memory Estimate: 131.9375 MB), EncodeSpeed: Fast
+[2024.04.01-16.28.59:994][127]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.01-16.28.59:996][127]LogTexture: Display: Building textures: /Game/meshes/blocks/gas_concrete1.gas_concrete1 (TFO_AutoDXT, 1600x768 x1x1x1) (Required Memory Estimate: 131.9375 MB), EncodeSpeed: Fast
+[2024.04.01-16.29.00:039][127]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-16.29.00:045][127]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.29.00:072][127]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.01-16.29.00:171][128]LogMaterial: Warning: [AssetLog] /Game/meshes/blocks/bricks_2.bricks_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function NormalFromHeightmap: Cannot cast from float3 to texture2D.
+
+[2024.04.01-16.29.00:178][128]LogMaterial: Warning: [AssetLog] /Game/meshes/blocks/bricks_1.bricks_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function NormalFromHeightmap: Cannot cast from float3 to texture2D.
+
+[2024.04.01-16.29.00:185][128]LogMaterial: Warning: [AssetLog] /Game/meshes/blocks/Brick_white.Brick_white: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function NormalFromHeightmap: Cannot cast from float3 to texture2D.
+
+[2024.04.01-16.29.00:191][128]LogMaterial: Warning: [AssetLog] /Game/meshes/blocks/concrete_partition.concrete_partition: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function NormalFromHeightmap: Cannot cast from float3 to texture2D.
+
+[2024.04.01-16.29.00:193][128]LogStaticMesh: Display: Building static mesh gas_concrete_2...
+[2024.04.01-16.29.00:193][128]LogStaticMesh: Display: Building static mesh gas_concrete_4...
+[2024.04.01-16.29.00:193][128]LogStaticMesh: Display: Building static mesh gas_concrete_1...
+[2024.04.01-16.29.00:193][128]LogStaticMesh: Display: Building static mesh foam_concrete_block...
+[2024.04.01-16.29.00:193][128]LogStaticMesh: Display: Building static mesh concrete_block...
+[2024.04.01-16.29.00:194][128]LogStaticMesh: Display: Building static mesh red_brick...
+[2024.04.01-16.29.00:194][128]LogStaticMesh: Display: Building static mesh gas_concrete_3...
+[2024.04.01-16.29.00:198][128]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Failed to import JPEG, cannot open file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.04.01-16.29.00:198][128]Interchange: Error: You cannot create a 'Material' asset named 'gas_concrete' in '/Game/meshes/blocks', as there is already a 'Texture2D' asset with the same name in this folder.
+[2024.04.01-16.29.00:198][128]Interchange: Error: You cannot create a 'Material' asset named 'concrete' in '/Game/meshes/blocks', as there is already a 'Texture2D' asset with the same name in this folder.
+[2024.04.01-16.29.00:202][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.29.00:203][128]LogStaticMesh: Display: Building static mesh foam_concrete_block_2...
+[2024.04.01-16.29.00:204][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/foam_concrete_block.foam_concrete_block
+[2024.04.01-16.29.00:205][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/gas_concrete_1.gas_concrete_1
+[2024.04.01-16.29.00:205][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/gas_concrete_2.gas_concrete_2
+[2024.04.01-16.29.00:205][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/gas_concrete_3.gas_concrete_3
+[2024.04.01-16.29.00:206][128]LogStaticMesh: Display: Building static mesh red_concrete_block...
+[2024.04.01-16.29.00:206][128]LogStaticMesh: Display: Building static mesh silikaty_brick...
+[2024.04.01-16.29.00:213][128]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/blocks/concrete_block.concrete_block
+[2024.04.01-16.29.00:216][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/silikaty_brick.silikaty_brick
+[2024.04.01-16.29.00:216][128]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.29.00:216][128]LogStaticMesh: Warning: concrete_block has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.04.01-16.29.00:216][128]LogStaticMesh: Warning: concrete_block has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.01-16.29.00:231][128]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.29.00:271][128]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/blocks/red_concrete_block.red_concrete_block
+[2024.04.01-16.29.00:352][128]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.29.00:626][129]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.29.01:487][157]LogMeshUtilities: Finished distance field build in 1.1s - 98x42x56 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 88% occupied, 86 triangles, gas_concrete_3
+[2024.04.01-16.29.01:703][169]LogMeshUtilities: Finished distance field build in 1.3s - 126x98x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 126 triangles, foam_concrete_block_2
+[2024.04.01-16.29.02:619][224]LogMeshUtilities: Finished distance field build in 2.3s - 126x98x56 sparse distance field, 1.0Mb total, 0.0Mb always loaded, 90% occupied, 508 triangles, concrete_block
+[2024.04.01-16.29.03:063][250]LogMeshUtilities: Finished distance field build in 1.0s - 98x42x56 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 94% occupied, 30 triangles, gas_concrete_4
+[2024.04.01-16.29.03:509][276]LogMeshUtilities: Finished distance field build in 1.5s - 126x112x49 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 71% occupied, 164 triangles, foam_concrete_block
+[2024.04.01-16.29.12:688][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.01-16.29.13:601][794]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-16.29.13:616][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Total job queries 100, among them cache hits 50 (50.00%)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 37 distinct outputs (74.00%)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: RAM used: 1.20 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Shaders Compiled: 16
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Average time worker was idle: 4.95 s
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.36 s
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Job execution time: average 1.09 s, max 2.90 s
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 2.94
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Shader code size: average 42.013 KiB, min 29.902 KiB, max 60.969 KiB
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.02 s
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Average processing rate: 3.98 jobs/sec
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Total thread time: 3.729 s
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Total thread preprocess time: 0.518 s
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Percentage time preprocessing: 13.90%
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Effective parallelization: 0.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.40% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.89% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.61% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.40% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.28% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.04.01-16.29.14:788][794]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.29.14:835][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/black_metall" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/black_metall.uasset" SILENT=true
+[2024.04.01-16.29.14:840][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/black_metall
+[2024.04.01-16.29.14:840][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/black_metallE88B9E644A229F94CA3BE5BAAB3F2F8A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/black_metall.uasset'
+[2024.04.01-16.29.14:850][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/Brick_white" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/Brick_white.uasset" SILENT=true
+[2024.04.01-16.29.14:855][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/Brick_white
+[2024.04.01-16.29.14:856][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Brick_white746072B34C31C30EAD04FEA6DE02127B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/Brick_white.uasset'
+[2024.04.01-16.29.14:859][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/bricks_01" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_01.uasset" SILENT=true
+[2024.04.01-16.29.14:864][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/bricks_01
+[2024.04.01-16.29.14:864][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/bricks_01171FBCEC402DE5888EF966BE0D5D2738.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_01.uasset'
+[2024.04.01-16.29.14:869][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/bricks_02" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_02.uasset" SILENT=true
+[2024.04.01-16.29.14:873][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/bricks_02
+[2024.04.01-16.29.14:873][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/bricks_024CBB47C84A8C818B44FFCABC21429206.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_02.uasset'
+[2024.04.01-16.29.14:884][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/bricks_1" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_1.uasset" SILENT=true
+[2024.04.01-16.29.14:890][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/bricks_1
+[2024.04.01-16.29.14:890][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/bricks_14D23FB654C67097972A09183F89FBF0B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_1.uasset'
+[2024.04.01-16.29.14:900][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/bricks_2" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_2.uasset" SILENT=true
+[2024.04.01-16.29.14:906][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/bricks_2
+[2024.04.01-16.29.14:906][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/bricks_27AB5C20E4E39CD6BEEB10B83347AA627.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_2.uasset'
+[2024.04.01-16.29.14:912][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/Briks_white" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/Briks_white.uasset" SILENT=true
+[2024.04.01-16.29.14:917][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/Briks_white
+[2024.04.01-16.29.14:917][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/Briks_white219CCA394A6BF109C590EEBD53CC5946.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/Briks_white.uasset'
+[2024.04.01-16.29.14:921][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/concrete" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete.uasset" SILENT=true
+[2024.04.01-16.29.14:925][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/concrete
+[2024.04.01-16.29.14:925][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete8DDE5E23456D2E6D77EB8EA0A2C5A430.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete.uasset'
+[2024.04.01-16.29.14:934][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/concrete_block" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_block.uasset" SILENT=true
+[2024.04.01-16.29.14:941][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/concrete_block
+[2024.04.01-16.29.14:941][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete_blockB1A480454E0B5F7319C1D3B4283D04AF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_block.uasset'
+[2024.04.01-16.29.14:960][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/concrete_partition
+[2024.04.01-16.29.14:960][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete_partition78ABB46F450F986654674EA5B72DE788.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_partition.uasset'
+[2024.04.01-16.29.14:965][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/concrete_wall" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_wall.uasset" SILENT=true
+[2024.04.01-16.29.14:971][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/concrete_wall
+[2024.04.01-16.29.14:971][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete_wallE50530094F985DF816A99A83B4047A4C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_wall.uasset'
+[2024.04.01-16.29.14:988][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/foam_concrete_block
+[2024.04.01-16.29.14:988][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/foam_concrete_block3246F2BB48903D346ED5A1977AE4D51B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/foam_concrete_block.uasset'
+[2024.04.01-16.29.15:003][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/foam_concrete_block_2
+[2024.04.01-16.29.15:003][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/foam_concrete_block_264BE677548883A3024013D91FAFF0F55.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/foam_concrete_block_2.uasset'
+[2024.04.01-16.29.15:008][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete.uasset" SILENT=true
+[2024.04.01-16.29.15:013][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete
+[2024.04.01-16.29.15:013][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concreteB3A3922943401AFB79BDE3A227FB5C93.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete.uasset'
+[2024.04.01-16.29.15:018][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete1" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete1.uasset" SILENT=true
+[2024.04.01-16.29.15:023][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete1
+[2024.04.01-16.29.15:023][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concrete1016588B74DFB8FE95332108A3D96E280.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete1.uasset'
+[2024.04.01-16.29.15:032][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete_1" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_1.uasset" SILENT=true
+[2024.04.01-16.29.15:037][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete_1
+[2024.04.01-16.29.15:037][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concrete_10F9A13F5478DC59D962101A31E604C3B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_1.uasset'
+[2024.04.01-16.29.15:045][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete_2" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_2.uasset" SILENT=true
+[2024.04.01-16.29.15:051][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete_2
+[2024.04.01-16.29.15:051][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concrete_2657F7CF6401B96A17E7D10BF0B66BFC5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_2.uasset'
+[2024.04.01-16.29.15:060][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete_3" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_3.uasset" SILENT=true
+[2024.04.01-16.29.15:065][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete_3
+[2024.04.01-16.29.15:065][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concrete_388925D734BDC18F3B2B9E8A1DF2C399C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_3.uasset'
+[2024.04.01-16.29.15:074][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete_4" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_4.uasset" SILENT=true
+[2024.04.01-16.29.15:080][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete_4
+[2024.04.01-16.29.15:080][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concrete_41F58EFB04745A3C76E49B189A33413BD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_4.uasset'
+[2024.04.01-16.29.15:091][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/red_brick" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_brick.uasset" SILENT=true
+[2024.04.01-16.29.15:097][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/red_brick
+[2024.04.01-16.29.15:097][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/red_brick99FA312547C5B94C7CFC6AA1802205F5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_brick.uasset'
+[2024.04.01-16.29.15:114][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/red_concrete_block
+[2024.04.01-16.29.15:114][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/red_concrete_blockD9EDD9224BF189DA59746C8B2ECEDCF3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_concrete_block.uasset'
+[2024.04.01-16.29.15:123][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/silikaty_brick" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/silikaty_brick.uasset" SILENT=true
+[2024.04.01-16.29.15:128][794]LogSavePackage: Moving output files for package: /Game/meshes/blocks/silikaty_brick
+[2024.04.01-16.29.15:128][794]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/silikaty_brick38DCA1474F7B3812C1329F83DA408B83.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/silikaty_brick.uasset'
+[2024.04.01-16.29.15:139][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.52 sec (total: 3.22 sec)
+[2024.04.01-16.29.15:143][794]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/black_metall.black_metall
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/Brick_white.Brick_white
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/bricks_01.bricks_01
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/bricks_02.bricks_02
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/bricks_1.bricks_1
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/bricks_2.bricks_2
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/Briks_white.Briks_white
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/concrete.concrete
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/concrete_block.concrete_block
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/concrete_partition.concrete_partition
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/concrete_wall.concrete_wall
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/gas_concrete.gas_concrete
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/meshes/blocks/gas_concrete1.gas_concrete1
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/gas_concrete_1.gas_concrete_1
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/gas_concrete_2.gas_concrete_2
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/gas_concrete_3.gas_concrete_3
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/red_concrete_block.red_concrete_block
+[2024.04.01-16.29.15:143][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/silikaty_brick.silikaty_brick
+[2024.04.01-16.29.35:674][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block
+[2024.04.01-16.29.35:674][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block
+[2024.04.01-16.29.35:675][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_0
+[2024.04.01-16.29.36:133][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block
+[2024.04.01-16.29.36:133][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block
+[2024.04.01-16.29.36:134][638]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/foam_concrete_block.foam_concrete_block as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_34
+[2024.04.01-16.29.42:507][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.29.47:244][294]Cmd: DELETE
+[2024.04.01-16.29.47:244][294]Cmd: ACTOR DELETE
+[2024.04.01-16.29.47:247][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.01-16.29.47:260][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.01-16.29.47:261][294]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.04.01-16.29.50:048][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.29.52:426][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.29.52:426][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.29.52:427][588]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/red_brick.red_brick as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_69
+[2024.04.01-16.29.52:868][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.29.52:868][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.29.52:870][614]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/red_brick.red_brick as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_71
+[2024.04.01-16.30.00:923][ 91]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.30.10:296][614]Cmd: ACTOR UNBAKEPREPIVOT
+[2024.04.01-16.30.16:313][951]Cmd: PIVOT SNAPPED
+[2024.04.01-16.30.19:105][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.30.19:197][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.30.19:247][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.01-16.30.19:275][111]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.30.19:278][111]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark079BBA1E432DA380DB7E429CD739ABBF.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.30.19:290][111]LogFileHelpers: Saving map 'SkatePark' took 0.094
+[2024.04.01-16.30.19:301][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 3.41 sec)
+[2024.04.01-16.30.19:303][111]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.30.19:303][111]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.30.25:364][461]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.30.36:528][ 57]Cmd: PIVOT HERE
+[2024.04.01-16.30.42:041][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.31.12:458][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.31.12:528][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.31.12:573][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-16.31.12:601][157]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.31.12:603][157]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark195DDD4F4985785EF10664B71357E953.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.31.12:615][157]LogFileHelpers: Saving map 'SkatePark' took 0.087
+[2024.04.01-16.31.12:625][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 3.58 sec)
+[2024.04.01-16.31.12:627][157]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.31.12:627][157]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.31.25:360][754]Cmd: PIVOT CENTERSELECTION
+[2024.04.01-16.31.29:210][955]Cmd: PIVOT HERE
+[2024.04.01-16.31.33:360][182]Cmd: ACTOR BAKEPREPIVOT
+[2024.04.01-16.31.40:642][600]Cmd: EDIT COPY
+[2024.04.01-16.31.41:011][622]Cmd: EDIT PASTE
+[2024.04.01-16.32.22:461][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.32.22:527][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.32.22:576][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.01-16.32.22:604][ 62]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.32.22:606][ 62]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkFF88ED244CEF7BF8202BCC963946F637.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.32.22:619][ 62]LogFileHelpers: Saving map 'SkatePark' took 0.093
+[2024.04.01-16.32.22:633][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 3.75 sec)
+[2024.04.01-16.32.22:635][ 62]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.32.22:635][ 62]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.32.34:885][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.32.34:886][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.32.34:886][768]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2 as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_73
+[2024.04.01-16.32.35:273][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.32.35:273][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.32.35:274][791]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2 as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_74
+[2024.04.01-16.32.38:680][990]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.32.57:875][110]Cmd: PIVOT SNAPPED
+[2024.04.01-16.33.02:259][351]Cmd: ACTOR BAKEPREPIVOT
+[2024.04.01-16.33.51:165][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.33.51:240][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.33.51:280][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-16.33.51:307][233]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.33.51:310][233]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark87B928DF4F9E61D8A932A8BB1D685CB8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.33.51:321][233]LogFileHelpers: Saving map 'SkatePark' took 0.082
+[2024.04.01-16.33.51:331][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 3.92 sec)
+[2024.04.01-16.33.51:332][233]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.33.51:332][233]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.34.15:887][856]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.34.15:887][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ISILV125/Downloads/concrete.jpg]
+[2024.04.01-16.34.15:912][857]LogInterchangeImport: JPEG file [C:/Users/ISILV125/Downloads/concrete.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.01-16.34.15:915][857]LogInterchangeEngine: [Pending] Importing
+[2024.04.01-16.34.16:271][858]LogTexture: Display: Building textures: /Game/images/concrete.concrete (BGRA8, 1600x1066 x1x1x1) (Required Memory Estimate: 49.944492 MB), EncodeSpeed: Fast
+[2024.04.01-16.34.16:277][858]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.34.16:307][858]LogInterchangeEngine: [Success] Import Done
+[2024.04.01-16.34.22:460][156]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-16.34.22:460][156]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.22:460][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.22:460][156]MaterialEditorStats: Shader Count: 0
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Total job queries 104, among them cache hits 54 (51.92%)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 37 distinct outputs (74.00%)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: RAM used: 1.20 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Shaders Compiled: 16
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Average time worker was idle: 4.95 s
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.36 s
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Job execution time: average 1.09 s, max 2.90 s
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 2.94
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Shader code size: average 42.013 KiB, min 29.902 KiB, max 60.969 KiB
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.02 s
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Average processing rate: 3.98 jobs/sec
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Total thread time: 3.729 s
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Total thread preprocess time: 0.518 s
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Percentage time preprocessing: 13.90%
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Effective parallelization: 0.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.40% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.89% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.61% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.40% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.28% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.04.01-16.34.22:493][157]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.34.22:514][158]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.01-16.34.22:514][158]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.01-16.34.22:514][158]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-16.34.22:514][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.22:514][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.22:514][158]MaterialEditorStats: Shader Count: 4
+[2024.04.01-16.34.24:061][244]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.01-16.34.24:061][244]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.24:061][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.24:061][244]MaterialEditorStats: Shader Count: 0
+[2024.04.01-16.34.24:939][294]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.01-16.34.24:939][294]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.24:939][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.24:939][294]MaterialEditorStats: Shader Count: 1
+[2024.04.01-16.34.25:055][301]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.01-16.34.25:055][301]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.01-16.34.25:055][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.25:055][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.25:055][301]MaterialEditorStats: Shader Count: 3
+[2024.04.01-16.34.25:155][307]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.01-16.34.25:155][307]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.01-16.34.25:155][307]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.01-16.34.25:155][307]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.25:155][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.25:155][307]MaterialEditorStats: Shader Count: 4
+[2024.04.01-16.34.25:371][320]LogMaterialEditor: Saving and Compiling material grunge-wall-texture_Mat
+[2024.04.01-16.34.25:428][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.01-16.34.25:874][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.01-16.34.25:884][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.34.26:960][320]LogSavePackage: Moving output files for package: /Game/images/grunge-wall-texture_Mat
+[2024.04.01-16.34.26:962][320]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/grunge-wall-texture_Mat68E424144F9F17D5DC2210927C9E97BB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/grunge-wall-texture_Mat.uasset'
+[2024.04.01-16.34.26:967][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.08 sec (total: 5.00 sec)
+[2024.04.01-16.34.26:968][320]AssetCheck: New page: Asset Save: grunge-wall-texture_Mat
+[2024.04.01-16.34.26:968][320]LogContentValidation: Display: Validating /Script/Engine.Material /Game/images/grunge-wall-texture_Mat.grunge-wall-texture_Mat
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.01-16.34.26:971][320]MaterialEditorStats: Shader Count: 16
+[2024.04.01-16.34.50:187][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.01-16.34.52:299][704]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.34.52:357][704]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.34.52:357][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.34.52:376][704]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/images/grunge-wall-texture.grunge-wall-texture
+	Asset Type: Texture2D
+[2024.04.01-16.34.52:587][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.01-16.34.52:600][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.01-16.34.52:611][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.01-16.35.14:472][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-16.35.14:482][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-16.35.14:482][971]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 10:35:14 AM)
+[2024.04.01-16.35.14:482][971]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-16.35.14:489][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006237s)
+[2024.04.01-16.35.14:489][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.006263s)
+[2024.04.01-16.35.14:498][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.01-16.35.14:500][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.35.14:501][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.35.14:501][971]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-16.35.14:501][971]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2024.04.01-16.35.14:501][971]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-16.35.14:502][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-16.35.14:502][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-16.35.14:502][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-16.35.14:502][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-16.35.14:502][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-16.35.14:504][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-16.35.14:568][971]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-16.35.14:568][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-16.35.14:568][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-16.35.14:568][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-16.35.14:569][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.01-16.35.14:569][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.01-16.35.14:571][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.01-16.35.14:571][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.01-16.35.14:571][971]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.01-16.35.14:571][971]LogAudio: Display: Audio Device (ID: 4) registered with world 'SkatePark'.
+[2024.04.01-16.35.14:571][971]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.01-16.35.14:573][971]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-16.35.14:577][971]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-13.35.14
+[2024.04.01-16.35.14:577][971]LogWorld: Bringing up level for play took: 0.003952
+[2024.04.01-16.35.14:580][971]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.01-16.35.14:583][971]PIE: Server logged in
+[2024.04.01-16.35.14:583][971]PIE: Play in editor total start time 0.102 seconds.
+[2024.04.01-16.35.33:324][ 90]LogChaos: Warning: Degenerate triangle 347: (0.136841 -0.903705 0.839305) (0.138745 -0.910810 0.354814) (0.138745 -0.910810 0.839305)
+[2024.04.01-16.35.33:324][ 90]LogChaos: Warning: Degenerate triangle 347: (0.136841 -0.903705 0.839305) (0.138745 -0.910810 0.354814) (0.138745 -0.910810 0.839305)
+[2024.04.01-16.35.33:324][ 90]LogChaos: Warning: Degenerate triangle 346: (0.138745 -0.910810 0.354814) (0.136841 -0.903705 0.839305) (0.136841 -0.903705 0.354814)
+[2024.04.01-16.35.33:324][ 90]LogChaos: Warning: Degenerate triangle 342: (0.136841 -0.903705 0.839305) (0.138745 -0.910810 0.839305) (0.151051 -0.903705 0.839305)
+[2024.04.01-16.35.33:324][ 90]LogChaos: Warning: Degenerate triangle 342: (0.136841 -0.903705 0.839305) (0.138745 -0.910810 0.839305) (0.151051 -0.903705 0.839305)
+[2024.04.01-16.35.33:324][ 90]LogChaos: Warning: Degenerate triangle 346: (0.138745 -0.910810 0.354814) (0.136841 -0.903705 0.839305) (0.136841 -0.903705 0.354814)
+[2024.04.01-16.35.33:357][ 92]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:357][ 92]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:357][ 92]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:357][ 92]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:357][ 92]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:357][ 92]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:374][ 93]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:374][ 93]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:374][ 93]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:374][ 93]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:374][ 93]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:374][ 93]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:390][ 94]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:390][ 94]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:390][ 94]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:390][ 94]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:390][ 94]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:390][ 94]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:407][ 95]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:407][ 95]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:407][ 95]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:407][ 95]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:407][ 95]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:407][ 95]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 298: (0.139306 -1.390940 0.579239) (0.139306 -0.455965 1.048403) (0.141209 -0.455965 1.041298)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:424][ 96]LogChaos: Warning: Degenerate triangle 374: (0.180727 -0.545456 0.705724) (0.111171 -0.521542 0.705724) (0.111171 -0.545456 0.705724)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 300: (0.141209 -1.390940 0.586344) (0.139306 -0.455965 1.048403) (0.139306 -1.390940 0.579239)
+[2024.04.01-16.35.33:440][ 97]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:457][ 98]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:457][ 98]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:457][ 98]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:474][ 99]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:490][100]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:490][100]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:490][100]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.33:507][101]LogChaos: Warning: Degenerate triangle 376: (0.111171 -0.385059 0.705724) (0.111171 -0.521542 0.705724) (0.180727 -0.385059 0.705724)
+[2024.04.01-16.35.46:976][909]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-16.35.46:976][909]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-16.35.46:976][909]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-16.35.49:825][ 80]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-16.35.49:825][ 80]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-16.35.50:392][114]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-16.35.50:392][114]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-16.35.50:958][148]Cmd: quit
+[2024.04.01-16.35.50:958][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-16.35.50:958][148]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-16.35.50:988][148]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.35.50:988][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.35.50:993][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-16.35.50:997][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.35.51:008][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-16.35.51:009][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.01-16.35.51:009][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.01-16.35.51:011][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.01-16.35.51:019][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.01-16.35.51:103][149]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.01-16.35.52:328][221]Cmd: SELECT NONE
+[2024.04.01-16.36.00:747][721]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-16.36.00:748][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.36.00:748][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.36.00:753][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.36.00:753][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.36.00:758][721]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.01-16.36.00:891][721]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.01-16.36.00:891][721]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.01-16.36.01:869][775]LogSlate: Took 0.001417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.01-16.36.12:403][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.36.12:477][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-16.36.12:488][400]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-16.36.12:490][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu79F2F083425DC19AD767AE8292A508DD.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-16.36.12:501][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 5.10 sec)
+[2024.04.01-16.36.12:502][400]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-16.36.12:503][400]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-16.36.13:680][471]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-16.36.13:707][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.01-16.36.14:476][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.36.14:576][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-16.36.14:587][502]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-16.36.14:589][502]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu84A82B0A4556C53CE22799A7A99BDBA0.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-16.36.14:598][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 5.22 sec)
+[2024.04.01-16.36.14:599][502]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-16.36.14:599][502]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-16.36.16:548][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-16.36.17:868][609]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-16.36.17:874][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.36.17:936][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.36.17:975][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.01-16.36.18:001][609]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.36.18:004][609]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark38CB0F9C4D00A2AE47F62FA0AF1793A7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.36.18:016][609]LogFileHelpers: Saving map 'SkatePark' took 0.080
+[2024.04.01-16.36.18:018][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/images/concrete" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/concrete.uasset" SILENT=true
+[2024.04.01-16.36.18:023][609]LogSavePackage: Moving output files for package: /Game/images/concrete
+[2024.04.01-16.36.18:023][609]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete15DFF51D499FD7C39B54B3BBAD3F71A2.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/concrete.uasset'
+[2024.04.01-16.36.18:100][609]LogSavePackage: Moving output files for package: /Game/images/grunge-wall-texture_Mat
+[2024.04.01-16.36.18:102][609]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/grunge-wall-texture_MatB60E6AC34AA28FD5CA1065B0F8A2C6DB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/images/grunge-wall-texture_Mat.uasset'
+[2024.04.01-16.36.18:109][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 5.46 sec)
+[2024.04.01-16.36.18:112][609]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-16.36.18:112][609]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.36.18:112][609]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/images/concrete.concrete
+[2024.04.01-16.36.18:112][609]LogContentValidation: Display: Validating /Script/Engine.Material /Game/images/grunge-wall-texture_Mat.grunge-wall-texture_Mat
+[2024.04.01-16.36.50:316][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.36.50:316][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.36.50:317][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4 as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_75
+[2024.04.01-16.36.51:185][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.36.51:185][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.36.51:187][125]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4 as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_76
+[2024.04.01-16.36.57:156][454]Cmd: PIVOT SNAPPED
+[2024.04.01-16.37.00:770][640]Cmd: ACTOR BAKEPREPIVOT
+[2024.04.01-16.37.26:709][190]Cmd: TRANSACTION UNDO
+[2024.04.01-16.37.26:709][190]LogEditorTransaction: Undo Rotate Elements
+[2024.04.01-16.37.45:411][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.37.45:501][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.37.45:543][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.01-16.37.45:570][268]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.37.45:573][268]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark81CB761348921F5E418CFE9D15A00526.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.37.45:584][268]LogFileHelpers: Saving map 'SkatePark' took 0.084
+[2024.04.01-16.37.45:593][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 5.64 sec)
+[2024.04.01-16.37.45:595][268]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.37.45:595][268]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.37.46:758][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.37.46:833][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.37.46:873][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.01-16.37.46:899][337]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.37.46:901][337]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark4171089C4F5D5F96F5EEC6B457577401.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.37.46:911][337]LogFileHelpers: Saving map 'SkatePark' took 0.079
+[2024.04.01-16.37.46:920][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 5.80 sec)
+[2024.04.01-16.37.46:922][337]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.37.46:922][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.37.50:574][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.37.50:635][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.37.50:673][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.01-16.37.50:701][555]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.37.50:704][555]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark2E42564A46D854E3D6537E9A22CF5593.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.37.50:715][555]LogFileHelpers: Saving map 'SkatePark' took 0.081
+[2024.04.01-16.37.50:724][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 5.95 sec)
+[2024.04.01-16.37.50:726][555]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.37.50:726][555]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.38.00:127][ 95]Cmd: EDIT COPY
+[2024.04.01-16.38.00:310][106]Cmd: EDIT PASTE
+[2024.04.01-16.38.05:822][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-16.38.20:848][321]Cmd: EDIT COPY
+[2024.04.01-16.38.21:018][331]Cmd: EDIT PASTE
+[2024.04.01-16.39.17:083][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.39.17:168][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.39.17:207][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.01-16.39.17:236][637]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.39.17:238][637]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark95C790784163885F49466C94DA5A4910.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.39.17:250][637]LogFileHelpers: Saving map 'SkatePark' took 0.083
+[2024.04.01-16.39.17:261][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 6.13 sec)
+[2024.04.01-16.39.17:263][637]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.39.17:263][637]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.39.29:720][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.39.29:782][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.39.29:820][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.01-16.39.29:848][378]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.39.29:850][378]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark4E5701894484B99A19E4E9AB56984797.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.39.29:860][378]LogFileHelpers: Saving map 'SkatePark' took 0.079
+[2024.04.01-16.39.29:869][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 6.28 sec)
+[2024.04.01-16.39.29:870][378]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.39.29:870][378]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.39.29:954][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.39.30:049][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.39.30:086][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.01-16.39.30:113][383]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.39.30:116][383]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkEB8109EF4CD6A4C0CFC69CA9098961D7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.39.30:127][383]LogFileHelpers: Saving map 'SkatePark' took 0.078
+[2024.04.01-16.39.30:135][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 6.46 sec)
+[2024.04.01-16.39.30:137][383]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.39.30:137][383]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.39.30:661][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.39.30:731][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.39.30:769][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.01-16.39.30:796][414]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.39.30:798][414]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark4DE0072E4AAA37BD5F67E69F9F4C699A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.39.30:809][414]LogFileHelpers: Saving map 'SkatePark' took 0.079
+[2024.04.01-16.39.30:817][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 6.62 sec)
+[2024.04.01-16.39.30:819][414]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.39.30:819][414]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.39.31:670][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.39.31:731][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.39.31:769][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.01-16.39.31:796][465]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.39.31:799][465]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark2A85A7D342C623C80E1AB68E5DA5B06D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.39.31:810][465]LogFileHelpers: Saving map 'SkatePark' took 0.079
+[2024.04.01-16.39.31:818][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 6.76 sec)
+[2024.04.01-16.39.31:820][465]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.39.31:820][465]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.40.03:182][ 28]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/meshes/blocks/bricks_1.bricks_1
+[2024.04.01-16.40.03:184][ 28]LogMaterial: Warning: [AssetLog] /Engine/Transient.bricks_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.04.01-16.40.03:186][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.40.03:186][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.40.03:286][ 28]LogMaterial: Warning: [AssetLog] /Engine/Transient.bricks_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.04.01-16.40.03:287][ 28]LogMaterial: Warning: [AssetLog] /Engine/Transient.bricks_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2024.04.01-16.40.03:324][ 28]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2024.04.01-16.40.03:328][ 28]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Total job queries 158, among them cache hits 86 (54.43%)
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Tracking 70 distinct input hashes that result in 40 distinct outputs (57.14%)
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: RAM used: 1.66 MiB of 3.20 GiB budget. Usage: 0.05%
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Shaders Compiled: 34
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Jobs assigned 34, completed 34 (100%)
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Average time worker was idle: 123.12 s
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.36 s
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 2.90 s
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 2.94
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Shader code size: average 41.827 KiB, min 29.902 KiB, max 61.465 KiB
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.22 s
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Average processing rate: 4.71 jobs/sec
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Total thread time: 7.15 s
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Total thread preprocess time: 0.937 s
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Percentage time preprocessing: 13.11%
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Effective parallelization: 0.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.04.01-16.40.04:335][ 85]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.25 sec, max 0.28 sec, min 0.23 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.24 sec, max 0.25 sec, min 0.24 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.09% of total time (compiled    3 times, average 0.22 sec, max 0.28 sec, min 0.17 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.69% of total time (compiled    3 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.64% of total time (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.10% of total time (compiled    2 times, average 0.25 sec, max 0.28 sec, min 0.23 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.08% of total time (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2024.04.01-16.40.04:336][ 85]LogShaderCompilers: Display: ================================================
+[2024.04.01-16.40.10:851][474]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-16.40.10:851][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-16.40.14:402][671]LogContentBrowser: Deferred new asset file creation: bricks_01_Mat
+[2024.04.01-16.40.14:424][671]LogContentBrowser: Creating deferred item: bricks_01_Mat
+[2024.04.01-16.40.14:437][672]LogContentBrowser: Renaming the item being created (Deferred Item: bricks_01_Mat).
+[2024.04.01-16.40.17:535][856]LogContentBrowser: Attempting asset rename: bricks_01_Mat -> bricks_01_Mat
+[2024.04.01-16.40.17:541][856]LogContentBrowser: End creating deferred item bricks_01_Mat
+[2024.04.01-16.40.24:755][277]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.40.24:762][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.40.24:762][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.40.25:175][277]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-16.40.27:851][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.40.27:923][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/red_brick" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_brick.uasset" SILENT=true
+[2024.04.01-16.40.27:930][433]LogSavePackage: Moving output files for package: /Game/meshes/blocks/red_brick
+[2024.04.01-16.40.27:932][433]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/red_brick063E43A84FD9E3AC9F79F08BE19C51A7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_brick.uasset'
+[2024.04.01-16.40.27:940][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.85 sec)
+[2024.04.01-16.40.27:941][433]AssetCheck: New page: Asset Save: red_brick
+[2024.04.01-16.40.27:941][433]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.40.41:517][231]LogContentBrowser: Deferred new asset file creation: bricks_02_Mat
+[2024.04.01-16.40.41:541][231]LogContentBrowser: Creating deferred item: bricks_02_Mat
+[2024.04.01-16.40.41:554][232]LogContentBrowser: Renaming the item being created (Deferred Item: bricks_02_Mat).
+[2024.04.01-16.40.42:500][287]LogContentBrowser: Attempting asset rename: bricks_02_Mat -> bricks_02_Mat
+[2024.04.01-16.40.42:505][287]LogContentBrowser: End creating deferred item bricks_02_Mat
+[2024.04.01-16.40.47:045][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.40.47:125][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/red_brick" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_brick.uasset" SILENT=true
+[2024.04.01-16.40.47:131][548]LogSavePackage: Moving output files for package: /Game/meshes/blocks/red_brick
+[2024.04.01-16.40.47:133][548]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/red_brick408B2C0C4912DD8403F10C888EED89B1.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/red_brick.uasset'
+[2024.04.01-16.40.47:141][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.95 sec)
+[2024.04.01-16.40.47:142][548]AssetCheck: New page: Asset Save: red_brick
+[2024.04.01-16.40.47:142][548]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/red_brick.red_brick
+[2024.04.01-16.40.49:010][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.40.49:082][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.40.49:122][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.01-16.40.49:151][660]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.40.49:154][660]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark6A12E547490D69D1B266D7B349B7897C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.40.49:165][660]LogFileHelpers: Saving map 'SkatePark' took 0.084
+[2024.04.01-16.40.49:171][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 7.11 sec)
+[2024.04.01-16.40.49:173][660]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.40.49:173][660]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.41.03:168][472]LogContentBrowser: Deferred new asset file creation: concrete_wall_Mat
+[2024.04.01-16.41.03:190][472]LogContentBrowser: Creating deferred item: concrete_wall_Mat
+[2024.04.01-16.41.03:205][473]LogContentBrowser: Renaming the item being created (Deferred Item: concrete_wall_Mat).
+[2024.04.01-16.41.04:451][548]LogContentBrowser: Attempting asset rename: concrete_wall_Mat -> concrete_wall_Mat
+[2024.04.01-16.41.04:457][548]LogContentBrowser: End creating deferred item concrete_wall_Mat
+[2024.04.01-16.41.16:415][235]LogContentBrowser: Deferred new asset file creation: concrete_Mat
+[2024.04.01-16.41.16:424][235]LogContentBrowser: Creating deferred item: concrete_Mat
+[2024.04.01-16.41.16:437][236]LogContentBrowser: Renaming the item being created (Deferred Item: concrete_Mat).
+[2024.04.01-16.41.17:865][318]LogContentBrowser: Attempting asset rename: concrete_Mat -> concrete_Mat
+[2024.04.01-16.41.17:871][318]LogContentBrowser: End creating deferred item concrete_Mat
+[2024.04.01-16.41.50:691][234]Cmd: TRANSACTION UNDO
+[2024.04.01-16.41.50:691][234]LogEditorTransaction: Undo Replace component used material
+[2024.04.01-16.41.53:150][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.41.53:217][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-16.41.53:256][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.01-16.41.53:283][342]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-16.41.53:285][342]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark302CCFF14B56DE434EA64CB0C1829EDC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-16.41.53:297][342]LogFileHelpers: Saving map 'SkatePark' took 0.080
+[2024.04.01-16.41.53:303][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 7.26 sec)
+[2024.04.01-16.41.53:305][342]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-16.41.53:305][342]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-16.42.00:694][770]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.42.00:700][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.42.00:701][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.42.01:138][770]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-16.42.12:255][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.01-16.42.13:212][400]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-16.42.13:222][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.42.13:330][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/bricks_01_Mat" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_01_Mat.uasset" SILENT=true
+[2024.04.01-16.42.13:334][400]LogSavePackage: Moving output files for package: /Game/meshes/blocks/bricks_01_Mat
+[2024.04.01-16.42.13:334][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/bricks_01_Mat5DF9EFB84F5EFDE723F579B285B81CB1.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_01_Mat.uasset'
+[2024.04.01-16.42.13:351][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/bricks_02_Mat" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_02_Mat.uasset" SILENT=true
+[2024.04.01-16.42.13:355][400]LogSavePackage: Moving output files for package: /Game/meshes/blocks/bricks_02_Mat
+[2024.04.01-16.42.13:355][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/bricks_02_MatCFF79E574CE4385EAA763391A5EBE9A3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/bricks_02_Mat.uasset'
+[2024.04.01-16.42.13:371][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/concrete_Mat" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_Mat.uasset" SILENT=true
+[2024.04.01-16.42.13:375][400]LogSavePackage: Moving output files for package: /Game/meshes/blocks/concrete_Mat
+[2024.04.01-16.42.13:375][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete_MatC309D90A49F8DA75676DF7BCE586333E.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_Mat.uasset'
+[2024.04.01-16.42.13:396][400]LogSavePackage: Moving output files for package: /Game/meshes/blocks/concrete_wall_Mat
+[2024.04.01-16.42.13:396][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/concrete_wall_Mat7C20826B4E322306841C818C320156A5.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/concrete_wall_Mat.uasset'
+[2024.04.01-16.42.13:405][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/blocks/gas_concrete_4" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_4.uasset" SILENT=true
+[2024.04.01-16.42.13:410][400]LogSavePackage: Moving output files for package: /Game/meshes/blocks/gas_concrete_4
+[2024.04.01-16.42.13:412][400]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/gas_concrete_4AF1C1D0C4ADFAB5B6A3BD88BB4027269.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/gas_concrete_4.uasset'
+[2024.04.01-16.42.13:420][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 7.46 sec)
+[2024.04.01-16.42.13:421][400]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-16.42.13:422][400]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/bricks_01_Mat.bricks_01_Mat
+[2024.04.01-16.42.13:422][400]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/bricks_02_Mat.bricks_02_Mat
+[2024.04.01-16.42.13:422][400]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/concrete_Mat.concrete_Mat
+[2024.04.01-16.42.13:422][400]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/blocks/concrete_wall_Mat.concrete_wall_Mat
+[2024.04.01-16.42.13:422][400]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/gas_concrete_4.gas_concrete_4
+[2024.04.01-16.42.26:947][195]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.42.26:954][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-16.42.26:954][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-16.42.27:408][195]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-16.42.30:913][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-16.42.30:995][399]LogSavePackage: Moving output files for package: /Game/meshes/blocks/foam_concrete_block_2
+[2024.04.01-16.42.30:997][399]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/foam_concrete_block_27C6A55CB4B72CAB9167ADDAD34961BC9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/blocks/foam_concrete_block_2.uasset'
+[2024.04.01-16.42.31:004][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.55 sec)
+[2024.04.01-16.42.31:006][399]AssetCheck: New page: Asset Save: foam_concrete_block_2
+[2024.04.01-16.42.31:006][399]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/blocks/foam_concrete_block_2.foam_concrete_block_2
+[2024.04.01-16.42.37:602][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.01-16.42.56:789][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.01-16.42.58:070][815]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.42.58:090][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.01-16.42.58:105][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.01-16.42.58:117][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.01-16.43.15:635][776]LogSlate: Last resort fallback font was requested. Font: '/Game/Fonts/next_custom/Next_Custom.Next_Custom', Character: 'e (U+0065)'
+[2024.04.01-16.43.15:642][776]LogSlate: Took 0.005979 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.04.01-16.43.22:967][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.01-16.43.24:611][186]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.43.24:650][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.01-16.43.24:661][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.01-16.43.24:670][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.01-16.43.31:375][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.01-16.43.32:501][571]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.43.32:524][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.01-16.43.32:536][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.01-16.43.32:546][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.01-16.44.01:242][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.01-16.44.02:381][196]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.01-16.44.02:407][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.01-16.44.02:420][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.01-16.44.02:430][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-16.44.04:056][277]LogSlate: Window 'Assets Cleaner' being destroyed
+[2024.04.01-16.44.04:059][277]LogSlate: Window 'Assets Cleaner' being destroyed
+[2024.04.01-16.44.04:982][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.01-16.44.06:159][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.01-16.44.06:281][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
