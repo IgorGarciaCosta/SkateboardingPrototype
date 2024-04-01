@@ -2511,3 +2511,675 @@ Script Stack (0 frames) :
 [2024.04.01-14.44.46:088][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.53 sec)
 [2024.04.01-14.44.46:089][309]AssetCheck: New page: Asset Save: WBP_PauseMenu
 [2024.04.01-14.44.46:089][309]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.45.29:734][860]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_MainMenu.WBP_MainMenu
+[2024.04.01-14.45.29:734][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.45.29:734][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.45.29:741][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.45.29:741][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.46.02:694][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.46.02:773][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.46.02:782][777]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.46.02:785][777]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuE359F261481BFF0F7430C589E6BD4E09.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.46.02:793][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.62 sec)
+[2024.04.01-14.46.02:794][777]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.46.02:794][777]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.46.07:613][ 32]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.46.07:637][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.01-14.46.09:780][141]LogSlate: Took 0.004462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.01-14.46.20:919][786]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.01-14.46.23:489][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.46.23:575][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.46.23:585][940]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.46.23:588][940]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu1308806340EA486C8BD5AFBEC6F631A8.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.46.23:596][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.73 sec)
+[2024.04.01-14.46.23:597][940]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.46.23:597][940]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.46.35:835][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.46.35:935][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.46.35:945][661]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.46.35:947][661]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuFF7C9DBA4B41455CF8F787A06C02BBB9.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.46.35:957][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.85 sec)
+[2024.04.01-14.46.35:958][661]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.46.35:958][661]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.46.54:735][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.46.54:823][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.46.54:833][762]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.46.54:835][762]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu78D8BA5A4191EFC3276855A208365ACB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.46.54:844][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.96 sec)
+[2024.04.01-14.46.54:845][762]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.46.54:845][762]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.47.03:523][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.47.03:622][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.47.03:632][279]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.47.03:634][279]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuCE40469B4786954A614E16B82E824ADC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.47.03:643][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 2.08 sec)
+[2024.04.01-14.47.03:644][279]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.47.03:644][279]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.47.13:329][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.47.13:424][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.47.13:434][852]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.47.13:436][852]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuA7E9313F4D6704D4924161A62C591B80.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.47.13:444][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.20 sec)
+[2024.04.01-14.47.13:445][852]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.47.13:446][852]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.47.14:579][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.47.14:673][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.47.14:683][917]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.47.14:685][917]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu7CD94CE045D7F75FBF26FFA89A3B24F7.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.47.14:692][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.31 sec)
+[2024.04.01-14.47.14:693][917]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.47.14:693][917]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.47.18:368][138]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.47.18:392][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.01-14.47.19:918][209]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.47.19:928][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-14.47.19:928][209]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:47:19 AM)
+[2024.04.01-14.47.19:928][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.47.19:933][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005073s)
+[2024.04.01-14.47.19:933][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005101s)
+[2024.04.01-14.47.19:943][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.01-14.47.19:945][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.47.19:945][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.47.19:945][209]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.47.19:945][209]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.04.01-14.47.19:945][209]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.47.19:946][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.47.19:946][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.47.19:946][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.47.19:946][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.47.19:946][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.47.19:948][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.47.20:013][209]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.47.20:013][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.47.20:013][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.47.20:013][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.47.20:014][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.01-14.47.20:014][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.01-14.47.20:015][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.01-14.47.20:015][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.01-14.47.20:015][209]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.01-14.47.20:015][209]LogAudio: Display: Audio Device (ID: 15) registered with world 'SkatePark'.
+[2024.04.01-14.47.20:015][209]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.01-14.47.20:018][209]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.47.20:021][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.47.20
+[2024.04.01-14.47.20:021][209]LogWorld: Bringing up level for play took: 0.002366
+[2024.04.01-14.47.20:022][209]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.01-14.47.20:025][209]PIE: Server logged in
+[2024.04.01-14.47.20:026][209]PIE: Play in editor total start time 0.099 seconds.
+[2024.04.01-14.47.23:327][402]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.47.23:327][402]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.47.23:327][402]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.47.29:226][756]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.47.29:226][756]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.47.30:508][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.47.30:509][831]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.47.30:509][831]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.47.30:509][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.47.30:513][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.47.30:516][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.47.30:526][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-14.47.30:526][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.01-14.47.30:526][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.01-14.47.30:529][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.01-14.47.30:534][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.47.30:536][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.01-14.47.30:596][833]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.01-14.47.39:986][384]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.01-14.47.52:462][115]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.01-14.48.41:290][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.48.41:373][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.48.41:383][951]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.48.41:385][951]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuC8FB4DF349893BEE7B06BEAC921AD060.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.48.41:392][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.41 sec)
+[2024.04.01-14.48.41:394][951]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.48.41:394][951]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.48.58:697][983]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.48.58:722][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.01-14.49.00:257][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.49.00:267][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-14.49.00:267][ 57]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:49:00 AM)
+[2024.04.01-14.49.00:267][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.49.00:272][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005073s)
+[2024.04.01-14.49.00:272][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005103s)
+[2024.04.01-14.49.00:285][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.01-14.49.00:287][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.49.00:287][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.49.00:287][ 57]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.49.00:287][ 57]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2024.04.01-14.49.00:287][ 57]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.01-14.49.00:287][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.49.00:287][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.49.00:287][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.49.00:288][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.49.00:288][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.49.00:288][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.49.00:288][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.49.00:288][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.49.00:288][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.49.00:288][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.49.00:288][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.49.00:290][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.49.00:350][ 57]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.49.00:351][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.49.00:351][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.49.00:351][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.49.00:351][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.01-14.49.00:352][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.04.01-14.49.00:353][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.01-14.49.00:353][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.01-14.49.00:353][ 57]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.01-14.49.00:353][ 57]LogAudio: Display: Audio Device (ID: 16) registered with world 'SkatePark'.
+[2024.04.01-14.49.00:353][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.01-14.49.00:355][ 57]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.49.00:358][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.49.00
+[2024.04.01-14.49.00:358][ 57]LogWorld: Bringing up level for play took: 0.002324
+[2024.04.01-14.49.00:359][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.04.01-14.49.00:362][ 57]PIE: Server logged in
+[2024.04.01-14.49.00:363][ 57]PIE: Play in editor total start time 0.096 seconds.
+[2024.04.01-14.49.01:500][120]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.49.01:500][120]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.49.01:500][120]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.49.03:549][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.49.03:549][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.49.03:550][241]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.49.03:550][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.49.03:553][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.49.03:557][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.49.03:569][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-14.49.03:569][241]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.01-14.49.03:569][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.01-14.49.03:571][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.01-14.49.03:576][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.49.03:580][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.01-14.49.03:634][243]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.04.01-14.49.14:575][889]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.49.14:595][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.01-14.49.15:443][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.49.15:453][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-14.49.15:453][925]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:49:15 AM)
+[2024.04.01-14.49.15:453][925]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.49.15:458][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004982s)
+[2024.04.01-14.49.15:458][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005008s)
+[2024.04.01-14.49.15:468][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.01-14.49.15:470][925]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.49.15:470][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.49.15:470][925]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.49.15:470][925]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2024.04.01-14.49.15:470][925]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.49.15:470][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.49.15:470][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.49.15:471][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.49.15:471][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.49.15:471][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.49.15:473][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.49.15:534][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.49.15:534][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.49.15:534][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.49.15:534][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.49.15:535][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.01-14.49.15:535][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.01-14.49.15:536][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.01-14.49.15:536][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.01-14.49.15:536][925]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.01-14.49.15:536][925]LogAudio: Display: Audio Device (ID: 17) registered with world 'SkatePark'.
+[2024.04.01-14.49.15:536][925]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.01-14.49.15:620][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.49.15:620][925]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.49.15:623][925]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.49.15
+[2024.04.01-14.49.15:624][925]LogWorld: Bringing up level for play took: 0.002856
+[2024.04.01-14.49.15:626][925]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.04.01-14.49.15:630][925]PIE: Server logged in
+[2024.04.01-14.49.15:632][925]PIE: Play in editor total start time 0.179 seconds.
+[2024.04.01-14.49.15:641][925]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.01-14.49.16:635][970]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.49.16:635][970]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.49.16:635][970]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.49.19:883][165]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.49.19:883][165]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.49.20:718][215]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.49.20:718][215]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-14.49.21:650][271]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.49.21:651][271]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.49.22:002][292]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.49.22:002][292]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-14.49.22:467][320]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.49.22:467][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.49.22:885][345]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.49.22:885][345]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-14.49.23:350][373]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.49.23:350][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.49.24:319][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.49.24:319][429]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.49.24:320][429]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.01-14.49.24:323][429]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.49.24:324][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.49.24:326][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.49.24:330][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.49.24:343][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-14.49.24:343][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.01-14.49.24:343][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.01-14.49.24:345][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.01-14.49.24:353][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.01-14.49.24:390][431]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.04.01-14.49.33:030][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.49.33:122][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.49.33:132][931]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.49.33:134][931]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuE2DD71694E037719E4771D866EC1545A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.49.33:142][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.52 sec)
+[2024.04.01-14.49.33:144][931]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.49.33:144][931]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.49.34:324][  2]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.49.34:348][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-14.49.35:359][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.49.35:369][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-14.49.35:369][ 49]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:49:35 AM)
+[2024.04.01-14.49.35:369][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.49.35:374][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005066s)
+[2024.04.01-14.49.35:374][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005101s)
+[2024.04.01-14.49.35:387][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-14.49.35:388][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.49.35:388][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.49.35:389][ 49]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.49.35:389][ 49]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2024.04.01-14.49.35:389][ 49]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.49.35:389][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.49.35:389][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.49.35:390][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.49.35:390][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.49.35:390][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.49.35:392][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.49.35:452][ 49]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.49.35:452][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.49.35:452][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.49.35:452][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.49.35:453][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.04.01-14.49.35:453][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.04.01-14.49.35:455][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.04.01-14.49.35:455][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.04.01-14.49.35:455][ 49]LogInit: FAudioDevice initialized with ID 18.
+[2024.04.01-14.49.35:455][ 49]LogAudio: Display: Audio Device (ID: 18) registered with world 'SkatePark'.
+[2024.04.01-14.49.35:455][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.01-14.49.35:533][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.49.35:533][ 49]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.49.35:536][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.49.35
+[2024.04.01-14.49.35:536][ 49]LogWorld: Bringing up level for play took: 0.002699
+[2024.04.01-14.49.35:538][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.04.01-14.49.35:543][ 49]PIE: Server logged in
+[2024.04.01-14.49.35:545][ 49]PIE: Play in editor total start time 0.175 seconds.
+[2024.04.01-14.49.35:554][ 49]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.01-14.49.36:371][ 82]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.49.36:372][ 82]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.49.36:372][ 82]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.50.15:969][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.50.15:969][455]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.50.15:969][455]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.01-14.50.15:975][455]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.50.15:975][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.50.15:978][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.50.15:982][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.50.15:996][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-14.50.15:996][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.01-14.50.15:996][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.01-14.50.15:999][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.01-14.50.16:007][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.01-14.50.16:027][456]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.04.01-14.51.06:167][417]LogEditorTransaction: Undo Move Anchor
+[2024.04.01-14.51.06:887][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.51.06:975][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.51.06:986][434]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.51.06:987][434]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuAB4E1A9E4A38462DDB2C1AAB3604E2CB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.51.06:995][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.63 sec)
+[2024.04.01-14.51.06:996][434]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.51.06:996][434]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.51.08:243][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.51.08:334][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.51.08:344][509]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.51.08:346][509]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu5191CBC44B1DD64ADC1D13B191A95E4B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.51.08:354][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.74 sec)
+[2024.04.01-14.51.08:355][509]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.51.08:355][509]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.51.08:465][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.51.08:531][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.51.08:541][516]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.51.08:543][516]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu0A1EA2A54AAE1E433E1CB3AD6C072909.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.51.08:551][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.83 sec)
+[2024.04.01-14.51.08:552][516]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.51.08:552][516]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.52.12:326][259]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2024.04.01-14.52.18:550][622]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.01-14.52.21:521][791]LogSlate: Window 'WBP_MainMenu' being destroyed
+[2024.04.01-14.53.02:043][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.53.02:117][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.53.02:128][120]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.53.02:130][120]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu401CE9FF4F04E6943D2CB6903EF470E3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.53.02:138][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 2.92 sec)
+[2024.04.01-14.53.02:139][120]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.53.02:139][120]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.53.03:337][192]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.53.03:347][192]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.01-14.53.03:348][192]LogPlayLevel: [PlayLevel] Compiling WBP_PauseMenu before play...
+[2024.04.01-14.53.03:452][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.01-14.53.03:454][192]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (1 blueprints)
+[2024.04.01-14.53.03:454][192]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:53:03 AM)
+[2024.04.01-14.53.03:454][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.53.03:459][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004704s)
+[2024.04.01-14.53.03:459][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.004732s)
+[2024.04.01-14.53.03:473][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.01-14.53.03:474][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.53.03:474][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.53.03:474][192]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.53.03:475][192]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2024.04.01-14.53.03:475][192]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.53.03:475][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.53.03:475][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.53.03:475][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.53.03:475][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.53.03:475][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.53.03:476][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.53.03:536][192]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.53.03:537][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.53.03:537][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.53.03:537][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.53.03:538][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.01-14.53.03:538][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.01-14.53.03:539][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.01-14.53.03:539][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.01-14.53.03:539][192]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.01-14.53.03:539][192]LogAudio: Display: Audio Device (ID: 19) registered with world 'SkatePark'.
+[2024.04.01-14.53.03:539][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.01-14.53.03:597][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.53.03:597][192]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.53.03:600][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.53.03
+[2024.04.01-14.53.03:600][192]LogWorld: Bringing up level for play took: 0.002878
+[2024.04.01-14.53.03:602][192]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.01-14.53.03:607][192]PIE: Server logged in
+[2024.04.01-14.53.03:609][192]PIE: Play in editor total start time 0.262 seconds.
+[2024.04.01-14.53.03:690][192]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.01-14.53.04:964][254]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.53.04:964][254]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.53.04:964][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.53.10:369][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.53.10:369][576]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.53.10:370][576]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.01-14.53.10:374][576]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.53.10:374][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.53.10:376][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.53.10:381][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.53.10:394][576]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.01-14.53.10:394][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.01-14.53.10:396][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.01-14.53.10:405][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.01-14.53.10:468][578]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.01-14.53.19:463][ 97]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.53.19:481][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-14.53.20:562][159]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.53.20:572][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-14.53.20:573][159]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:53:20 AM)
+[2024.04.01-14.53.20:573][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.53.20:578][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005027s)
+[2024.04.01-14.53.20:578][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005053s)
+[2024.04.01-14.53.20:590][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.01-14.53.20:592][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.53.20:593][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.53.20:593][159]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.53.20:593][159]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.04.01-14.53.20:593][159]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.53.20:593][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.53.20:593][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.53.20:594][159]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.53.20:594][159]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.53.20:594][159]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.53.20:596][159]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.53.20:656][159]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.53.20:656][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.53.20:656][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.53.20:656][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.53.20:657][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.01-14.53.20:657][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.04.01-14.53.20:658][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.01-14.53.20:658][159]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.01-14.53.20:658][159]LogInit: FAudioDevice initialized with ID 20.
+[2024.04.01-14.53.20:658][159]LogAudio: Display: Audio Device (ID: 20) registered with world 'SkatePark'.
+[2024.04.01-14.53.20:658][159]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.01-14.53.20:737][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.53.20:737][159]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.53.20:740][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.53.20
+[2024.04.01-14.53.20:740][159]LogWorld: Bringing up level for play took: 0.002656
+[2024.04.01-14.53.20:743][159]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.04.01-14.53.20:747][159]PIE: Server logged in
+[2024.04.01-14.53.20:747][159]PIE: Play in editor total start time 0.175 seconds.
+[2024.04.01-14.53.20:754][159]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.01-14.53.21:603][195]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.53.21:603][195]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.53.21:603][195]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.53.27:229][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.53.27:229][530]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.53.27:229][530]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.01-14.53.27:234][530]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.53.27:235][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.53.27:237][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.53.27:242][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.53.27:254][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-14.53.27:256][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.01-14.53.27:256][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.01-14.53.27:257][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.01-14.53.27:266][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.01-14.53.27:299][532]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.04.01-14.53.30:517][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.53.30:617][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.53.30:629][709]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.53.30:630][709]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu8FC7507B43FC9360E63B6095CB015E01.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.53.30:638][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 3.05 sec)
+[2024.04.01-14.53.30:640][709]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.53.30:640][709]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.53.31:337][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.53.31:347][751]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.01-14.53.31:348][751]LogPlayLevel: [PlayLevel] Compiling WBP_PauseMenu before play...
+[2024.04.01-14.53.31:448][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.01-14.53.31:449][751]LogPlayLevel: PlayLevel: Blueprint regeneration took 102 ms (1 blueprints)
+[2024.04.01-14.53.31:449][751]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:53:31 AM)
+[2024.04.01-14.53.31:449][751]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.53.31:454][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004990s)
+[2024.04.01-14.53.31:455][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005019s)
+[2024.04.01-14.53.31:467][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-14.53.31:468][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.53.31:468][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.53.31:468][751]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.53.31:469][751]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2024.04.01-14.53.31:469][751]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.53.31:469][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.53.31:469][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.53.31:469][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.53.31:469][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.53.31:469][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.53.31:471][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.53.31:533][751]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.53.31:533][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.53.31:533][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.53.31:533][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.53.31:534][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.04.01-14.53.31:534][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.04.01-14.53.31:536][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.04.01-14.53.31:536][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.04.01-14.53.31:536][751]LogInit: FAudioDevice initialized with ID 21.
+[2024.04.01-14.53.31:536][751]LogAudio: Display: Audio Device (ID: 21) registered with world 'SkatePark'.
+[2024.04.01-14.53.31:536][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.01-14.53.31:611][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.53.31:611][751]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.53.31:614][751]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.53.31
+[2024.04.01-14.53.31:614][751]LogWorld: Bringing up level for play took: 0.002831
+[2024.04.01-14.53.31:616][751]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.04.01-14.53.31:621][751]PIE: Server logged in
+[2024.04.01-14.53.31:622][751]PIE: Play in editor total start time 0.276 seconds.
+[2024.04.01-14.53.31:702][751]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.01-14.53.32:501][786]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.53.32:501][786]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.53.32:501][786]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.53.41:951][353]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.53.41:951][353]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.53.42:884][409]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.53.42:884][409]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-14.53.43:767][462]Cmd: quit
+[2024.04.01-14.53.43:768][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.53.43:768][462]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.53.43:768][462]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.01-14.53.43:799][462]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.53.43:800][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.53.43:802][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.53.43:806][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.53.43:819][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.01-14.53.43:819][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.01-14.53.43:821][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.01-14.53.43:829][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.01-14.53.43:892][464]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.01-14.53.45:395][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.53.45:461][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.53.45:472][551]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.53.45:474][551]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuDDEC40D14A7783FA8827609E4812E34D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.53.45:480][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.13 sec)
+[2024.04.01-14.53.45:482][551]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.53.45:482][551]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.53.50:097][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.53.50:163][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.53.50:174][825]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.53.50:176][825]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu09E21BF1468BE4515BE009A5DB41AB57.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.53.50:184][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.22 sec)
+[2024.04.01-14.53.50:185][825]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.53.50:185][825]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.53.50:296][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.53.50:380][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.53.50:391][832]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.53.50:392][832]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu39C9A3E94EAF3E1778C901974ED85543.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.53.50:399][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.32 sec)
+[2024.04.01-14.53.50:400][832]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.53.50:400][832]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.54.04:254][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.54.04:352][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.54.04:363][635]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.54.04:365][635]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuB79A14714E2E58ED43FBFA91D2C74492.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.54.04:373][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 3.44 sec)
+[2024.04.01-14.54.04:375][635]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.54.04:375][635]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.54.04:841][662]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.04.01-14.54.04:866][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.01-14.54.05:492][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-14.54.05:502][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-14.54.05:502][685]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 8:54:05 AM)
+[2024.04.01-14.54.05:502][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.54.05:507][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005014s)
+[2024.04.01-14.54.05:507][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005041s)
+[2024.04.01-14.54.05:518][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.01-14.54.05:519][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-14.54.05:519][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-14.54.05:520][685]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-14.54.05:520][685]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2024.04.01-14.54.05:520][685]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-14.54.05:520][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-14.54.05:521][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-14.54.05:521][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-14.54.05:521][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-14.54.05:521][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-14.54.05:523][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-14.54.05:584][685]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-14.54.05:584][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-14.54.05:584][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-14.54.05:584][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-14.54.05:585][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.04.01-14.54.05:585][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.04.01-14.54.05:587][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.04.01-14.54.05:587][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.04.01-14.54.05:587][685]LogInit: FAudioDevice initialized with ID 22.
+[2024.04.01-14.54.05:587][685]LogAudio: Display: Audio Device (ID: 22) registered with world 'SkatePark'.
+[2024.04.01-14.54.05:587][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.01-14.54.05:660][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.54.05:660][685]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-14.54.05:662][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 60) at 2024.04.01-11.54.05
+[2024.04.01-14.54.05:663][685]LogWorld: Bringing up level for play took: 0.002500
+[2024.04.01-14.54.05:665][685]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.01-14.54.05:669][685]PIE: Server logged in
+[2024.04.01-14.54.05:670][685]PIE: Play in editor total start time 0.168 seconds.
+[2024.04.01-14.54.05:677][685]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.01-14.54.07:179][759]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.54.07:179][759]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.01-14.54.07:179][759]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.01-14.54.08:227][822]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.54.08:227][822]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.54.08:978][867]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.54.08:978][867]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-14.54.09:445][895]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-14.54.09:445][895]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.01-14.54.09:796][916]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-14.54.09:796][916]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.04.01-14.54.11:194][  0]Cmd: quit
+[2024.04.01-14.54.11:195][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-14.54.11:195][  0]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-14.54.11:195][  0]LogSlate: Window 'Skateboarding Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.01-14.54.11:239][  0]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-14.54.11:239][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.54.11:242][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-14.54.11:247][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-14.54.11:259][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-14.54.11:259][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.01-14.54.11:259][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.01-14.54.11:261][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.01-14.54.11:270][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.01-14.54.11:304][  2]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.01-14.54.13:344][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.54.13:395][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.54.13:406][121]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.54.13:408][121]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenu1EC069A1447734DEFE4B639F2A17B192.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.54.13:416][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.51 sec)
+[2024.04.01-14.54.13:417][121]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.54.13:417][121]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.54.13:542][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-14.54.13:626][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/WBP_PauseMenu" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset" SILENT=true
+[2024.04.01-14.54.13:636][129]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PauseMenu
+[2024.04.01-14.54.13:639][129]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/WBP_PauseMenuE170ECBA447D3A7C84E2B58CFF302124.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Blueprints/UI/WBP_PauseMenu.uasset'
+[2024.04.01-14.54.13:646][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.61 sec)
+[2024.04.01-14.54.13:647][129]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.04.01-14.54.13:647][129]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.04.01-14.54.15:054][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.01-14.54.16:214][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.01-14.54.16:500][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
