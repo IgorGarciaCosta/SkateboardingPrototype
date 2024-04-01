@@ -1387,3 +1387,805 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.01-11.28.41:479][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 1.29 sec)
 [2024.04.01-11.28.41:480][684]AssetCheck: New page: Asset Save: buikslotermeerplein_4k
 [2024.04.01-11.28.41:480][684]LogContentValidation: Display: Validating /Script/Engine.TextureCube /Game/hdri/buikslotermeerplein_4k.buikslotermeerplein_4k
+[2024.04.01-11.29.07:026][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.07:092][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.07:123][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.04.01-11.29.07:136][852]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.07:138][852]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark0D8EFD2940C4DA3F0BFAE2BEED2A9FA3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.07:148][852]LogFileHelpers: Saving map 'SkatePark' took 0.056
+[2024.04.01-11.29.07:157][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.43 sec)
+[2024.04.01-11.29.07:159][852]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.07:159][852]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.07:199][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.07:293][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.07:324][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.01-11.29.07:336][855]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.07:338][855]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark240AAAF84A116C59CBB166A7115E05FC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.07:348][855]LogFileHelpers: Saving map 'SkatePark' took 0.056
+[2024.04.01-11.29.07:358][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.59 sec)
+[2024.04.01-11.29.07:360][855]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.07:360][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.07:382][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.07:476][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.07:505][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.04.01-11.29.07:517][856]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.07:519][856]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkD5ADB9104D95D0AE675F42883E94CA30.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.07:529][856]LogFileHelpers: Saving map 'SkatePark' took 0.053
+[2024.04.01-11.29.07:538][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.74 sec)
+[2024.04.01-11.29.07:539][856]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.07:539][856]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.08:144][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.08:228][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.08:257][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.04.01-11.29.08:269][927]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.08:271][927]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark83DB01774618445A1A344FAA81B50E8A.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.08:282][927]LogFileHelpers: Saving map 'SkatePark' took 0.054
+[2024.04.01-11.29.08:291][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1.89 sec)
+[2024.04.01-11.29.08:292][927]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.08:292][927]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.08:304][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.08:374][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.08:403][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.04.01-11.29.08:415][928]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.08:417][928]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark56DB321D4985C05043277BA4DB061D96.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.08:427][928]LogFileHelpers: Saving map 'SkatePark' took 0.053
+[2024.04.01-11.29.08:437][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 2.02 sec)
+[2024.04.01-11.29.08:438][928]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.08:438][928]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.18:178][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.18:260][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.18:288][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.04.01-11.29.18:300][  1]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.18:302][  1]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkEFDF319F46295AF37CEC30B1107D1C20.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.18:313][  1]LogFileHelpers: Saving map 'SkatePark' took 0.053
+[2024.04.01-11.29.18:322][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.16 sec)
+[2024.04.01-11.29.18:323][  1]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.18:323][  1]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.29:392][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.29:475][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.29:502][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.04.01-11.29.29:514][323]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.29:516][323]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkACE3F33547AAEDD563452BB47BAC9DBC.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.29:526][323]LogFileHelpers: Saving map 'SkatePark' took 0.052
+[2024.04.01-11.29.29:535][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.31 sec)
+[2024.04.01-11.29.29:537][323]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.29:537][323]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.29:574][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.29:639][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.29:667][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.04.01-11.29.29:679][326]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.29:681][326]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark147E4148497D1CEF4ACD919CDDDFB546.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.29:691][326]LogFileHelpers: Saving map 'SkatePark' took 0.052
+[2024.04.01-11.29.29:700][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.43 sec)
+[2024.04.01-11.29.29:701][326]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.29:701][326]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.30:149][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.30:206][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.30:234][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.04.01-11.29.30:246][373]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.30:249][373]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark15219704406677A73B45F0A90732ED3C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.30:259][373]LogFileHelpers: Saving map 'SkatePark' took 0.053
+[2024.04.01-11.29.30:268][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.55 sec)
+[2024.04.01-11.29.30:269][373]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.30:269][373]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.29.30:331][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.29.30:408][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.29.30:436][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.04.01-11.29.30:448][379]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.29.30:450][379]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark42D544BD4E18A06599C77495A7F88CD3.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.29.30:461][379]LogFileHelpers: Saving map 'SkatePark' took 0.053
+[2024.04.01-11.29.30:470][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.69 sec)
+[2024.04.01-11.29.30:472][379]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.29.30:472][379]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.35.12:654][916]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.01-11.35.12:654][916]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.01-11.35.15:161][155]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.01-11.35.15:177][155]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.01-11.35.15:186][156]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.01-11.35.17:951][479]LogContentBrowser: Attempting asset rename: NewFolder -> metalSheet
+[2024.04.01-11.35.17:952][479]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.01-11.35.22:315][801]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ISILV125\Downloads\metalSheet\source\mp-20.fbx)
+[2024.04.01-11.35.22:322][801]LogFbx: Loading FBX Scene from C:\Users\ISILV125\Downloads\metalSheet\source\mp-20.fbx
+[2024.04.01-11.35.22:326][801]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.01-11.35.23:819][801]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.01-11.35.24:018][801]LogFbx: Display: Triangulating static mesh Cube
+[2024.04.01-11.35.24:024][801]LogStaticMesh: Display: Building static mesh mp-20...
+[2024.04.01-11.35.24:030][801]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.35.24:043][801]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: ================================================
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: RAM used: 43.07 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.01-11.35.24:378][805]LogShaderCompilers: Display: ================================================
+[2024.04.01-11.35.25:769][954]LogSlate: Window 'Message Log' being destroyed
+[2024.04.01-11.35.25:773][954]LogSlate: Window 'Message Log' being destroyed
+[2024.04.01-11.35.29:021][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.35.29:022][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.35.29:022][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/metalSheet/mp-20.mp-20 as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_0
+[2024.04.01-11.35.29:962][390]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.35.29:963][390]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.35.29:964][390]LogActorFactory: Actor Factory spawned StaticMesh /Game/meshes/metalSheet/mp-20.mp-20 as actor: StaticMeshActor /Game/Maps/SkatePark.SkatePark:PersistentLevel.StaticMeshActor_3
+[2024.04.01-11.35.40:758][631]Cmd: TRANSACTION UNDO
+[2024.04.01-11.35.40:758][631]LogEditorTransaction: Undo Move Elements
+[2024.04.01-11.36.23:505][496]Cmd: EDIT COPY
+[2024.04.01-11.36.23:741][524]Cmd: EDIT PASTE
+[2024.04.01-11.36.34:016][708]Cmd: EDIT COPY
+[2024.04.01-11.36.34:258][735]Cmd: EDIT PASTE
+[2024.04.01-11.36.42:705][696]Cmd: EDIT COPY
+[2024.04.01-11.36.42:887][713]Cmd: EDIT PASTE
+[2024.04.01-11.36.58:334][426]Cmd: EDIT COPY
+[2024.04.01-11.36.58:572][453]Cmd: EDIT PASTE
+[2024.04.01-11.37.15:972][448]Cmd: EDIT COPY
+[2024.04.01-11.37.16:143][467]Cmd: EDIT PASTE
+[2024.04.01-11.37.32:347][239]Cmd: EDIT COPY
+[2024.04.01-11.37.32:669][275]Cmd: EDIT PASTE
+[2024.04.01-11.37.57:135][818]Cmd: EDIT COPY
+[2024.04.01-11.37.57:321][838]Cmd: EDIT PASTE
+[2024.04.01-11.38.07:603][898]Cmd: DELETE
+[2024.04.01-11.38.07:604][898]Cmd: ACTOR DELETE
+[2024.04.01-11.38.07:606][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.01-11.38.07:615][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-11.38.07:617][898]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.04.01-11.38.24:884][634]Cmd: EDIT COPY
+[2024.04.01-11.38.25:319][679]Cmd: EDIT PASTE
+[2024.04.01-11.38.30:691][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-11.39.02:793][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.02:893][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.39.02:935][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.01-11.39.02:963][472]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.39.02:966][472]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark92C1781144E07E421CDFB984A6B2F3B6.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.39.02:981][472]LogFileHelpers: Saving map 'SkatePark' took 0.089
+[2024.04.01-11.39.02:989][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 2.89 sec)
+[2024.04.01-11.39.02:992][472]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.39.02:992][472]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.39.03:247][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.03:393][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.03:402][497]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.03:402][497]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-20A985061D406F409FAE13F3A79E35D420.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.03:416][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 3.06 sec)
+[2024.04.01-11.39.03:417][497]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.03:417][497]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.03:923][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.04:021][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.04:027][550]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.04:030][550]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-200F54F83E409C71EB3B8256970CEE6647.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.04:040][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.17 sec)
+[2024.04.01-11.39.04:041][550]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.04:041][550]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.04:843][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.04:937][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.04:943][637]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.04:946][637]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-20E3EC78964DC2F8736E348E92339C5576.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.04:957][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.29 sec)
+[2024.04.01-11.39.04:958][637]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.04:958][637]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.05:551][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.05:623][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.05:630][701]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.05:633][701]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-20409F132442E6DF7EA2E623B1D569F565.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.05:644][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.38 sec)
+[2024.04.01-11.39.05:646][701]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.05:646][701]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.05:760][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.05:854][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.05:860][710]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.05:862][710]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-20BA990B2347FFD720AFEF798E7CB833C6.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.05:873][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.49 sec)
+[2024.04.01-11.39.05:874][710]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.05:874][710]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.06:017][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.06:123][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.06:128][722]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.06:131][722]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-20E80FF75E474414B541C97AB1199EED06.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.06:141][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 3.62 sec)
+[2024.04.01-11.39.06:143][722]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.06:143][722]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.06:258][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.06:352][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.06:358][731]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.06:361][731]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-2031E5DE2346CC58AFAF88A5825325F07F.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.06:371][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.73 sec)
+[2024.04.01-11.39.06:372][731]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.06:372][731]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.06:453][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.39.06:551][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.39.06:557][737]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.39.06:560][737]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-2009F86E7D4FD6E3CAC8676690E4CFDB73.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.39.06:570][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 3.85 sec)
+[2024.04.01-11.39.06:572][737]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.39.06:572][737]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.39.17:941][878]Cmd: EDIT COPY
+[2024.04.01-11.39.18:130][896]Cmd: EDIT PASTE
+[2024.04.01-11.39.21:075][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-11.39.43:492][400]Cmd: EDIT COPY
+[2024.04.01-11.39.43:706][423]Cmd: EDIT PASTE
+[2024.04.01-11.39.46:516][696]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.01-11.40.02:062][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.40.02:157][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.40.02:198][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.01-11.40.02:228][315]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.40.02:231][315]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkE1D5F0E346C175A85EAB138C6E163012.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.40.02:247][315]LogFileHelpers: Saving map 'SkatePark' took 0.091
+[2024.04.01-11.40.02:256][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 4.04 sec)
+[2024.04.01-11.40.02:258][315]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.40.02:258][315]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.40.08:296][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.40.08:390][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.40.08:432][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.01-11.40.08:464][938]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.40.08:467][938]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark60E122AE4EE11E8B1786FB9058EF2A66.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.40.08:484][938]LogFileHelpers: Saving map 'SkatePark' took 0.094
+[2024.04.01-11.40.08:494][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 4.24 sec)
+[2024.04.01-11.40.08:496][938]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.40.08:496][938]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.40.09:603][ 36]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.40.09:691][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.09:691][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.40.10:294][ 36]LogViewport: Scene viewport resized to 832x538, mode Windowed.
+[2024.04.01-11.40.15:283][445]LogSlate: Window 'mp-20' being destroyed
+[2024.04.01-11.40.15:344][445]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.15:344][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.16:757][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.01-11.40.17:580][583]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-11.40.17:588][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: ================================================
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: Total job queries 18, among them cache hits 2 (11.11%)
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: RAM used: 390.84 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.01-11.40.17:703][583]LogShaderCompilers: Display: ================================================
+[2024.04.01-11.40.17:764][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/Material" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/Material.uasset" SILENT=true
+[2024.04.01-11.40.17:768][583]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/Material
+[2024.04.01-11.40.17:768][583]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/MaterialFAAC3FE344AB7779DDD681B2ED539463.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/Material.uasset'
+[2024.04.01-11.40.17:777][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 4.43 sec)
+[2024.04.01-11.40.17:777][583]AssetCheck: New page: Asset Save: Material
+[2024.04.01-11.40.17:777][583]LogContentValidation: Display: Validating /Script/Engine.Material /Game/meshes/metalSheet/Material.Material
+[2024.04.01-11.40.18:843][676]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-11.40.18:856][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-11.40.18:857][676]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 5:40:18 AM)
+[2024.04.01-11.40.18:862][676]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.01-11.40.18:862][676]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.01-11.40.18:862][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.40.18:869][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006509s)
+[2024.04.01-11.40.18:869][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.006549s)
+[2024.04.01-11.40.18:872][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.01-11.40.18:874][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.18:875][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.40.18:875][676]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.40.18:875][676]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2024.04.01-11.40.18:875][676]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-11.40.18:876][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-11.40.18:876][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-11.40.18:876][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-11.40.18:876][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-11.40.18:876][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-11.40.18:879][676]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-11.40.18:966][676]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-11.40.18:966][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-11.40.18:966][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-11.40.18:966][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-11.40.18:967][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.01-11.40.18:967][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.01-11.40.18:970][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.01-11.40.18:970][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.01-11.40.18:970][676]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.01-11.40.18:970][676]LogAudio: Display: Audio Device (ID: 2) registered with world 'SkatePark'.
+[2024.04.01-11.40.18:970][676]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.01-11.40.18:978][676]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-11.40.18:981][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-08.40.18
+[2024.04.01-11.40.18:981][676]LogWorld: Bringing up level for play took: 0.002993
+[2024.04.01-11.40.18:984][676]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.04.01-11.40.18:984][676]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.01-11.40.18:991][676]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_ThirdPersonCharacter_C]
+[2024.04.01-11.40.18:991][676]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.04.01-11.40.18:992][676]PIE: Server logged in
+[2024.04.01-11.40.18:993][676]PIE: Play in editor total start time 0.137 seconds.
+[2024.04.01-11.40.20:339][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.40.20:339][809]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.40.20:339][809]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.20:339][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.20:343][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-11.40.20:346][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.20:350][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.40.20:351][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.01-11.40.20:351][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.01-11.40.20:354][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.01-11.40.20:364][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.01-11.40.20:444][810]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.04.01-11.40.30:798][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.01-11.40.31:626][766]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-11.40.31:634][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.40.31:716][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.40.31:749][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.04.01-11.40.31:772][766]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.40.31:775][766]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark1CDE437C4B3217BC2977AABA331A3199.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.40.31:787][766]LogFileHelpers: Saving map 'SkatePark' took 0.071
+[2024.04.01-11.40.31:793][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 4.59 sec)
+[2024.04.01-11.40.31:795][766]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.40.31:796][766]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.40.38:777][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-11.40.38:790][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-11.40.38:790][458]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 5:40:38 AM)
+[2024.04.01-11.40.38:790][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.40.38:797][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007112s)
+[2024.04.01-11.40.38:797][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.007148s)
+[2024.04.01-11.40.38:801][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.01-11.40.38:802][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.38:802][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.40.38:803][458]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.40.38:803][458]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2024.04.01-11.40.38:803][458]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-11.40.38:803][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-11.40.38:803][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-11.40.38:804][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-11.40.38:804][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-11.40.38:804][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-11.40.38:807][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-11.40.38:901][458]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-11.40.38:901][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-11.40.38:901][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-11.40.38:901][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-11.40.38:902][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.01-11.40.38:902][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.01-11.40.38:905][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.01-11.40.38:905][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.01-11.40.38:905][458]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.01-11.40.38:905][458]LogAudio: Display: Audio Device (ID: 3) registered with world 'SkatePark'.
+[2024.04.01-11.40.38:905][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.01-11.40.38:909][458]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-11.40.38:912][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-08.40.38
+[2024.04.01-11.40.38:912][458]LogWorld: Bringing up level for play took: 0.003328
+[2024.04.01-11.40.38:915][458]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.04.01-11.40.38:916][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.01-11.40.38:918][458]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_ThirdPersonCharacter_C]
+[2024.04.01-11.40.38:918][458]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.04.01-11.40.38:919][458]PIE: Server logged in
+[2024.04.01-11.40.38:920][458]PIE: Play in editor total start time 0.131 seconds.
+[2024.04.01-11.40.42:419][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.40.42:419][806]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.40.42:419][806]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.42:420][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.42:424][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-11.40.42:426][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.42:431][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-11.40.42:431][806]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.01-11.40.42:431][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.01-11.40.42:434][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.01-11.40.42:442][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.40.42:445][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.01-11.40.42:539][807]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.04.01-11.40.50:067][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.53:454][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.01-11.40.53:601][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.53:602][754]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Empty.Empty
+[2024.04.01-11.40.53:602][754]Cmd: MAP LOAD FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/Empty.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.01-11.40.53:603][754]LightingResults: New page: Lighting Build
+[2024.04.01-11.40.53:605][754]LoadErrors: New page: Loading map: Empty.umap
+[2024.04.01-11.40.53:647][754]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.53:647][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.53:647][754]MapCheck: New page: Map Check
+[2024.04.01-11.40.53:647][754]LightingResults: New page: Lighting Build
+[2024.04.01-11.40.53:651][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-11.40.53:655][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.01-11.40.53:657][754]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.53:657][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.53:664][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.01-11.40.53:668][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.01-11.40.53:676][754]LogAudio: Display: Audio Device (ID: 1) registered with world 'Empty'.
+[2024.04.01-11.40.53:676][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.53:676][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.40.53:677][754]LogAIModule: Creating AISystem for world Empty
+[2024.04.01-11.40.53:715][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.01-11.40.53:721][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.01-11.40.53:732][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.01-11.40.53:732][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2024.04.01-11.40.55:029][890]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-11.40.55:042][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-11.40.55:042][890]PIE: New page: PIE session: Empty (Apr 1, 2024, 5:40:55 AM)
+[2024.04.01-11.40.55:078][890]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-11.40.55:080][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001375s)
+[2024.04.01-11.40.55:080][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Empty.Empty to /Game/Maps/UEDPIE_0_Empty.Empty (0.001415s)
+[2024.04.01-11.40.55:084][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.01-11.40.55:087][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.55:087][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.40.55:088][890]LogAIModule: Creating AISystem for world Empty
+[2024.04.01-11.40.55:088][890]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2024.04.01-11.40.55:088][890]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.01-11.40.55:088][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-11.40.55:088][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-11.40.55:088][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-11.40.55:089][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-11.40.55:089][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-11.40.55:089][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-11.40.55:089][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-11.40.55:089][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-11.40.55:089][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-11.40.55:089][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-11.40.55:089][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-11.40.55:092][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-11.40.55:181][890]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-11.40.55:182][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-11.40.55:182][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-11.40.55:182][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-11.40.55:183][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.01-11.40.55:183][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.01-11.40.55:185][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.01-11.40.55:185][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.01-11.40.55:185][890]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.01-11.40.55:185][890]LogAudio: Display: Audio Device (ID: 4) registered with world 'Empty'.
+[2024.04.01-11.40.55:185][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.01-11.40.55:188][890]LogLoad: Game class is 'GM_Menu_C'
+[2024.04.01-11.40.55:188][890]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Empty.Empty up for play (max tick rate 0) at 2024.04.01-08.40.55
+[2024.04.01-11.40.55:189][890]LogWorld: Bringing up level for play took: 0.000382
+[2024.04.01-11.40.55:191][890]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.01-11.40.55:193][890]PIE: Server logged in
+[2024.04.01-11.40.55:194][890]PIE: Play in editor total start time 0.152 seconds.
+[2024.04.01-11.40.56:460][ 30]LogNet: Browse: /Game/Maps/SkatePark
+[2024.04.01-11.40.56:460][ 30]LogLoad: LoadMap: /Game/Maps/SkatePark
+[2024.04.01-11.40.56:460][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Empty
+[2024.04.01-11.40.56:461][ 30]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.56:461][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.56:512][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-11.40.56:513][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.01-11.40.56:525][ 30]LogAudio: Display: Audio Device (ID: 4) registered with world 'SkatePark'.
+[2024.04.01-11.40.56:525][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.40.56:525][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.40.56:526][ 30]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.40.56:526][ 30]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2024.04.01-11.40.56:526][ 30]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-11.40.56:532][ 30]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-08.40.56
+[2024.04.01-11.40.56:532][ 30]LogWorld: Bringing up level for play took: 0.006017
+[2024.04.01-11.40.56:533][ 30]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.01-11.40.56:534][ 30]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_ThirdPersonCharacter_C]
+[2024.04.01-11.40.56:535][ 30]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.04.01-11.40.56:535][ 30]LogLoad: Took 0.075109 seconds to LoadMap(/Game/Maps/SkatePark)
+[2024.04.01-11.40.58:189][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.40.58:189][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.40.58:189][204]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.40.58:190][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.58:194][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-11.40.58:197][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.40.58:200][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.40.58:200][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.01-11.40.58:200][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.01-11.40.58:203][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.01-11.40.58:214][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.01-11.40.58:295][206]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.01-11.41.03:666][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.01-11.41.03:778][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.03:784][818]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.41.03:785][818]Cmd: MAP LOAD FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.01-11.41.03:785][818]LightingResults: New page: Lighting Build
+[2024.04.01-11.41.03:785][818]LoadErrors: New page: Loading map: SkatePark.umap
+[2024.04.01-11.41.03:824][818]LogWorld: UWorld::CleanupWorld for Empty, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.41.03:824][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.41.03:824][818]MapCheck: New page: Map Check
+[2024.04.01-11.41.03:824][818]LightingResults: New page: Lighting Build
+[2024.04.01-11.41.03:828][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-11.41.03:830][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.01-11.41.03:832][818]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.41.03:832][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.41.03:836][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.01-11.41.03:840][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.01-11.41.03:848][818]LogAudio: Display: Audio Device (ID: 1) registered with world 'SkatePark'.
+[2024.04.01-11.41.03:848][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.03:848][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.41.03:849][818]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.41.03:932][818]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.01-11.41.03:939][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.01-11.41.03:948][818]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.01-11.41.03:949][818]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
+[2024.04.01-11.41.11:423][528]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.01-11.41.13:900][771]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.01-11.41.14:850][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.04.01-11.41.15:638][855]LogSlate: Window 'Save Content' being destroyed
+[2024.04.01-11.41.15:648][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.41.15:730][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.41.15:763][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.04.01-11.41.15:786][855]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.41.15:789][855]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark696C0390490BA75F6F978D8681095CAB.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.41.15:802][855]LogFileHelpers: Saving map 'SkatePark' took 0.071
+[2024.04.01-11.41.15:809][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 4.75 sec)
+[2024.04.01-11.41.15:811][855]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.41.15:811][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.41.18:690][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.18:757][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.18:763][118]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_0
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0204
+[2024.04.01-11.41.18:763][118]LogScript: Warning: Accessed None
+	ABP_Character_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_0
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:0219
+[2024.04.01-11.41.18:763][118]LogScript: Warning: Accessed None trying to read property BP_ActorRef
+	ABP_Character_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Character_C_0
+	Function /Game/Blueprints/Character/ABP_Character.ABP_Character_C:ExecuteUbergraph_ABP_Character:02DB
+[2024.04.01-11.41.20:205][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Character/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-11.41.20:206][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.20:206][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.41.20:216][238]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.01-11.41.21:107][238]LogSlate: Took 0.001359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.01-11.41.21:324][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.22:468][362]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-11.41.22:498][362]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.01-11.41.22:498][362]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.01-11.41.22:498][362]LogBlueprint: Warning: [AssetLog] C:\Users\ISILV125\Documents\Unreal Projects\Skateboarding\Content\Blueprints\Character\ABP_Character.uasset: [Compiler] Node  Result  uses potentially thread-unsafe call  Get CharacterMovement . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2024.04.01-11.41.22:586][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.01-11.41.25:329][639]LogViewport: Scene viewport resized to 1140x663, mode Windowed.
+[2024.04.01-11.41.27:823][861]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-11.41.27:838][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-11.41.27:838][861]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 5:41:27 AM)
+[2024.04.01-11.41.27:868][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.41.27:875][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006637s)
+[2024.04.01-11.41.27:875][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.006675s)
+[2024.04.01-11.41.27:889][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.01-11.41.27:891][861]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.41.27:891][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.41.27:892][861]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.41.27:892][861]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2024.04.01-11.41.27:892][861]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-11.41.27:892][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-11.41.27:892][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-11.41.27:893][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-11.41.27:893][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-11.41.27:893][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-11.41.27:896][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-11.41.27:980][861]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-11.41.27:980][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-11.41.27:980][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-11.41.27:980][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-11.41.27:981][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.01-11.41.27:981][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.01-11.41.27:983][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.01-11.41.27:983][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.01-11.41.27:983][861]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.01-11.41.27:983][861]LogAudio: Display: Audio Device (ID: 5) registered with world 'SkatePark'.
+[2024.04.01-11.41.27:983][861]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.01-11.41.27:986][861]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-11.41.27:989][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-08.41.27
+[2024.04.01-11.41.27:989][861]LogWorld: Bringing up level for play took: 0.002911
+[2024.04.01-11.41.27:992][861]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.01-11.41.27:992][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.01-11.41.27:994][861]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_ThirdPersonCharacter_C]
+[2024.04.01-11.41.27:994][861]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.04.01-11.41.27:995][861]PIE: Server logged in
+[2024.04.01-11.41.27:996][861]PIE: Play in editor total start time 0.158 seconds.
+[2024.04.01-11.42.09:559][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.42.09:560][783]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.42.09:560][783]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.42.09:561][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.42.09:564][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-11.42.09:570][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.42.09:580][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.42.09:580][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.01-11.42.09:580][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.01-11.42.09:583][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.01-11.42.09:595][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.01-11.42.09:664][784]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.01-11.42.22:071][902]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/hangar/hangar.hangar
+[2024.04.01-11.42.22:156][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.42.22:156][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.42.22:722][902]LogViewport: Scene viewport resized to 832x538, mode Windowed.
+[2024.04.01-11.42.32:737][498]LogSlate: Window 'hangar' being destroyed
+[2024.04.01-11.42.32:818][498]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.42.32:818][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.42.35:020][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.42.35:121][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.42.35:179][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.01-11.42.35:213][703]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.42.35:217][703]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkCC47B4AF41123F5817552CA3C853B843.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.42.35:234][703]LogFileHelpers: Saving map 'SkatePark' took 0.113
+[2024.04.01-11.42.35:243][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 4.97 sec)
+[2024.04.01-11.42.35:245][703]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.42.35:245][703]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.42.38:222][994]Cmd: EDIT CUT
+[2024.04.01-11.42.38:226][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.01-11.42.38:243][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.01-11.42.38:245][994]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.04.01-11.42.39:428][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-11.42.39:444][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-11.42.39:444][107]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 5:42:39 AM)
+[2024.04.01-11.42.39:444][107]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.42.39:451][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007016s)
+[2024.04.01-11.42.39:451][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.007055s)
+[2024.04.01-11.42.39:467][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.01-11.42.39:470][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.42.39:470][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.42.39:470][107]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.42.39:471][107]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2024.04.01-11.42.39:471][107]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-11.42.39:471][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-11.42.39:471][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-11.42.39:471][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-11.42.39:472][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-11.42.39:472][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-11.42.39:475][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-11.42.39:571][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-11.42.39:572][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-11.42.39:572][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-11.42.39:572][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-11.42.39:573][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.01-11.42.39:573][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.01-11.42.39:575][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.01-11.42.39:575][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.01-11.42.39:575][107]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.01-11.42.39:575][107]LogAudio: Display: Audio Device (ID: 6) registered with world 'SkatePark'.
+[2024.04.01-11.42.39:575][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.01-11.42.39:578][107]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-11.42.39:581][107]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-08.42.39
+[2024.04.01-11.42.39:582][107]LogWorld: Bringing up level for play took: 0.003188
+[2024.04.01-11.42.39:584][107]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.01-11.42.39:588][107]PIE: Server logged in
+[2024.04.01-11.42.39:589][107]PIE: Play in editor total start time 0.147 seconds.
+[2024.04.01-11.42.40:958][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.42.40:959][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.42.40:959][219]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.42.40:959][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.42.40:963][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-11.42.40:969][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.42.40:983][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.42.40:984][219]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.01-11.42.40:984][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.01-11.42.40:986][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.01-11.42.40:998][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.01-11.42.41:044][220]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.01-11.42.43:839][504]Cmd: TRANSACTION UNDO
+[2024.04.01-11.42.43:839][504]LogEditorTransaction: Undo Cut
+[2024.04.01-11.42.45:074][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.42.45:173][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.42.45:225][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.01-11.42.45:257][570]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.42.45:261][570]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkateParkBFF8EB4F44BD9C8741713EA25D97A87C.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.42.45:276][570]LogFileHelpers: Saving map 'SkatePark' took 0.104
+[2024.04.01-11.42.45:286][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 5.18 sec)
+[2024.04.01-11.42.45:287][570]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.42.45:287][570]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.42.54:489][335]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/hangar/hangar.hangar
+[2024.04.01-11.42.54:556][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.42.54:556][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.42.55:145][335]LogViewport: Scene viewport resized to 832x538, mode Windowed.
+[2024.04.01-11.43.11:551][331]LogViewport: Scene viewport resized to 830x561, mode Windowed.
+[2024.04.01-11.43.11:570][332]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-11.43.12:081][382]LogSlate: Window 'hangar' being destroyed
+[2024.04.01-11.44.16:243][336]Cmd: MODE GRID=0
+[2024.04.01-11.45.21:416][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.45.21:517][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/hangar/hangar" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/hangar/hangar.uasset" SILENT=true
+[2024.04.01-11.45.21:537][283]LogSavePackage: Moving output files for package: /Game/meshes/hangar/hangar
+[2024.04.01-11.45.21:539][283]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/hangarC4BFBD614FB2BB2C0129E39BA450302D.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/hangar/hangar.uasset'
+[2024.04.01-11.45.21:547][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 5.32 sec)
+[2024.04.01-11.45.21:548][283]AssetCheck: New page: Asset Save: hangar
+[2024.04.01-11.45.21:548][283]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/hangar/hangar.hangar
+[2024.04.01-11.45.54:764][481]Cmd: MODE SCALEGRID=0
+[2024.04.01-11.47.12:459][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.47.12:556][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/hangar/hangar" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/hangar/hangar.uasset" SILENT=true
+[2024.04.01-11.47.12:567][784]LogSavePackage: Moving output files for package: /Game/meshes/hangar/hangar
+[2024.04.01-11.47.12:569][784]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/hangar3FB07E764269D3A476726DBD4E101270.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/hangar/hangar.uasset'
+[2024.04.01-11.47.12:577][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 5.43 sec)
+[2024.04.01-11.47.12:579][784]AssetCheck: New page: Asset Save: hangar
+[2024.04.01-11.47.12:579][784]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/hangar/hangar.hangar
+[2024.04.01-11.47.13:908][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.47.13:987][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/hangar/hangar" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/hangar/hangar.uasset" SILENT=true
+[2024.04.01-11.47.13:997][942]LogSavePackage: Moving output files for package: /Game/meshes/hangar/hangar
+[2024.04.01-11.47.14:000][942]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/hangar95CBAD654B551093F9E1F8B204E9F25B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/hangar/hangar.uasset'
+[2024.04.01-11.47.14:007][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.53 sec)
+[2024.04.01-11.47.14:008][942]AssetCheck: New page: Asset Save: hangar
+[2024.04.01-11.47.14:008][942]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/hangar/hangar.hangar
+[2024.04.01-11.47.17:421][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-11.47.17:432][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-11.47.17:432][279]PIE: New page: PIE session: SkatePark (Apr 1, 2024, 5:47:17 AM)
+[2024.04.01-11.47.17:432][279]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.47.17:437][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005251s)
+[2024.04.01-11.47.17:437][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SkatePark.SkatePark to /Game/Maps/UEDPIE_0_SkatePark.SkatePark (0.005288s)
+[2024.04.01-11.47.17:452][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.01-11.47.17:454][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.47.17:455][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.47.17:455][279]LogAIModule: Creating AISystem for world SkatePark
+[2024.04.01-11.47.17:455][279]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2024.04.01-11.47.17:455][279]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.01-11.47.17:455][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-11.47.17:456][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-11.47.17:456][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-11.47.17:456][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-11.47.17:456][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-11.47.17:456][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-11.47.17:456][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-11.47.17:456][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-11.47.17:456][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-11.47.17:456][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-11.47.17:456][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-11.47.17:459][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-11.47.17:526][279]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-11.47.17:527][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-11.47.17:527][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-11.47.17:527][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-11.47.17:527][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.01-11.47.17:527][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.01-11.47.17:530][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.01-11.47.17:530][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.01-11.47.17:530][279]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.01-11.47.17:530][279]LogAudio: Display: Audio Device (ID: 7) registered with world 'SkatePark'.
+[2024.04.01-11.47.17:530][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.01-11.47.17:532][279]LogLoad: Game class is 'GM_MainGameMode_C'
+[2024.04.01-11.47.17:535][279]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SkatePark.SkatePark up for play (max tick rate 0) at 2024.04.01-08.47.17
+[2024.04.01-11.47.17:535][279]LogWorld: Bringing up level for play took: 0.002405
+[2024.04.01-11.47.17:537][279]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.01-11.47.17:541][279]PIE: Server logged in
+[2024.04.01-11.47.17:542][279]PIE: Play in editor total start time 0.11 seconds.
+[2024.04.01-11.47.50:537][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.47.50:537][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SkatePark
+[2024.04.01-11.47.50:537][387]LogWorld: UWorld::CleanupWorld for SkatePark, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-11.47.50:538][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.47.50:541][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-11.47.50:545][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-11.47.50:554][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-11.47.50:555][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.01-11.47.50:555][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.01-11.47.50:557][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.01-11.47.50:563][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-11.47.50:566][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.01-11.47.50:633][388]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.01-11.48.00:544][330]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.48.00:550][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-11.48.00:550][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-11.48.01:016][330]LogViewport: Scene viewport resized to 1285x902, mode Windowed.
+[2024.04.01-11.48.22:171][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.48.22:244][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/metalSheet/mp-20" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset" SILENT=true
+[2024.04.01-11.48.22:249][516]LogSavePackage: Moving output files for package: /Game/meshes/metalSheet/mp-20
+[2024.04.01-11.48.22:251][516]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/mp-204FF661E647D7FB66E3CF6A984CAED85B.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/meshes/metalSheet/mp-20.uasset'
+[2024.04.01-11.48.22:258][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.62 sec)
+[2024.04.01-11.48.22:259][516]AssetCheck: New page: Asset Save: mp-20
+[2024.04.01-11.48.22:259][516]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/meshes/metalSheet/mp-20.mp-20
+[2024.04.01-11.48.38:046][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-11.48.38:119][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SkatePark" FILE="../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.01-11.48.38:160][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.01-11.48.38:184][112]LogSavePackage: Moving output files for package: /Game/Maps/SkatePark
+[2024.04.01-11.48.38:187][112]LogSavePackage: Moving '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Saved/SkatePark01D28B494180623F971F41B535C5AD91.tmp' to '../../../../../../Users/ISILV125/Documents/Unreal Projects/Skateboarding/Content/Maps/SkatePark.umap'
+[2024.04.01-11.48.38:198][112]LogFileHelpers: Saving map 'SkatePark' took 0.080
+[2024.04.01-11.48.38:204][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 5.78 sec)
+[2024.04.01-11.48.38:205][112]AssetCheck: New page: Asset Save: SkatePark
+[2024.04.01-11.48.38:206][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SkatePark.SkatePark
+[2024.04.01-11.48.40:332][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
